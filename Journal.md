@@ -710,7 +710,7 @@ When the teacher opens the door to replenish the prizes.
 - How the door can withstand wear and tear
 - Whether the door can withstand physical impacts
 
-**Maintainability **
+**Maintainability**
 
 - How easy it is to maintain/fix the door
 - How easy it is to clean the window
