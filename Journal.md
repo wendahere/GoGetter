@@ -370,19 +370,21 @@ When students redeem experience based prizes (flag raising, prefect experience),
 5. Claim Rewards
 
 
-**Different tiers of rewards **
+**Different tiers of rewards**
 
 - Tier 1 is 40 pts, tier 2 is 70, tier 3 is 100
 - There are prizes worth more than 100 pts, but not displayed in cabinet
 - Principal club worth 500 pts
 
 **Class system**
+
 - Prizes redeemed from various tiers, would give students a number of tokens/coins, where the amount of tokens given corresponds to the tier of prizes redeemed from
 - Class system prizes won’t be dispensed by the vending machine
 - Experience based prizes are given in the form of a voucher
 - They buy the cheapest prizes possible
 
 **Things to note**
+
 - 100 staff (each of them have a stamp at all times)
 - 400 students
 - Probably need spares of stamps/cards
@@ -396,10 +398,384 @@ When students redeem experience based prizes (flag raising, prefect experience),
 **Things to do**
 
 - Do Gantt Chart
-- Proposal to GOS 2nd week of october (5/10/20 - 9/10/20)
+- Proposal to GOS 2nd week of October 2020 (5/10/20 - 9/10/20)
+
+## Week 3 (27/09/2020 to 03/10/2020) 
+
+We did concept selection for functions followed by weighted concept selection on those functions that had multiple functions that were desirable. We ended up combining a few functions together.  We also went to visit shops selling mechanical parts during the weekend to further narrow down our concept selections.
+
+###**On 28/09/2020 - Team meeting 2 (10:00am)**
+
+Below is the explanation for selection criteria and explanation for each function.
+
+##Concept selection
+
+###**Points identification Function**
+
+Identifying and tabulating the accumulated points of the students and issuance of leftover points (if necessary).
+
+**Security**
+
+- How easy it is to scam the system
+- Ease of use (students)
+- How easy it is for students to present the cards for point counting
+- Ease of use (teachers)
+- Issuance of points to the students
+
+**Reliability**
+
+- Longevity of cards
+- Accuracy of point detection and tabulation
+- Feeding of cards into machine should not jam
+- Lifespan of components (nfc reader, led, camera)
+
+**Implementability**
+
+- How easy for us to change from the current system to the new system
+- If we need to add in additional functions such as hole stamping mechanism, printer etc.
+
+**Maintainability**
+
+- How easy to keep the entire system running
+- How easy for GOS to repair and upkeep
+
+**Cost to implement**
+
+- How much does it cost to change from the current system
+- Component cost (camera, lights)
+- Material costs
+- Cost to operate (for GOS)
+- Replacement of marking devices (stamps, hole punch)
+- Replacement of cards (paper or plastic NFC cards)
 
 
-field research
-Using Threaded Rod/Lead screw, 10mm OD, 2mm approx $2.50 each, stainless steel $10
-Either cut into length and weld hexagon at one end or simply have a fixed nut in the frame to make the rod modular
-Using springs, must be custom-made, 1 week lead time, approx $25 each, cost will go down for more quantity requested
+**Issuance of replacement cards**
+
+- How easy it is to issue cards with the calculated excess points
+- Space required to build the system
+
+##**Input Function**
+
+- For students to select the prizes they want.
+- Durability
+- Whether it can resist being tampered with
+- Physical impact
+- Weather resistance	
+
+**Ease of use**
+
+- How easy it is for students to select a prize (User interface/experience)
+
+**Reliability**
+
+- Longevity of components
+- Will it last in two years time?
+
+**Maintenance**
+
+- How easy it is for teachers to maintain the system
+- Cost to replace/upkeep
+
+**Implementability**
+
+- How easy it is to implement
+- Sensory Feedback
+- System is able to tell users good job on earning the points etc
+
+
+**Visual Feedback**
+
+- Whether users can see how much points are left
+- Cost 
+- Cost to implement the system
+
+**Prize Dispensing Function**
+
+- The mechanism that dispenses/delivers the selected prizes
+
+**Storage Volume**
+
+- Number of prizes each chamber in the system can hold
+- Variety of Prize
+- Number of variety of prizes the system can dispense 
+- Different shapes and sizes
+- Empty Chamber Detection
+- Whether system can determine if a prize slot is empty
+
+
+**Reliability of components**
+
+- Longevity of components
+- Will it last in two years time?
+- Will components break down/apart during operation
+- Will the motors/gears jam/grind (Mechanical failure)
+-Reliability of dispensing
+- Whether prize will get stuck
+- While dispensing
+- While falling down
+- Will the prizes break/get crushed
+- While dispensing 
+- While falling down
+
+
+**Speed of Retrieval**
+
+- Speed to dispense a prize
+
+
+**Implementability**
+
+- How easy it is to implement
+- How much programming is required
+
+
+**Ease of Replenishing**
+
+- How easy it is for teachers to put new prizes
+- Whether prepwork needs to be done before replenishing the prize
+
+
+**User Experience for students**
+
+- Experience of students when prize is being dispensed
+- Fun factor when prize is being dispensed
+
+
+**Maintainability**
+
+- How easy it is for teachers to maintain the system
+- Cost to replace/upkeep 
+- Fix the system if failure occurs
+
+
+**Cost**
+
+- Cost to implement the system
+
+##**Prize Collection Function**
+
+The location in which the students reach out and retrieve/grab their dispensed prizes
+
+**Security**
+
+- Whether user can steal prizes
+
+
+**Ease of use**
+
+- How easy it is for users to collect the prizes
+- Opening of doors
+- Whether or not the collection point is intuitive (User-friendly)
+
+**Reliability**
+
+- Whether system will jam
+
+**Longevity of components**
+
+- Whether students can interfere with the sensors 
+- Durability
+- Longevity of components
+- Will it last in two years time?
+- Will the door get jammed?
+
+
+**Safety**
+
+- Will user get harmed when collecting prizes
+
+
+**Maintainability**
+
+- How easy it is for teachers to fix the collection function (eg door jammed)
+
+**Implementability**
+
+- How easy it is to implement 
+
+
+**Feedback**
+
+- Will users know if the prize has fallen down
+- Audio or visual cue
+
+
+**Cost**
+
+- Cost to implement the system
+
+
+##**Token Dispensing Function**
+
+The mechanism that delivers the class tokens to students based on the level of prizes redeemed.
+
+**Prepwork**
+
+- How much prepwork is required to dispense the tokens
+
+**Collection of token**
+
+- How easy it is for students to collect the tokens
+- Intuitiveness for token collection
+
+**Reliability**
+
+- Whether token will get stuck/lost
+- Risk of giving out the wrong number of token
+
+**Replensing **
+
+- How easy it is for teachers to replenish the tokens
+
+**Maintainability**
+
+- How easy it is for teachers to fix the token dispensing function (token get stuck)
+
+**Implementability**
+
+- How easy it is to implement 
+
+**Speed of Dispensing**
+
+- Whether user has to wait for prize to be dispensed for token to be dispensed etc
+
+**Cost**
+
+- Cost to implement
+- Cost to operate
+
+##**Security Function**
+
+How the door will stay closed.
+
+**Ease of use**
+
+- How easy it is for teachers to unlock and lock
+- Any work is required prior (Registering biometric lock)
+
+**Reliability**
+
+- How reliable is the lock 
+- During power failure
+
+**Durability**
+
+- How long the components can last
+- Integrity of the lock
+
+**Implementability**
+
+- How easy it is to implemented
+
+**Maintainability**
+
+- How easy it is to fix the lock (due to tamper/wear and tear)
+- How easy it is to replace the lock
+
+**Security**
+
+- Whether the lock can be tampered with/forced open
+- Whether lock can be picked/code guessed
+- Unauthorized opening
+- Whether key can be lost
+
+**Cost**
+
+- Cost to implement/maintain
+
+##**Door Function**
+
+When the teacher opens the door to replenish the prizes.
+
+**Safety**
+
+- While opening will it hit anyone
+- Pinch points (places where the finger will get stuck and injured/pinch)
+
+**Ease of use**
+
+- How easy to open/close the door
+- How easy it is to leave the door open
+
+**Reliability**
+
+- How long can the door last without being replaced
+
+**Durability**
+
+- How the door can withstand wear and tear
+- Whether the door can withstand physical impacts
+
+**Maintainability **
+
+- How easy it is to maintain/fix the door
+- How easy it is to clean the window
+
+**Implementability**
+
+- How feasible is the fabrication of the door
+
+**Cost**
+- Cost to buy the door
+- Cost of components (hinges etc)
+- Cost to install the door
+
+##**Storage Function**
+The compartment where the dispensing mechanism is mounted/located.
+
+**Storage size**
+
+- How big it is
+- Modularity
+- Whether the storage can be modular
+- Ability to preload the storage cartridge 
+- How to integrate with the dispensing system
+
+**Ease of use**
+
+- Ease of accessing the dispensing system to replenish the prizes
+- Structural integrity 
+- Wear and tear (fatigue stress)
+- Sturdiness (How solid it is)
+- How much load it can take
+
+**Maintainability**
+
+- How easy it is to maintain/fix the storage function
+
+**Safety**
+
+- Whether the whole drawer will drop out
+
+**Cost**
+
+- Cost of maintenance
+- Cost to buy components
+- Cost to install
+
+
+###Prototype to make (Before GOS Meeting) 
+Decided functions (Please refer to concept selection excel)
+
+- Points ID function - design B
+- Input function - design C (backup D)
+- Prize dispensing function - design E (backup B)
+- Prize collection function - design E (backup C+D)
+- Token dispensing function - design B (Tape and bag) 
+- Security function -TBC
+- Door function - design B
+- Storage function - TBC
+
+
+
+##Field research
+
+We went to hardware shops around 28 Kelantan Lane and around Blk 802 French Road to look at components and check prices.
+
+For Threaded Rod/Lead screw, 10mm OD, 2mm approx $2.50 each, stainless steel $10.
+Suggestion is to either cut into length and weld hexagon at one end or simply have a fixed nut in the frame to make the rod modular.
+
+For springs, must be custom-made, 1 week lead time, approx $25 each, cost will go down for more quantity requested.
+
+We also looked at hinges and drawer holder sliders etc.
+
