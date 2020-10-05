@@ -627,7 +627,7 @@ The mechanism that delivers the class tokens to students based on the level of p
 - Whether token will get stuck/lost
 - Risk of giving out the wrong number of token
 
-**Replensing **
+**Replensing**
 
 - How easy it is for teachers to replenish the tokens
 
