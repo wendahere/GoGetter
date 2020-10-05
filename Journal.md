@@ -311,7 +311,9 @@ Other ideas:
 
 ## Week 2 (20/09/2020 to 26/09/2020) 
 
+
 ###24/09/2020 - Site visit 1 to GOS
+
 We had a site visit to Grace Orchard School. Below are minutes of the meeting:
 
 **Target Audience**
@@ -404,13 +406,15 @@ When students redeem experience based prizes (flag raising, prefect experience),
 
 We did concept selection for functions followed by weighted concept selection on those functions that had multiple functions that were desirable. We ended up combining a few functions together.  We also went to visit shops selling mechanical parts during the weekend to further narrow down our concept selections.
 
-###**On 28/09/2020 - Team meeting 2 (10:00am)**
+###On 28/09/2020 - Team meeting 2 (10:00am)
 
 Below is the explanation for selection criteria and explanation for each function.
 
+
 ##Concept selection
 
-###**Points identification Function**
+
+###Points identification Function
 
 Identifying and tabulating the accumulated points of the students and issuance of leftover points (if necessary).
 
@@ -454,7 +458,7 @@ Identifying and tabulating the accumulated points of the students and issuance o
 - How easy it is to issue cards with the calculated excess points
 - Space required to build the system
 
-##**Input Function**
+##Input Function
 
 - For students to select the prizes they want.
 - Durability
@@ -552,7 +556,7 @@ Identifying and tabulating the accumulated points of the students and issuance o
 
 - Cost to implement the system
 
-##**Prize Collection Function**
+##Prize Collection Function
 
 The location in which the students reach out and retrieve/grab their dispensed prizes
 
@@ -605,7 +609,7 @@ The location in which the students reach out and retrieve/grab their dispensed p
 - Cost to implement the system
 
 
-##**Token Dispensing Function**
+##Token Dispensing Function
 
 The mechanism that delivers the class tokens to students based on the level of prizes redeemed.
 
@@ -644,7 +648,7 @@ The mechanism that delivers the class tokens to students based on the level of p
 - Cost to implement
 - Cost to operate
 
-##**Security Function**
+##Security Function
 
 How the door will stay closed.
 
@@ -683,7 +687,7 @@ How the door will stay closed.
 
 - Cost to implement/maintain
 
-##**Door Function**
+##Door Function
 
 When the teacher opens the door to replenish the prizes.
 
@@ -720,7 +724,8 @@ When the teacher opens the door to replenish the prizes.
 - Cost of components (hinges etc)
 - Cost to install the door
 
-##**Storage Function**
+##Storage Function
+
 The compartment where the dispensing mechanism is mounted/located.
 
 **Storage size**
