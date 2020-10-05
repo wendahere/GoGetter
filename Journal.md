@@ -771,11 +771,115 @@ Decided functions (Please refer to concept selection excel)
 - Door function - design B
 - Storage function - TBC
 
+### 02/10/2020 - Team Meeting 3 (10:00am)
+
+We had meeting with Mr Soh, our supervisor.
+
+Most likely using PLC. Mdm Ho is familiar with the product. 
+IA lecturer not familiar with that PLC. Can forget about the IOT component. 
+
+Max is $1800 budget. 
+
+
+**Gantt Chart** 
+
+- No exam
+- Specification is the main feature of product such as motor power, overall length, width, weight, dimensions, microprocessor etc.
+-Material listing and Bill of Material
+	- Material purchases is what we plan to buy
+	- Material listing can ignore
+- Fabrication procedure only required if fabrication in house, sub-contracted don't need to do, only need drawings
+
+**Concept Selection**
+
+- Name can change, once look at name must understand purpose
+- Point Identification name has to change
+- Input Function name don't like
+- Prize collection function change to Collection Function 
+- Prize Dispensing change to Dispensing Function
+- Good to have sketches or images
+- Can do sketches if pictures not clear for function images
+
+**When pitching idea to stakeholder**
+
+- Write simple write-up
+- Do not explain everything to them 
+- Do not have to show and explain concept selection
+	- They are not interested
+- Write up Interim report 
+- Can do digital prototype first rather than physical prototype
+- Selected functions should have clear picture in the presentation slides
+- Describe feature by feature by combing through the prototype
+
+**Description to explain why functions are rejected**
+
+Can use concept selection ranking to say, low rank, thus reject.
+
+Regarding Project Code, Mr Soh need to check his computer, will be given later
+Next meeting should have some CAD to show overall idea
+
+### Report
+
+- Should write stakeholder names
+
+**Methodology**
+
+- Guided by CDIO framework
+- Explain each CDIO meaning
+	- C - to find out user need, what the team hope to develop
+	- D - understand technical constraints, desirability of user and come up with technical features/product specs
+	- I -  Fabrication of parts and testing of final product
+	- O - Deliver product to stakeholder and receive feedback, construct user menu
+
+
+**Conceiving the Project (2.1)**
+
+- Mention, project initiated by GOS, field study was planned and based on findings the team start to ideate and come up with new ideas for subsequent designs
+
+- Mention somewhere that we had project brief to come up with many concepts, outcome of research will be validated with field trip
+
+**Regarding sponsorship**
+
+- Tell them purpose of writing
+- Doing good cause, completed artifacts will be given to this org
+- Will appreciate if you donate some of parts to some of the projects
+- Can put company logo on the frame as form of appreciation
+- List down benefit for them
+
+
+We can go straight to the D phase in CDIO. 
+
+Start with calculations, some are to be done later, e.g. weight. Do power calculations. 
+Can estimate force and benchmark based on current product. Size the bearings, must have housing for it, for easy mounting. 
+
+Look at spiral mechanism, do they require bearing or cantilever. Can write to temasek foundation
+
+**In 2 weeks time**
+- Prepare an interim report, up to no. 2.5 in report 
+- CAD structures to show full structure
+- Current report can be used as an interim report 
+- Do not need to have acknowledgment etc, straight to write up
+
+
+By the next meeting, how many sensors do we need, and how many input and output do we require. Want to hear more on logic side, think that hardware side is okay.
+
+
+**During weekends:**
+
+Reynard: look into PLC, for more signal type (because we are bounded by number of I/O ports)
+
+Wen Da: Look electrical portion, matrix wiring, how to get more out of the I/O ports, 
+weekly journal 
+try to find standard part for coils/lead screws (OK), 
+For matrix wiring, mosfet has to be used for negative side of wiring
+
+
+Allen: Planning of design
 
 
 ## Field research
 
-We went to hardware shops around 28 Kelantan Lane and around Blk 802 French Road to look at components and check prices.
+During the weekends, we went to hardware shops around 28 Kelantan Lane and around Blk 802 French Road to look at components and check prices.
 
 For Threaded Rod/Lead screw, 10mm OD, 2mm approx $2.50 each, stainless steel $10.
 Suggestion is to either cut into length and weld hexagon at one end or simply have a fixed nut in the frame to make the rod modular.
