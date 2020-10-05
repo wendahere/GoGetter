@@ -876,6 +876,7 @@ For matrix wiring, mosfet has to be used for negative side of wiring
 
 Allen: Planning of design
 
+All: Edit the report and insert images
 
 ## Field research
 
@@ -899,3 +900,7 @@ Drawer Slide:
 
 Hinges:
 ![hinges](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/1F619059-F7A6-46DF-B79C-113D8C1F0664.jpg)
+
+## Week 4 (04/10/2020 to 10/10/2020) 
+
+We have decided to use RasberryPi after much discussion, due to the limitation in I/O ports in PLC. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches. Wen Da is working on the Journal and will focus on the power calculations.
