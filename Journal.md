@@ -911,3 +911,6 @@ We decided to use a Power Supply Unit (PSU), rated AC input 220v +-15%, DC Outpu
 
 Below is image of circuit sketch.
 ![sketch](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/circuit%20sketch.JPG)
+
+Image of PSU we are using:
+![PSU](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/psu3.JPG)
