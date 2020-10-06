@@ -870,7 +870,7 @@ Reynard: look into PLC, for more signal type (because we are bounded by number o
 
 Wen Da: Look electrical portion, matrix wiring, how to get more out of the I/O ports, 
 weekly journal 
-try to find standard part for coils/lead screws (OK), 
+try to find standard part for coils/lead screws, 
 For matrix wiring, mosfet has to be used for negative side of wiring
 
 
@@ -903,8 +903,11 @@ Hinges:
 
 ## Week 4 (04/10/2020 to 10/10/2020) 
 
+### Monday 5/10/2020
+
 We have decided to use RaspberryPi after much discussion, due to the limitation in I/O ports in PLC. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches. Wen Da is working on the Journal and will focus on the power calculations.
 
+### Tuesday 6/10/2020
 Allen used Inventor to draw out the 3D prototype. Wen Da did circuit drawings. 
 
 We decided to use a Power Supply Unit (PSU), rated AC input 220v +-15%, DC Output 12v, 15A. Since the RaspberryPi only requires 5v and about 2A max input, we are able to step down the 12V to 5V using a 7805 transistor. We are also putting a fuse at 12v (from PSU) side connected to the stepper motor driver. There is no fuse at the 5v RaspberryPi as the fuse has an extremely low chance to be blown. We are also putting capacitor in parallel at 12v and 5v from the PSU. We are using 24v rated capacitor at the 12v side and 10v rated capacitor at the 5v side. It is standard practice to double the capacitor size of voltage required.
