@@ -917,3 +917,16 @@ Below is image of circuit sketch.
 
 Image of PSU we are using:
 ![PSU](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/psu3.JPG)
+
+### Wednesday 7/10/2020
+Allen and Reynard worked together to laser cut and 3D print to fabricate first prototype.
+Wen Da worked more on circuit. We tested the 7805 transistor using a power supply to check that it is working. Wen Da soldered the working 7805 on a copper stripboard with red and black wires to connect the PSU to the RaspberryPi. 
+
+We are considering on using a Single Pole Double Throw Relay to reduce the amounts of stepper motor drivers required to cut down on cost.
+
+Testing of 7805 transistor (12v from power supply step down to 5v)
+![transtest](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/transistortest.PNG)
+
+Soldered Stripboard
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/stripboard.JPG)
