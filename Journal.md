@@ -924,6 +924,10 @@ Wen Da worked more on circuit. We tested the 7805 transistor using a power suppl
 
 We are considering on using a Single Pole Double Throw Relay to reduce the amounts of stepper motor drivers required to cut down on cost.
 
+This is how the circuit will look like:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/SPDT.JPG)
+
 Testing of 7805 transistor (12v from power supply step down to 5v)
 ![transtest](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/transistortest.PNG)
 
