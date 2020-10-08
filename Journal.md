@@ -942,4 +942,15 @@ Soldered Stripboard
 
 Wen Da drew out circuit diagram for having Double Pole, Double Throw Relay (DPDT). After much consultation with electrical experts, we decided to use one fuse (about 10-12A) after the PSU steps down from 220v to 12v. This is because there is a fuse at the plug for the PSU. After stepping down, only 1 fuse is required. There is no need for each stepper motor to have it's own fuse.
 
-![DPDT](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/WithDPDT.JPG)
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/WithDPDT.JPG)
+
+We used Arduino to test the stepper motor as the Pi was very difficult and required more time. We followed this site 
+[https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/](https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/ "Guide Link")
+
+![aa](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/teststepper.JPG)
+
+The circuit worked well initially but then white smoke starting to form near the motor driver. It turned out that the capacitor was placed in the wrong polarity. The capacitor was burnt, this was checked by using a Digital Multimeter, setting to resistance and having 0 resistance showed that the capacitor is burnt.
+
+After changing the capacitor, the stepper is moving accordingly to the code. We measured the amperage of the entire circuit. This was done by setting the Multimeter to ampere and putting the pins parallel to the power supply. The total draw was 1.25mA. The current draw from the A4988 stepper driver is 0.38mA. However, the draw from the stepper motor is not 12.5mA minus 0.38mA as there was no load on the stepper while it was operating. In order to find out the max current draw, we have to put on the max load required.
+
+After installing the
