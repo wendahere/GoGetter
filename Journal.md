@@ -958,3 +958,5 @@ After installing the threaded road (load), we tested the current draw and it was
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/withload.JPG)
 
 However, for power calculation, we have to use Max Load, which is the Rated Value given. This is in case anything unexpected happens, such as sudden reversing, will require the rated value.
+
+#Assembly of prototype, keypad, monitor etc
