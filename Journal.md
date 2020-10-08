@@ -956,3 +956,5 @@ After changing the capacitor, the stepper is moving accordingly to the code. We 
 After installing the threaded road (load), we tested the current draw and it was the same. This is because the load is not very high, thus the current draw remained the same.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/withload.JPG)
+
+However, for power calculation, we have to use Max Load, which is the Rated Value given. This is in case anything unexpected happens, such as sudden reversing, will require the rated value.
