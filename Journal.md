@@ -953,4 +953,6 @@ The circuit worked well initially but then white smoke starting to form near the
 
 After changing the capacitor, the stepper is moving accordingly to the code. We measured the amperage of the entire circuit. This was done by setting the Multimeter to ampere and putting the pins parallel to the power supply. The total draw was 1.25mA. The current draw from the A4988 stepper driver is 0.38mA. However, the draw from the stepper motor is not 12.5mA minus 0.38mA as there was no load on the stepper while it was operating. In order to find out the max current draw, we have to put on the max load required.
 
-After installing the
+After installing the threaded road (load), we tested the current draw and it was the same. This is because the load is not very high, thus the current draw remained the same.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/withload.JPG)
