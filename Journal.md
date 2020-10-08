@@ -934,3 +934,12 @@ Testing of 7805 transistor (12v from power supply step down to 5v)
 Soldered Stripboard
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/stripboard.JPG)
+
+(insert allen/reynard prototyping part)
+
+
+### Wednesday 7/10/2020
+
+Wen Da drew out circuit diagram for having Double Pole, Double Throw Relay (DPDT). After much consultation with electrical experts, we decided to use one fuse (about 10-12A) after the PSU steps down from 220v to 12v. This is because there is a fuse at the plug for the PSU. After stepping down, only 1 fuse is required. There is no need for each stepper motor to have it's own fuse.
+
+![DPDT](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/WithDPDT.JPG)
