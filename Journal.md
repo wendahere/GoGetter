@@ -903,6 +903,10 @@ Hinges:
 
 ## Week 4 (04/10/2020 to 10/10/2020) 
 
+## Summary
+
+Confirmed RaspberryPi as microcontroller. Finished cardboard prototype. Made a 12v to 5v voltage regulator. Talking to a company called ShiokPizza for sponsorship and learning from their machines with a site visit. Meeting with Mr Soh on Friday.
+
 ### Monday 5/10/2020
 
 We have decided to use RaspberryPi after much discussion, due to the limitation in I/O ports in PLC. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches. Wen Da is working on the Journal and will focus on the power calculations.
@@ -940,10 +944,21 @@ Soldered Stripboard
 
 ### Wednesday 7/10/2020
 
-Wen Da drew out circuit diagram for having Double Pole, Double Throw Relay (DPDT). After much consultation with electrical experts, we decided to use one fuse (about 10-12A) after the PSU steps down from 220v to 12v. This is because there is a fuse at the plug for the PSU. After stepping down, only 1 fuse is required. There is no need for each stepper motor to have it's own fuse.
+Wen Da drew out circuit diagram for having Double Pole, Double Throw Relay (DPDT). After much consultation with electrical experts, we decided to use one fuse (about 10-12A) after the PSU steps down from 220v to 12v. This is because there is a fuse at the plug for the PSU. After stepping down, only 1 fuse is required. There is no need for each stepper motor to have it's own fuse. Afterwards, Wen Da went Sim Lim Tower to buy fuse holder, fuses and 4 pin wire. Wen Da also sent out emails for sponsorships.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/WithDPDT.JPG)
 
+Allen and Reynard laser cut cardboard for the prototype. We then glued and assembled the prototype. 
+Reynard 3D printed the parts for the prototype.
+
+1st design of the collection point didn’t work - cuz the linkages 
+
+## put images
+
+
+### Thursday 8/10/2020
+
+Wen Da sent out more sponsorship emails.
 We used Arduino to test the stepper motor as the Pi was very difficult and required more time. We followed this site 
 [https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/](https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/ "Guide Link")
 
@@ -960,3 +975,143 @@ After installing the threaded road (load), we tested the current draw and it was
 However, for power calculation, we have to use Max Load, which is the Rated Value given. This is in case anything unexpected happens, such as sudden reversing, will require the rated value.
 
 #Assembly of prototype, keypad, monitor etc
+
+### Friday 9/10/2020
+
+We had a reply for the sponsorship email from a company called ShiokPizza.
+
+##09/10/2020 - Team meeting 7 (10:00am)
+We met up with Mr Soh to go through our prototype.
+
+Use lead screws from misumi, more course, more expensive but larger gaps.
+
+Changed from controller PLC to Pi.
+
+Don’t have to show 3D CAD model, show prototype as we have done it. 
+
+Can claim money if any used for prototype. 
+
+Can be more hardy string such as nylon. Plastic string, fishing line can consider. String must be robust. How they attach the prize must think through, everything must be fuss free. 
+
+Limitation in how much prizes GOS can hang.
+
+Have to prescribe where they can hang the prizes. Have drop sensor to make prize dispenser more foolproof. Can use proximity sensor. 
+
+## Going through function by function:
+Have to change function names.
+ 
+### Points ID: 
+
+Prototype don’t have. Mr Soh likes the idea of RFID slot for students to locate where to put the card. 
+
+LED will change color after points deducted.
+
+### Input Function: 
+
+Keypad, Prize is labeled. 
+
+Press which prize desired. What happens when anyhow type? 
+
+Must have some logic, enter and backspace.
+
+### Prize Dispensing function: 
+
+Stepper drive lead screw. 
+
+Good to have support (bearing). Have to see real size if it works. 
+
+Lead screw is heavy.
+
+Maintenance, have to remove coupling, have to consider.
+
+### Storage function: 
+
+Use drawer to pull out to restock. Intend to have 3 tiers for 3 tiers of prizes. Should fix it for them, number of tiers.
+
+Must have features to make it easy to pull out.
+
+Wheel and rail is good, standard part is good. 
+
+Must be limit on how far drawer can be pulled, must put a stopper. 
+
+May consider straighten steel, weld to make drawer. Allen’s labeling as pull out is good as it is highly integrated. 
+
+Must have good housing for all the wires, as there will be many wires. Try to be neat for maintenance. Try to be like Steve Jobs, even if can’t see, have to be neat.
+
+### Prize Collection: 
+
+Using 3 Bar linkage (Considered 4 bar linkage concept). 
+
+Collection have to be with the door. 
+
+It is good as it is highly integrated. Drop sensor can put on the wall, does not have to be on the door. 
+
+Depending on what material we choose, the door will cost quite a lot of money. 
+Prize collection will have funnel to ensure accurate dropping into collection.
+
+### Coin dispensing: 
+
+Bag prize with coin is good.
+
+Sensory feedback: Can put speakers, low cost. 
+
+Reminder to do BOM. Listen to stakeholder first before doing the BOM and standard parts.
+
+### Security: 
+
+Have T handle lock.
+Can use bigger hinges. If got budget, can buy aluminium profile hindge to buy as standard accessories. Can go to machine design center (AMC) see their industrial hinges. 
+Possible to use door hindge.
+
+
+### Extra:
+
+Cantilever design, might be too heavy. Consider them by using string, can have many types of prizes, shapes etc.
+
+Sheet metal bending might be expensive depending on design. Better to be flat. Everytime metal is bending, it will stiffen. 
+
+Glass cover will use either poly-carbonate or plexiglass. 
+
+If sheet metal is flimsy, can do welding along the breath side. 
+
+Thickness of sheet metal not considered yet. Steel hollow tube along the frame welded. Make frame out of hollow tube (eg. table legs) don’t have to use sheet metal. Have quarter inch of hollow tube is enough. 
+
+If don’t mind having nut sticking out, can use acorn nut or rivets. 
+
+
+
+If got money, can everything use aluminum.
+
+Can put flagging, to tell computer if a row is depleting. 
+
+### Sponsor: 
+
+Break down of expenses. Write down now much money we request. Then remaining money we will consult the sponsors on what to do.
+
+### For presentation: 
+
+Let them see the actual moving, see the drop of the prize. 
+
+Most important to show the functions. 
+
+Have more drawers to show array of 3 by 3. 
+
+Like idea of making keypad written GOS. Prototype don’t need cover on top.
+
+Don’t need powerpoint slides, show and tell is enough. If some concepts cannot show, presentation slides can show. 
+
+We let GOS confirm functions first, fabrication let supplier quote. Possible to bend metal to not have hollow tube but still will be flimsy, prefer to have supports. 
+
+##Sponsorship 
+
+Wen Da talked to ShiokPizza. They are willing to support us as they have supported SP Business School in the past. They are very open to let us visit and learn. We are planning to visit their premises and learn from their machines. Getting money will be secondary. They asked if we are building from scratch or building from a current model. As we are doing as a FYP, we are building the vending machine from scratch.
+
+## Progress
+
+Wen Da and Reynard finished up soldering the Voltage Regulator. As the specified capacitor was not available, we decided to use higher capacitance.
+
+![voltageregu](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/12vto5vwithcap.JPG)
+
+We tested the Voltage Regulator and it is working as intended. The 12v supply will be regulated to 5v for the controller.
+
+![test](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/7805test.JPG)
