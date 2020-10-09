@@ -2,6 +2,7 @@ This markdown file is used to record weekly progress for Grace Orchard School Ve
 
 ## Week 0 (31/08/20 to 13/09/20)
 
+
 On 02/09/2020 Meeting with project supervisor, Mr Soh for Project Kick Off, on Microsoft teams, at 19:40.
 
 The budget was set to $1700. We settled admin matter. We were tasked to come up with questions to ask Grace Orchard School (GOS). Mr Soh preferred using more Robust programming such as micro PLC, rather than using Arduino which is less reliable. 
