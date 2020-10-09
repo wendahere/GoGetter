@@ -1116,3 +1116,5 @@ Wen Da and Reynard finished up soldering the Voltage Regulator. As the specified
 We tested the Voltage Regulator and it is working as intended. The 12v supply will be regulated to 5v for the controller.
 
 ![test](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/7805test.JPG)
+
+hi allen
