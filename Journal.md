@@ -763,7 +763,7 @@ Decided functions (Please refer to concept selection excel)
 - Points ID function - design B
 - Input function - design C (backup D)
 - Prize dispensing function - design E (backup B)
-- Prize collection function - design E (backup C+D)
+- Prize collection function - design C+D (backup E)
 - Token dispensing function - design B (Tape and bag) 
 - Security function -TBC
 - Door function - design B
@@ -922,10 +922,13 @@ Layout planning for the vending machine:
 Different designs of the NFC card reader:
 ![Card reader](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20reader.jpg)
 
-Different views of the prize dispensing function
+Different views of the prize dispensing function:
 ![Dispensing](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing.jpg)
 
 ![Dispensing 2](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%202.jpg) 
+
+Prize collection function:
+![Prize collection](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection.jpg)
 
 #### Dirty Prototype
 
@@ -937,7 +940,7 @@ Dirty prototype:
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg" alt="DP_internals"  width="50%" height="50%">
 
-#### Door
+#### Door Design
 
  
 
@@ -960,17 +963,19 @@ Since we decided to use lead screw/threaded rod for our dispensing mechanism, we
 	- ![Design 1](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%201.jpg)
 	- To connect 2 shafts together with a coupling, the connecting end of the shafts normally needs to be machined flat so that there is enough surface area for the set screw in the coupling to tightly secure the shafts to it
 	-  However we do not want to do any additional machining because it wouldn't be easy for GOS to replicate the process, and we want the maintainence for them to be as easy as possible
-	-  This could be a potential issue if we just secure the set screw to the threads of the lead screw/threaded rod, because without enough grip, overtime, due to vibration and rotation, the screw will be undone and the stepper won't be able to drive the lead screw/threaded rod
+	-  There could be a potential issue if we just connect the lead screw/threaded rod to the coupling directly, as  the set screw in the coupling may not have enough points of contact with the threads of the lead screw/threaded rod, and without enough grip, the connection may come lose in the future due to continuous rotation and vibration of the motor
+	-  This happens to be the cheapest option compared to the other two
 - Design 2: Use a stepper motor that comes installed with a lead screw  
 	- ![Design 2]()
-	- s
+	- This design is the easiest to implement, as there is already a lead screw in the stepper motor, the motor just needs to be secured to a housing
+	- Unfortunately, this kind of stepper motor is expensive, and given our limited budget, we will not be able to afford much motors, thus limiting the variety of prizes that will be dispensed
 - Design 3: Using 2 gears, a driving gear connected to the stepper motor, and a driven gear connected to the lead screw/ threaded rod
 	- ![Design 3](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%203.jpg)
-	- s
+	- 
 
 Allen approached Mr Edward Tay, a SP lecturer who mainly teaches the practical lessons of design and build, a year 2 mechanical engineering module, to consult about the three designs for our dispensing mechanism. 
 
-Conclusion
+After taking careful consideration on 
 
 #### 3D CAD 
 
@@ -992,7 +997,6 @@ Testing of 7805 transistor (12v from power supply step down to 5v)
 Soldered Stripboard
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/stripboard.JPG" alt="soldered stripboard" width="577" height="262">
-![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/stripboard.JPG)
 
 (insert allen/reynard prototyping part)
 
@@ -1014,7 +1018,12 @@ During assembly, we realised that there was a major flaw in our design.
 
 ### Thursday 8/10/2020
 
+#### Sponsorships
+As the allocated funds for our project is limited, we needed to be resourceful 
 Wen Da sent out more sponsorship emails.
+
+#### Testing the stepper motor
+
 We used Arduino to test the stepper motor as the Pi was very difficult and required more time. We followed this site 
 [https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/](https://howtomechatronics.com/tutorials/arduino/how-to-control-stepper-motor-with-a4988-driver-and-arduino/ "Guide Link")
 
