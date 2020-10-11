@@ -937,6 +937,8 @@ Dirty prototype:
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg)
 
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg" alt="DP_internals" height="50%">
+
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg" alt="DP_internals" style="height: 50%;">
 
 ### Tuesday 6/10/2020
