@@ -912,6 +912,8 @@ After much discussion, we have decided to use a RasberryPi as the controller of 
 #### Concpet Sketches
 
 Allen
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Layout%20planning.jpg" alt="test" width="100" height="100">
 ![Layout planning](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Layout%20planning.jpg)
 ![Card reader](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20reader.jpg)
 ![Prize collection](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection.jpg)
