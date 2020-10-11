@@ -958,8 +958,9 @@ Since we decided to use lead screw/threaded rod for our dispensing mechanism, we
 
 - Design 1: Connecting the lead screw/threaded rod to stepper motor using a coupling
 	- ![Design 1](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%201.jpg)
-	- To connecting 2 shafts together with a coupling, the connecting end of the shafts normally needs to be machined flat so that there is enough surface area for the set screw in the coupling to tightly secure the shafts to it
-	-  
+	- To connect 2 shafts together with a coupling, the connecting end of the shafts normally needs to be machined flat so that there is enough surface area for the set screw in the coupling to tightly secure the shafts to it
+	-  However we do not want to do any additional machining because it wouldn't be easy for GOS to replicate the process, and we want the maintainence for them to be as easy as possible
+	-  This could be a potential issue if we just secure the set screw to the threads of the lead screw/threaded rod, because without enough grip, overtime, due to vibration and rotation, the screw will be undone and the stepper won't be able to drive the lead screw/threaded rod
 - Design 2: Use a stepper motor that comes installed with a lead screw  
 	- ![Desing 2]()
 - Design 3: Using 2 gears, a driving gear connected to the stepper motor, and a driven gear connected to the lead screw/ threaded rod
