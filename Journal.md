@@ -933,7 +933,7 @@ A shoebox was used to make a dirty prototype of the vending machine, it helped t
 
 Dirty prototype:
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_external%201.jpg" alt="DP_external" width="50%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals%20(empty).jpg" alt="DP_internals(empty)" width="50%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_external%201.jpg" alt="DP_external" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals%20(empty).jpg" alt="DP_internals(empty)" width="49%">
 
 ![DP_internals](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg)
 
