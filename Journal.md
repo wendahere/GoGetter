@@ -907,16 +907,25 @@ Confirmed RaspberryPi as microcontroller. Finished cardboard prototype. Made a 1
 
 ### Monday 5/10/2020
 
-We have decided to use RaspberryPi after much discussion, due to the limitation in I/O ports in PLC. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches and a made a dirty prototype. Wen Da is working on the Journal and will focus on the power calculations.
+After much discussion, we have decided to use a RasberryPi as the controller of our vending machine instead of a PLC, this is because given our limited budget, the PLC we could afford has too little I/O ports. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches and a made a dirty prototype. Wen Da is working on the Journal and will focus on the power calculations.
 
 #### Concpet Sketches
 
-Allen 
+Allen
+![Layout planning](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Layout%20planning.jpg)
+![Card reader](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20reader.jpg)
+![Prize collection](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection.jpg)
+![Dispensing design](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20assembly.jpg)
+![Dispensing](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing.jpg)
+![Dispensing 2](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%202.jpg) 
 
 #### Dirty Prototype
 
-A shoebox was made into a dirty prototype to help visualise where the different components will be located, and how will they be physically mounted on to the body of the vending machine. This is a quick, easy and inexpensive way for us to see whether the design ideas we decided during the conceive stage will be feasible.
- 
+A shoebox was used to make a dirty prototype of the vending machine, it helped to visualise where the different components will be located, and how will they be physically mounted on to the body of the vending machine. This is a quick, easy and inexpensive way for us to see whether the design ideas we decided during the conceive stage will be feasible.
+
+![DP_external 1](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_external%201.jpg)
+![DP_internals(empty)](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals%20(empty).jpg)
+![DP_internals](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg)
 
 ### Tuesday 6/10/2020
 Allen used Inventor to draw out the 3D prototype. Wen Da did circuit drawings. 
@@ -928,6 +937,9 @@ Below is image of circuit sketch.
 
 Image of PSU we are using:
 ![PSU](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/psu3.JPG)
+
+#### Inventor CAD
+
 
 ### Wednesday 7/10/2020
 Allen and Reynard worked together to laser cut and 3D print to fabricate first prototype.
