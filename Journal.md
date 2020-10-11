@@ -962,10 +962,11 @@ Since we decided to use lead screw/threaded rod for our dispensing mechanism, we
 	-  However we do not want to do any additional machining because it wouldn't be easy for GOS to replicate the process, and we want the maintainence for them to be as easy as possible
 	-  This could be a potential issue if we just secure the set screw to the threads of the lead screw/threaded rod, because without enough grip, overtime, due to vibration and rotation, the screw will be undone and the stepper won't be able to drive the lead screw/threaded rod
 - Design 2: Use a stepper motor that comes installed with a lead screw  
-	- ![Desing 2]()
+	- ![Design 2]()
+	- s
 - Design 3: Using 2 gears, a driving gear connected to the stepper motor, and a driven gear connected to the lead screw/ threaded rod
 	- ![Design 3](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%203.jpg)
-	- 
+	- s
 
 Allen approached Mr Edward Tay, a SP lecturer who mainly teaches the practical lessons of design and build, a year 2 mechanical engineering module, to consult about the three designs for our dispensing mechanism. 
 
@@ -990,6 +991,7 @@ Testing of 7805 transistor (12v from power supply step down to 5v)
 
 Soldered Stripboard
 
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/stripboard.JPG" alt="soldered stripboard" width="577" height="262">
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/stripboard.JPG)
 
 (insert allen/reynard prototyping part)
