@@ -903,11 +903,20 @@ Hinges:
 
 ## Summary
 
-Confirmed RaspberryPi as microcontroller. Finished cardboard prototype. Made a 12v to 5v voltage regulator. Talking to a company called ShiokPizza for sponsorship and learning from their machines with a site visit. Meeting with Mr Soh on Friday.
+Confirmed RaspberryPi as microcontroller. Finished cardboard prototype. Made a 12v to 5v voltage regulator. Talked to a company called ShiokPizza for sponsorship and to learn from their machines with a site visit. Meeting with Mr Soh on Friday.
 
 ### Monday 5/10/2020
 
-We have decided to use RaspberryPi after much discussion, due to the limitation in I/O ports in PLC. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches. Wen Da is working on the Journal and will focus on the power calculations.
+We have decided to use RaspberryPi after much discussion, due to the limitation in I/O ports in PLC. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches and a made a dirty prototype. Wen Da is working on the Journal and will focus on the power calculations.
+
+#### Concpet Sketches
+
+Allen 
+
+#### Dirty Prototype
+
+A shoebox was made into a dirty prototype to help visualise where the different components will be located, and how will they be physically mounted on to the body of the vending machine. This is a quick, easy and inexpensive way for us to see whether the design ideas we decided during the conceive stage will be feasible.
+ 
 
 ### Tuesday 6/10/2020
 Allen used Inventor to draw out the 3D prototype. Wen Da did circuit drawings. 
