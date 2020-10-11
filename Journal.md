@@ -935,6 +935,8 @@ Dirty prototype:
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_external%201.jpg" alt="DP_external" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals%20(empty).jpg" alt="DP_internals(empty)" width="49%">
 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg)
+
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg" alt="DP_internals" height="10%">
 
 ### Tuesday 6/10/2020
