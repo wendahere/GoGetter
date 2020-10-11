@@ -81,7 +81,7 @@ The purpose of the vending machine is to reward students for good behavior.
 
 - Feedback, recommendation for maintenance Deliver the product and receive feedback from employer for improvement
 
-**BOM**
+**Bill of Material(BOM)**
 
 - Determine number of parts, and ALL must be PROPERLY documented in the BOM
 - Everything designed must have a number (part number) [in running order refer to BOM template]
@@ -340,9 +340,6 @@ We had a site visit to Grace Orchard School. Below are minutes of the meeting:
 - If using NFC cards
 - Cards have their own digital footprint/identification
 - Show their own history (accumulation/reduction of points for prize redemption)
-
-
-
 - Visual feedback preferred
 Tokens/coins for class system are dispensed together with the prizes
 When students redeem experience based prizes (flag raising, prefect experience), teachers are to be informed
