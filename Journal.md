@@ -935,7 +935,11 @@ Dirty prototype:
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_external%201.jpg" alt="DP_external" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals%20(empty).jpg" alt="DP_internals(empty)" width="49%">
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg" alt="DP_internals"  width="50%" height="50%" style="display:block; margin-left:auto; margin-right:auto">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg" alt="DP_internals"  width="50%" height="50%">
+
+#### Door
+
+ 
 
 ### Tuesday 6/10/2020
 Allen used Inventor to draw out the 3D prototype. Wen Da did circuit drawings. 
@@ -948,8 +952,27 @@ Below is image of circuit sketch.
 Image of PSU we are using:
 ![PSU](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/psu3.JPG)
 
-#### Inventor CAD
+#### Dispensing mechanism
 
+Since we decided to use lead screw/threaded rod for our dispensing mechanism, we need to know how the mechanism would work. After some research, we came out with 3 designs.
+
+- Design 1: Connecting the lead screw/threaded rod to stepper motor using a coupling
+	- ![Design 1](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%201.jpg)
+	- To connecting 2 shafts together with a coupling, the connecting end of the shafts normally needs to be machined flat so that there is enough surface area for the set screw in the coupling to tightly secure the shafts to it
+	-  
+- Design 2: Use a stepper motor that comes installed with a lead screw  
+	- ![Desing 2]()
+- Design 3: Using 2 gears, a driving gear connected to the stepper motor, and a driven gear connected to the lead screw/ threaded rod
+	- ![Design 3](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%203.jpg)
+	- 
+
+Allen approached Mr Edward Tay, a SP lecturer who mainly teaches the practical lessons of design and build, a year 2 mechanical engineering module, to consult about the three designs for our dispensing mechanism. 
+
+Conclusion
+
+#### 3D CAD 
+
+After finalising the key things 
 
 ### Wednesday 7/10/2020
 Allen and Reynard worked together to laser cut and 3D print to fabricate first prototype.
@@ -984,6 +1007,7 @@ Reynard 3D printed the parts for the prototype.
 
 ## put images
 
+During assembly, we realised that there was a major flaw in our design. 
 
 ### Thursday 8/10/2020
 
