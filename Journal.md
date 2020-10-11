@@ -957,7 +957,7 @@ Image of PSU we are using:
 
 #### Dispensing mechanism
 
-Since we decided to use lead screw/threaded rod for our dispensing mechanism, we need to know how the mechanism would work. After some research, we came out with 3 designs.
+Since we decided to use lead screw/threaded rod for our dispensing mechanism, we need to know how the mechanism would work. After conducting some research, we came out with 3 designs.
 
 - Design 1: Connecting the lead screw/threaded rod to stepper motor using a coupling
 	- ![Design 1](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%201.jpg)
@@ -971,11 +971,19 @@ Since we decided to use lead screw/threaded rod for our dispensing mechanism, we
 	- Unfortunately, this kind of stepper motor is expensive, and given our limited budget, we will not be able to afford much motors, thus limiting the variety of prizes that will be dispensed
 - Design 3: Using 2 gears, a driving gear connected to the stepper motor, and a driven gear connected to the lead screw/ threaded rod
 	- ![Design 3](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%203.jpg)
-	- 
+	- This design requires a specially made housing to attach the two gears, and on top of that
 
-Allen approached Mr Edward Tay, a SP lecturer who mainly teaches the practical lessons of design and build, a year 2 mechanical engineering module, to consult about the three designs for our dispensing mechanism. 
+Allen approached Mr Edward Tay, a SP lecturer who mainly teaches the practical lessons of design and build, a year 2 mechanical engineering module, to consult about the three designs for our dispensing mechanism.
 
-After taking careful consideration on 
+For designs 1 and 3, there is the issue of alignment; fortunately for design 1, the use of flexible couplings should compensate any slight misalignments. However, for design 3, the same couldn't be said, because the pitch distance between the driver and driver gear must be carefully calculated to ensure that the teeth of the gears always needs to be engaged with each other to ensure accurate rotation of the lead screw/threaded rod when dispensing. The gear housings need to be manufactured one at a time so there's a chance that the holes for the gears might not be in the same location for each gear housing. Hence, it would take up a lot of time for the manufacture of gear housings if we proceed with design 3.
+
+Mr Edward suggested that if we were to proceed with design 1, there's a way to mitigate the problem of the set screws of the coupling from coming loose due to vibration of the motor. The solution is to stack another screw onto the first screw. This way, it ensures that if the first screw actually comes loose during operation, the second screw is able to prevent it from further unfasten itself. Moreover, if we really want to ensure the screws does not come off, we apply some epoxy to further secure the screws to the coupling. 
+
+Stacking screws
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Stacking%20screws.jpg" alt="stacking screws">
+
+
+After taking the three designs into careful consideration, we decided that we would proceed on design 1. Firstly, it is the most economical option out of the three, we only need stepper motors, couplings, and lead screws/threaded rods. Secondly, it can be easily aligned with the use of flexible couplings, moreover, alignment is not really critical for this function. Thirdly, accurate control of the dispensing motion can be achieved, since  
 
 #### 3D CAD 
 
