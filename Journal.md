@@ -907,26 +907,34 @@ Confirmed RaspberryPi as microcontroller. Finished cardboard prototype. Made a 1
 
 ### Monday 5/10/2020
 
-After much discussion, we have decided to use a RasberryPi as the controller of our vending machine instead of a PLC, this is because given our limited budget, the PLC we could afford has too little I/O ports. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches and a made a dirty prototype. Wen Da is working on the Journal and will focus on the power calculations.
+After much discussion, we have decided to use a RasberryPi as the controller of our vending machine instead of a PLC, this is because given our limited budget, the PLC we could afford has too little I/O ports. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches and a made a dirty prototype. Wen Da is working on the journal and will focus on the power calculations.
+
+After doing further research, we decided to move our focus away from springs for the dispensing mechanism. This is because, we have found out that the springs we need have to be custom manufcatured, which means that they are expensive and not easily obtainable. We didn't want this as we wanted the standard parts that could be easily bought off the shelf, and require little to zero adjustments/machining. This is so, if any part fail during operation, GOS could easily maintain the machines by themselves, by ordering a replacement part online and replacing said part. Therefore, instead of using springs, we decided to switch to either using a threaded rod or lead screw driven by a stepper motor to dispense the prize instead. It still keeps the original design concept (prizes are hooked onto a rod). We also found that it will be easier for GOS to maintain the machine in the long run. Furthermore, the overall cost would be cheaper too. 
 
 #### Concpet Sketches
 
-Allen
+Allen came up with some preliminary sketches on some of the main functions, so that the team have an idea how the final design would potentially look like. 
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Layout%20planning.jpg" alt="test" width="100" height="100">
-![Layout planning](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Layout%20planning.jpg)
+Layout planning for the vending machine:
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Layout%20planning.jpg" alt="Layout planning" style="width:100%; height:100%;">
+
+Different designs of the NFC card reader:
 ![Card reader](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20reader.jpg)
-![Prize collection](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection.jpg)
-![Dispensing design](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20assembly.jpg)
+
+Different views of the prize dispensing function
 ![Dispensing](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing.jpg)
+
 ![Dispensing 2](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%202.jpg) 
 
 #### Dirty Prototype
 
 A shoebox was used to make a dirty prototype of the vending machine, it helped to visualise where the different components will be located, and how will they be physically mounted on to the body of the vending machine. This is a quick, easy and inexpensive way for us to see whether the design ideas we decided during the conceive stage will be feasible.
 
-![DP_external 1](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_external%201.jpg)
-![DP_internals(empty)](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals%20(empty).jpg)
+Dirty prototype:
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_external%201.jpg" alt="DP_external" style="width:49%;">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals%20(empty).jpg" alt="DP_internals(empty)" style="width:49%;">
 ![DP_internals](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg)
 
 ### Tuesday 6/10/2020
