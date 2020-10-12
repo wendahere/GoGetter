@@ -909,8 +909,6 @@ Confirmed RaspberryPi as microcontroller. Finished cardboard prototype. Made a 1
 
 After much discussion, we have decided to use a RasberryPi as the controller of our vending machine instead of a PLC, this is because given our limited budget, the PLC we could afford has too little I/O ports. Reynard has started working on the Pi. Allen has drawn some sketches of the design with concept sketches and a made a dirty prototype. Wen Da is working on the journal and will focus on the power calculations.
 
-After doing further research, we decided to move our focus away from springs for the dispensing mechanism. This is because, we have found out that the springs we need have to be custom manufcatured, which means that they are expensive and not easily obtainable. We didn't want this as we wanted the standard parts that could be easily bought off the shelf, and require little to zero adjustments/machining. This is so, if any part fail during operation, GOS could easily maintain the machines by themselves, by ordering a replacement part online and replacing said part. Therefore, instead of using springs, we decided to switch to either using a threaded rod or lead screw driven by a stepper motor to dispense the prize instead. It still keeps the original design concept (prizes are hooked onto a rod). We also found that it will be easier for GOS to maintain the machine in the long run. Furthermore, the overall cost would be cheaper too. 
-
 #### Concpet Sketches
 
 Allen came up with some preliminary sketches on some of the main functions, so that the team have an idea how the final design would potentially look like. 
@@ -921,6 +919,7 @@ Layout planning for the vending machine:
 
 Different designs of the NFC card reader:
 ![Card reader](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20reader.jpg)
+We decided to go with design 2.
 
 Different views of the prize dispensing function:
 ![Dispensing](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing.jpg)
@@ -951,6 +950,8 @@ From the image above, the blue line represents the different components we have 
 ### Tuesday 6/10/2020
 Allen used Inventor to draw out the 3D prototype. Wen Da did circuit drawings. 
 
+#### Power supply
+
 We decided to use a Power Supply Unit (PSU), rated AC input 220v +-15%, DC Output 12v, 15A. Since the RaspberryPi only requires 5v and about 2A max input, we are able to step down the 12V to 5V using a 7805 transistor. We are also putting a fuse at 12v (from PSU) side connected to the stepper motor driver. There is no fuse at the 5v RaspberryPi as the fuse has an extremely low chance to be blown. We are also putting capacitor in parallel at 12v and 5v from the PSU. We are using 24v rated capacitor at the 12v side and 10v rated capacitor at the 5v side. It is standard practice to double the capacitor size of voltage required.
 
 Below is image of circuit sketch.
@@ -961,7 +962,11 @@ Image of PSU we are using:
 
 #### Dispensing mechanism
 
-Since we decided to use lead screw/threaded rod for our dispensing mechanism, we need to know how the mechanism would work. After conducting some research, we came out with 3 designs.
+After doing further research, we decided to move our focus away from springs for the dispensing mechanism. This is because, we have found out that the springs we need have to be custom manufcatured, which means that they are expensive and not easily obtainable. We didn't want this as we wanted the standard parts that could be easily bought off the shelf, and require little to zero adjustments/machining. This is so, if any part fail during operation, GOS could easily maintain the machines by themselves, by ordering a replacement part online and replacing said part. Therefore, instead of using springs, we decided to switch to either using a threaded rod or lead screw driven by a stepper motor to dispense the prize instead. It still keeps the original design concept (prizes are hooked onto a rod). We also found that it will be easier for GOS to maintain the machine in the long run. Furthermore, the overall cost would be cheaper too.
+
+However, to implement this design, GOS has to compromise, which is to pack the prizes into a bag, and tie it with a string that has a loop at the end, which will be hooked onto the lead screw or threaded rod to be dispensed. The reason why this step is necessary, it's because the threads on the rod are thin and narrow, and if a hook is used, the prizes will easily slide off the rod, should anyone rock and shake the vending machine. Fortunately, this wouldn't be too much additional work for GOS, as they will also need to include the class tokens with the prizes as well. 
+
+As we decided to use lead screw/threaded rod for our dispensing mechanism, we needed to know how the mechanism would work. After conducting some research, we came out with 3 designs.
 
 - Design 1: Connecting the lead screw/threaded rod to stepper motor using a coupling
 	- ![Design 1](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%201.jpg)
@@ -990,9 +995,28 @@ Stacking screws
 
 After taking the three designs into careful consideration, we decided that we would proceed with design 1. Firstly, it is the most economical option out of the three, as we only need stepper motors, couplings, and lead screws/threaded rods. Secondly, it can be easily aligned with the use of flexible couplings, moreover, alignment is not really critical for this function. Thirdly, accurate control of the dispensing motion can be achieved, since the lead scew/threaded rod is installed coaxially to the stepper motor, there is no concern of the gear teeth skipping.
 
+#### Prototype
+
+After finalising what the designs for each function are. We needed to build a prototype and showcase it to GOS, showing them how the final design of the vending machine will look like. This is an important stage, because it is the final stage before we proceed to the final design stage, which includes calculations and material sourcing. Hence, any feedback from them is needed. Some feedback we are looking for are:
+
+1. How user friendly the vending machine is for the staff to operate and for the students to interact?
+2. Do they like the design?  
+3. What are some of the pain points that a staff or student may experience?
+4. What other additions to the machine do they want?
+5. Are the compromises acceptable? (needing them to prepare the prizes beforehand)
+
+The materials that we will mainly be using to build the prototype consists of corugated cardboard (single ply and double ply), PLA 3D printed parts, door hinges, fasteners (scews and nuts), acrylic, and transparency.
+
 #### 3D CAD 
 
-After finalising the key things 
+Allen did the CAD drawings for the prototype in Inventor.  
+
+Body of prototype:
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body%20wireframe.jpg" alt="3D body wirefram" width="49.5%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body.png" alt="3D body" width="50%"> 
+With reference to the diagram on the right, it shows the body of the vending machine. It is split into to compartments, the first compartment houses the dispensing mechanism, storage, and prize collection point, it is covered by the main door, while the other compartment houses all the electrical components, such as wires from the IO door and stepper motors in the dispensing mechanisms, power supply unit, it can also be used to store any specialised tools used to service the vending machine or any spare parts and act as a temporary storage for prizes as well, it is covered by the IO door, where the lock will also be installed on.  
+
+With refernce to the diagram on the left, we can see four blue arrows each pointing at the same extruded features with an array of holes. These features are for us to mount the "slide rails" so that the storage of the dispensing mechanism can slide in and out like a drawer. It is designed this way to emulate what GOS staff will do when they need to replenish the prizes or perform any maintainence work. They can just slide out the dispensing mechansim storage in question, do the relevant work, and slide it back in. There are many holes there because we wanted to show that they have the option to change how far apart they want each storage to be, as some prizes may require a larger space to store. 
 
 ### Wednesday 7/10/2020
 Allen and Reynard worked together to laser cut and 3D print to fabricate first prototype.
