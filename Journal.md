@@ -1196,7 +1196,7 @@ We tested the Voltage Regulator and it is working as intended. The 12v supply wi
 
 ### Monday 12/10/2020
 
-During the weekends, Wen Da learned how to use EAGLE. 
+During the weekends, Wen Da learned how to use EAGLE. Wen Da talked to the sponsor, ShiokPizza and they will be coming on Friday 3pm to take a look at the prototype.
 
 Wen Da did EAGLE schematics for the voltage regulator. 
 
