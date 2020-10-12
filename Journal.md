@@ -1203,3 +1203,10 @@ Wen Da did EAGLE schematics for the voltage regulator.
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/voltageregulator.JPG)
 
 Wen Da wired the stepper motor driver to test the circuit before making the stripboard circuit. However, he plug 12v into 5v. The motor driver burnt and became usable. This is a learning lesson to double check all the wirings before putting power in.
+
+This is the site used for nema 17 guide. [https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/](https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/)
+
+We used a stepper motor driver uln2003 to try. The 5v stepper motor for it works with the code but when changed to the nema 17 motor 12v, it did not work. The driver might not be able power the 12v stepper motor. 
+
+This is the guide used for uln2003 stepper driver.
+[https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/](https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/)
