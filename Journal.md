@@ -942,7 +942,7 @@ Dirty prototype:
 
 #### Door Design
 
- 
+
 
 ### Tuesday 6/10/2020
 Allen used Inventor to draw out the 3D prototype. Wen Da did circuit drawings. 
@@ -967,13 +967,13 @@ Since we decided to use lead screw/threaded rod for our dispensing mechanism, we
 	-  This happens to be the cheapest option compared to the other two
 - Design 2: Use a stepper motor that comes installed with a lead screw  
 	- ![Design 2](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%202.jpg)
-
-
 	- This design is the easiest to implement, as there is already a lead screw in the stepper motor, the motor just needs to be secured to a housing
 	- Unfortunately, this kind of stepper motor is expensive, and given our limited budget, we will not be able to afford much motors, thus limiting the variety of prizes that will be dispensed
 - Design 3: Using 2 gears, a driving gear connected to the stepper motor, and a driven gear connected to the lead screw/ threaded rod
 	- ![Design 3](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%203.jpg)
-	- This design requires a specially made housing to attach the two gears, and on top of that
+	- This design requires a specially made housing to attach the two gears
+	- A problem with this design is that overtime, the gear tooth will experience wear and tear, and eventually some teeth will get worn down making some parts of the gears not able to mesh well together
+	- With this design, there isn't much of a worry that the lead screw/threaded rod will come off easily during operation
 
 Allen approached Mr Edward Tay, a SP lecturer who mainly teaches the practical lessons of design and build, a year 2 mechanical engineering module, to consult about the three designs for our dispensing mechanism.
 
@@ -984,8 +984,7 @@ Mr Edward suggested that if we were to proceed with design 1, there's a way to m
 Stacking screws
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Stacking%20screws.jpg" alt="stacking screws">
 
-
-After taking the three designs into careful consideration, we decided that we would proceed on design 1. Firstly, it is the most economical option out of the three, we only need stepper motors, couplings, and lead screws/threaded rods. Secondly, it can be easily aligned with the use of flexible couplings, moreover, alignment is not really critical for this function. Thirdly, accurate control of the dispensing motion can be achieved, since  
+After taking the three designs into careful consideration, we decided that we would proceed with design 1. Firstly, it is the most economical option out of the three, as we only need stepper motors, couplings, and lead screws/threaded rods. Secondly, it can be easily aligned with the use of flexible couplings, moreover, alignment is not really critical for this function. Thirdly, accurate control of the dispensing motion can be achieved, since the lead scew/threaded rod is installed coaxially to the stepper motor, there is no concern of the gear teeth skipping.
 
 #### 3D CAD 
 
