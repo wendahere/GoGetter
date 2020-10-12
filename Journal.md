@@ -1040,12 +1040,17 @@ The holes in the storage component are to mount the motor and bearing brackets o
 ![Dispensing mech](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20mech.png)
 The above shows the assembly of the dispensing mechanism. The motor and bearing brackets were designed by reynard. The purpose of the motor bracket is to act as a fixture for us to mount our stepper motor on, so that during operation, the motor stays in one place and doesn't shift out of place. While the purpose of the bearing bracket is to house a bearing that would take the rotational load of the lead screw during operation, this is because we do not want the coupling to be taking that load since as the coupling is only needed connect the lead screw/threaded rod to the steper motor shaft.
 
-Motor Bracket
+Motor Bracket - 
 
-<img src="" alt="" width="49%"> <img src="" alt="" width="49%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Motor%20bracket%20back.png" alt="motor bracket back" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Motor%20bracket%20front.png" alt="motor bracket front" width="49%">
 
-Bearing Bracket
+Bearing Bracket - 
 
+![Bearing bracket](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Bearing%20bracket.png)
+
+Assembly of the dispensing mechanism on the storage component -
+ 
+![Dispensing assembly](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20assembly.png)
 
 **Collection point**
 
