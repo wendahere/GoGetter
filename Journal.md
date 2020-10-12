@@ -1190,3 +1190,16 @@ We tested the Voltage Regulator and it is working as intended. The 12v supply wi
 
 ![test](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/7805test.JPG)
 
+## Week 5 (11/10/2020 to 17/10/2020) 
+
+## Summary
+
+### Monday 12/10/2020
+
+During the weekends, Wen Da learned how to use EAGLE. 
+
+Wen Da did EAGLE schematics for the voltage regulator. 
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/voltageregulator.JPG)
+
+Wen Da wired the stepper motor driver to test the circuit before making the stripboard circuit. However, he plug 12v into 5v. The motor driver burnt and became usable. This is a learning lesson to double check all the wirings before putting power in.
