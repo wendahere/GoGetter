@@ -942,7 +942,11 @@ Dirty prototype:
 
 #### Door Design
 
-After settling on a swinging door design, the team have to design how many doors the vending machine will have. Taking
+After settling on a swinging door design, the team has to decide how many doors the vending machine will have. Looking at different vending machine designs, the most common designs are either a two door or a one door design. Seeing how we need to install a screen, keypad and NFC card reader/writer, we decided that a two door design fits best. One will be the main door that covers the storage and prize collection, we call that the main door; while the other door is where our inputs and screen will be installed on, we call that the I/O door. Having a separate I/O door means that the wiring for associated components will be easier as it does not need to go around the whole vending machine body, as compared to if a single door design is employed. To further make sense of this design, the dirty prototype is used, and it helped us to visualise where the potential wiring will be at. 
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20wiring.jpg" width="50%">
+
+From the image above, the blue line represents the different components we have on the I/O door, yellow refers to the microcontroller and its wiring, and green refers to our power supply unit. As we can see, it doesn't require much wire length to connect the microcontroller from the I/O door to the power supply unit.  
 
 ### Tuesday 6/10/2020
 Allen used Inventor to draw out the 3D prototype. Wen Da did circuit drawings. 
