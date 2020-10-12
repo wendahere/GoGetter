@@ -966,7 +966,7 @@ Since we decided to use lead screw/threaded rod for our dispensing mechanism, we
 	-  There could be a potential issue if we just connect the lead screw/threaded rod to the coupling directly, as  the set screw in the coupling may not have enough points of contact with the threads of the lead screw/threaded rod, and without enough grip, the connection may come lose in the future due to continuous rotation and vibration of the motor
 	-  This happens to be the cheapest option compared to the other two
 - Design 2: Use a stepper motor that comes installed with a lead screw  
-	- ![Design 2]()
+	- ![Design 2](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%202.jpg)
 	- This design is the easiest to implement, as there is already a lead screw in the stepper motor, the motor just needs to be secured to a housing
 	- Unfortunately, this kind of stepper motor is expensive, and given our limited budget, we will not be able to afford much motors, thus limiting the variety of prizes that will be dispensed
 - Design 3: Using 2 gears, a driving gear connected to the stepper motor, and a driven gear connected to the lead screw/ threaded rod
