@@ -938,7 +938,7 @@ Dirty prototype:
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_external%201.jpg" alt="DP_external" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals%20(empty).jpg" alt="DP_internals(empty)" width="49%">
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internals.jpg" alt="DP_internals"  width="50%" height="50%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_externalsC.jpg" alt="DP_externalsC"  width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/DP_internalsC.jpg" alt="DP_internalsC" width="49%">
 
 #### Door Design
 
@@ -967,6 +967,8 @@ Since we decided to use lead screw/threaded rod for our dispensing mechanism, we
 	-  This happens to be the cheapest option compared to the other two
 - Design 2: Use a stepper motor that comes installed with a lead screw  
 	- ![Design 2](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Design%202.jpg)
+
+
 	- This design is the easiest to implement, as there is already a lead screw in the stepper motor, the motor just needs to be secured to a housing
 	- Unfortunately, this kind of stepper motor is expensive, and given our limited budget, we will not be able to afford much motors, thus limiting the variety of prizes that will be dispensed
 - Design 3: Using 2 gears, a driving gear connected to the stepper motor, and a driven gear connected to the lead screw/ threaded rod
