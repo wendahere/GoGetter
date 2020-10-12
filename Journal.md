@@ -1058,11 +1058,11 @@ Assembly of the dispensing mechanism on the storage component -
 
 **IO door**
 
-**Screen**
+Screen - 
 
-**NFC reader**
+NFC reader - 
 
-**Keypad**
+Keypad - 
 
 ### Wednesday 7/10/2020
 Allen and Reynard worked together to laser cut and 3D print to fabricate first prototype.
