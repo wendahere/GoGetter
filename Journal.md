@@ -942,7 +942,7 @@ Dirty prototype:
 
 #### Door Design
 
-
+After settling on a swinging door design, the team have to design how many doors the vending machine will have. Taking
 
 ### Tuesday 6/10/2020
 Allen used Inventor to draw out the 3D prototype. Wen Da did circuit drawings. 
