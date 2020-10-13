@@ -990,8 +990,7 @@ For designs 1 and 3, there is the issue of alignment; fortunately for design 1, 
 
 Mr Edward suggested that if we were to proceed with design 1, there's a way to mitigate the problem of the set screws of the coupling from coming loose due to vibration of the motor. The solution is to stack another screw onto the first screw. This way, it ensures that if the first screw actually comes loose during operation, the second screw is able to prevent it from further unfasten itself. Moreover, if we really want to ensure the screws does not come off, we apply some epoxy to further secure the screws to the coupling. 
 
-Stacking screws
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Stacking%20screws.jpg" alt="stacking screws">
+Stacking screws - <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Stacking%20screws.jpg" alt="stacking screws">
 
 After taking the three designs into careful consideration, we decided that we would proceed with design 1. Firstly, it is the most economical option out of the three, as we only need stepper motors, couplings, and lead screws/threaded rods. Secondly, it can be easily aligned with the use of flexible couplings, moreover, alignment is not really critical for this function. Thirdly, accurate control of the dispensing motion can be achieved, since the lead scew/threaded rod is installed coaxially to the stepper motor, there is no concern of the gear teeth skipping.
 
