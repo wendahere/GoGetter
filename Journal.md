@@ -1302,8 +1302,6 @@ In this case, the capacitor acts as a spare battery, having low capacitance, the
 
 Wen Da wired the stripboard and Reynard soldered the wires, A4988 driver and pins on the stripboard.
 
-![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/a4988stripboard.JPG)
-
-![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/a4988back.JPG)
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/a4988stripboard.JPG" alt="a4988back" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/a4988back.JPG" alt="a4988soldered" width="49%">
 
 After testing the stripboard, the stepper motor moves smoothly with the 1000uF capacitor, due to having much higher capacitance, the stepper motor does not jitter step or have much trouble. The dispensing function was ready to be presented.
