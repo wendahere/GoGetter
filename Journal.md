@@ -1007,7 +1007,7 @@ After finalising what the designs for each function are. We needed to build a pr
 4. What other additions to the machine do they want?
 5. Are the compromises acceptable? (needing them to prepare the prizes beforehand)
 
-The materials that we will mainly be using to build the prototype consists of corugated cardboard (single ply and double ply), PLA 3D printed parts, door hinges, fasteners (scews and nuts), acrylic, and transparency.
+The materials that we will mainly be using to build the prototype consists of corugated cardboard (single ply and double ply), PLA 3D printed parts, door hinges, fasteners (scews and nuts), acrylic, paper, and transparency.
 
 #### 3D CAD 
 
@@ -1027,12 +1027,14 @@ With refernce to the diagram on the left, we can see four blue arrows each point
 This is one part of the slide rail that is mounted onto the body using bolts and nuts through the holes.
 
 ![Slide rail A](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Slide%20rail%20A.png)
-This is the other part of the slide rail *(pointed by the red arrows)* that is attached to the storage component where the dispensing mechanism sits on. 
+This shows how it would look like when the slide rail is mounted onto the body. 
 
 **Storage**
 
 ![Dispensing storage](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20storage.png)
-The holes in the storage component are to mount the motor and bearing brackets on it. While the feature pointed by the red arrows are the aforementioned other part of the slide rail that when put on top of the first part of the slide rail, the entire storage component can easily slide in and out like a drawer.
+The holes in the storage component are to mount the motor and bearing brackets on it. While the part pointed by the red arrows are the second part of the slide rail that when we put the storage component on top of the first part of the slide rail, it can easily slide in and out like a drawer.
+
+The part that is pointed by the green arrow serves two purposes. One, it acts as a handle for the staff to grab on, so they can pull the storage out and push it back in. Two, item tags can be put onto it to specify which motor dispenses what item, so that users know what number they should enter on the keypad in order to get their desired prize.
 
 **Dispensing Mechanism**
 
@@ -1081,7 +1083,6 @@ Soldered Stripboard
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/stripboard.JPG" alt="soldered stripboard" width="577" height="262">
 
 (insert allen/reynard prototyping part)
-
 
 ### Wednesday 7/10/2020
 
