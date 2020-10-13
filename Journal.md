@@ -1284,3 +1284,6 @@ We used a stepper motor driver uln2003 to try. The 5v stepper motor for it works
 
 This is the guide used for uln2003 stepper driver.
 [https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/](https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/)
+
+
+### Tuesday 13/10/2020
