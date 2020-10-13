@@ -1287,3 +1287,23 @@ This is the guide used for uln2003 stepper driver.
 
 
 ### Tuesday 13/10/2020
+
+Prototype Prep to present to Grace Orchard School.
+
+Allen focused on finishing up the prototype by adding the transparent component and doing finishing touches.
+
+Reynard brought more A4988 stepper motor drivers. Wen Da wired A4988 circuit.
+
+![a4988 circuit](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/a4988circuit.JPG)
+
+Testing on the breadboard, the stepper motor spun well for awhile. However, the stepper motor started to stutter-step. This meant there might have been a problem with the stepper motor. However, after checking the circuit, Wen Da realised that he put the wrong transistor. He put 47uF instead of 100uF. In theory, putting higher capacitance is better. 
+
+In this case, the capacitor acts as a spare battery, having low capacitance, there is not enough voltage from the capacitor to sent to the motor, resulting in the motor jittering.
+
+Wen Da wired the stripboard and Reynard soldered the wires, A4988 driver and pins on the stripboard.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/a4988stripboard.JPG)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/a4988back.JPG)
+
+After testing the stripboard, the stepper motor moves smoothly with the 1000uF capacitor, due to having much higher capacitance, the stepper motor does not jitter step or have much trouble. The dispensing function was ready to be presented.
