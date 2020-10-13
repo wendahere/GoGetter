@@ -1268,6 +1268,8 @@ We tested the Voltage Regulator and it is working as intended. The 12v supply wi
 
 ## Summary
 
+Finishing touches on the prototype and installing electrical component into the prototype to present to Grace Orchard School. Meeting with GOS this week.
+
 ### Monday 12/10/2020
 
 During the weekends, Wen Da learned how to use EAGLE. Wen Da talked to the sponsor, ShiokPizza and they will be coming on Friday 3pm to take a look at the prototype.
@@ -1288,7 +1290,7 @@ This is the guide used for uln2003 stepper driver.
 
 ### Tuesday 13/10/2020
 
-Prototype Prep to present to Grace Orchard School.
+####Prototype Prep to present to Grace Orchard School.
 
 Allen focused on finishing up the prototype by adding the transparent component and doing finishing touches.
 
