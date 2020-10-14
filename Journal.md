@@ -1136,25 +1136,28 @@ The slide rails is then glued to the base.
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Handle.jpg" alt="Handle" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Handle%20A.jpg" alt="Handle A" width="49%">
 The handle is glued and assembled *(left)*, which is then glued onto the front of the storage component *(right)*. 
 
-<img src
-To ensure the storage component slides smoothly on the slide rail that is mounted on the body, we applied masking tape on the surfaces that comes into contact with each other when it slides in and out.  
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Masking%201.JPG" alt="Masking 1" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Masking%202.jpg" alt="Masking 2" width="49%">
+To ensure the storage component slides smoothly on the slide rail that is mounted on the body, we applied masking tape on the surfaces that comes into contact with each other when it slides in and out.
 
+![Dipsensing mech A](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20mech%20A.jpg)
+The 3D printed parts are assembled next. A bearing is inserted in the bearing bracket *(purple)*; the stepper motor is attached to the motor bracket *(white)*, then they are installed onto the storage component using screws and nuts. The threaded motor is joined to the shaft of the stepper motor with the use of a flexible coupling. The assembly of the dispensing mechanism is now complete.
+
+![Sliding](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Sliding.jpg)
+The storage component can be put into the body by sliding it down the slide rail that was previosuly installed on the body.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Transparency.jpg" alt="Transparency" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Item%20tag.jpg" alt="Item tag" width="49.5%">
+A sheet of transparency is folded into the shape as shown *(left)*. This will be covered on the front part of the storage component so that we can put in the item tags to indicate which stepper motor dispenses which item *(right)*. 
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/OCP1.JPG" alt="OCP1" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/OCP2.JPG" alt="OCP2" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/OCP3.JPG" alt="OCP3" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/OCP4.JPG" alt="OCP4" width="49.5%">
+For the collection point, the collection "wall" is folded, a hinge is attached to the inner flap which is then attached to the collection "wall".
+
+However, while we tried to install it to the body we realised that this design had a major flaw. If we attached the linkages to both the inner flap that is attached to the collection "wall" and the pull flap which is attached to the main door, we will not be able to open the main door at all. As a result of this oversight, we did not continue assembling the rest of the components, so that Allen can make the necessary design changes, and also check if any of the remaining designs require any amendments.
 
 ### Thursday 8/10/2020
 
 Wen Da drew out circuit diagram for having Double Pole, Double Throw Relay (DPDT). After much consultation with electrical experts, we decided to use one fuse (about 10-12A) after the PSU steps down from 220v to 12v. This is because there is a fuse at the plug for the PSU. After stepping down, only 1 fuse is required. There is no need for each stepper motor to have it's own fuse. Afterwards, Wen Da went Sim Lim Tower to buy fuse holder, fuses and 4 pin wire. Wen Da also sent out emails for sponsorships.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/WithDPDT.JPG)
-
-Allen and Reynard laser cut cardboard for the prototype. We then glued and assembled the prototype. 
-Reynard 3D printed the parts for the prototype.
-
-1st design of the collection point didn’t work - cuz the linkages 
-
-## put images
-
-During assembly, we realised that there was a major flaw in our design. 
-
 
 #### Sponsorships
 As the allocated funds for our project is limited, we needed to be resourceful 
@@ -1176,6 +1179,14 @@ After installing the threaded road (load), we tested the current draw and it was
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/withload.JPG)
 
 However, for power calculation, we have to use Max Load, which is the Rated Value given. This is in case anything unexpected happens, such as sudden reversing, will require the rated value.
+
+#### Changes to the design of prototype
+
+If we want to keep the same concept of the collection point, we cannot have the collection point be part of the body. It has to be part of the main door instead. This way, we can still have the linkages connecting the outer and inner flaps, and the main door still can be opened. 
+
+
+
+#### Assembly of prototype
 
 #Assembly of prototype, keypad, monitor etc
 
@@ -1280,8 +1291,6 @@ If sheet metal is flimsy, can do welding along the breath side.
 Thickness of sheet metal not considered yet. Steel hollow tube along the frame welded. Make frame out of hollow tube (eg. table legs) don’t have to use sheet metal. Have quarter inch of hollow tube is enough. 
 
 If don’t mind having nut sticking out, can use acorn nut or rivets. 
-
-
 
 If got money, can everything use aluminum.
 
