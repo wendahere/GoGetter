@@ -989,7 +989,8 @@ For designs 1 and 3, there is the issue of alignment; fortunately for design 1, 
 
 Mr Edward suggested that if we were to proceed with design 1, there's a way to mitigate the problem of the set screws of the coupling from coming loose due to vibration of the motor. The solution is to stack another screw onto the first screw. This way, it ensures that if the first screw actually comes loose during operation, the second screw is able to prevent it from further unfasten itself. Moreover, if we really want to ensure the screws does not come off, we apply some epoxy to further secure the screws to the coupling. 
 
-Stacking screws - <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Stacking%20screws.jpg" alt="stacking screws">
+Stacking screws:
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Stacking%20screws.jpg" alt="stacking screws">
 
 After taking the three designs into careful consideration, we decided that we would proceed with design 1. Firstly, it is the most economical option out of the three, as we only need stepper motors, couplings, and lead screws/threaded rods. Secondly, it can be easily aligned with the use of flexible couplings, moreover, alignment is not really critical for this function. Thirdly, accurate control of the dispensing motion can be achieved, since the lead scew/threaded rod is installed coaxially to the stepper motor, there is no concern of the gear teeth skipping.
 
@@ -1040,15 +1041,15 @@ The part that is pointed by the green arrow serves two purposes. One, it acts as
 
 The above shows the assembly of the dispensing mechanism. The motor and bearing brackets were designed by reynard. The purpose of the motor bracket is to act as a fixture for us to mount our stepper motor on, so that during operation, the motor stays in one place and doesn't shift out of place. While the purpose of the bearing bracket is to house a bearing that would take the rotational load of the lead screw during operation, this is because we do not want the coupling to be taking that load since as the coupling is only needed connect the lead screw/threaded rod to the steper motor shaft.
 
-Motor Bracket - 
+Motor Bracket: 
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Motor%20bracket%20back.png" alt="motor bracket back" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Motor%20bracket%20front.png" alt="motor bracket front" width="49%">
 
-Bearing Bracket - 
+Bearing Bracket: 
 
 ![Bearing bracket](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Bearing%20bracket.png)
 
-Assembly of the dispensing mechanism on the storage component -
+Assembly of the dispensing mechanism on the storage component:
  
 ![Dispensing assembly](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20assembly.png)
 For this prototype, each storage compartment comprises of three dispensing mechanisms. Since there are three level of prizes, the prototype can holp up to 9 different prizes at a time. If GOS is happy with this implementation, for the final product we can proceed with it, but if our budget allows it and GOS requires more variety of prizes being dispensed, we can further expand it for the final product.
@@ -1061,7 +1062,7 @@ For our design, we will just have a flap on the outside that is connected to a i
 
 Another thing to consider is where should the collection point be located at, either attached to the door, or installed in the body of the vending machine. We decided that the collection point will be installed in the body as if we wanted to add any electronics such as a drop sensor to the collection point, it is easier for us and the wiring will be neater as well. 
 
-Collection point design - 
+Collection point design: 
 
 ![CP O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/CP%20O.png)
 The above is the design we came up with, an inner flap is attached onto a hinge, which is then attached to a "wall". The space in between the "wall" to the door will be where the prize will drop into. How the inner flap works is it will be conencted using linkages to an outer flap which is attached to the door. As long the outer flap remains closed, the inner flap remains open, when a prize is dispensed and a prize drops, a student will pull open the outer flap in order to reach in to grab their prize, by doing so, the pulling motion of the front door will cause the inner flap to flip up and "close", hence preventing the student from reaching into to take anything else in the vending machine.
@@ -1069,12 +1070,12 @@ The above is the design we came up with, an inner flap is attached onto a hinge,
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/CP%20Old.png" alt="CP Old" width="537">
 The "wall" alongside flap and hinge is installed into the body of the vending machine. It will be secured by screws and nuts.
 
-Linkage design -
+Linkage design:
 
 ![Linkage O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Linkage%20O.png)
 To conenct the motion of the outer flap to that of the inner flap, a three bar linkage is used. 
 
-Linkage assembly to "wall" -
+Linkage assembly to "wall":
 
 ![Collection point A O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection%20point%20A%20O.png) 
 As we can see from above, the flap in front will be connected to the front door using a hinge.
@@ -1207,25 +1208,27 @@ Seeing how plain the original design of the IO door is, Allen made some changes 
 
 There are four major changes to the design of the IO door. *From top to bottom,* firstly, a holder is made to slot in Wen Da's phone where we will be using as the screen. Secondly, the cut out for the NFC reader is made into a smaller size as for the prototype we wouldn't be adding that component in. Thirdly, a small hole is also added for us to add in a 5mm LED bulb. Fourthly, another holder for the keypad is also made so that we can slot in the keypad  and it will stay there securely.
 
-Display Screen - 
+Display Screen:
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Phone%20slot%20W.png" alt="Phone slot W" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Phone%20slot.png" alt="Phone slot" width="49.5%">
 Here shows how Wen Da's phone, an iPhone X will be slotted into the holder.
 
-NFC reader & LED -
+NFC reader & LED:
 
 ![NFC](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/NFC.png) 
 
 The cutout will be cover by a sheet of transparency, and there will be a holder such that students can leave their card in that holder instead of holding their cards on it for the entire duration when they are redeeming the points for the prizes. The LED below will switch between red and green, where red means "do not remove card", and green neans "you can remove your card".
 
-Keypad - 
+Keypad:
 
 Instead of using conventional keypads that most vending machine uses. We wanted to use a keypad that has mechanical key switches. Using such key switches elevates the user experience for students, when they press on the switches, it will provide a tactile feedback, this feeling is very different from conventional keypads.
 
 ![Numpad case](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Numpad%20Case.png)
+
 Reynard designed the holder for the switches, whereas the material used for the holder is acrylic.
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/keypad%20assembly%203D.png" alt="keypad assembly 3D" width="62%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/keypad%20assembly%20S.png" alt="keypad assembly S">
+
 This is how the keypad looks when the keycaps and switches are assembled onto the holder. 
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Numpad.png" alt="Numpad" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Numpad%20W.png" alt="Numpad W" width="49.5%">  
@@ -1244,14 +1247,11 @@ Here are the final screenshots of the whole CAD assembly in Inventor.
 
 With the changes made, Allen and Reynard cut the new pieces on double and single ply cardboards.
 
-
-#Assembly of prototype, keypad, monitor etc
-
 ### Friday 9/10/2020
 
 We had a reply for the sponsorship email from a company called ShiokPizza.
 
-##09/10/2020 - Team meeting 7 (10:00am)`
+####09/10/2020 - Team meeting 7 (10:00am)`
 We met up with Mr Soh to go through our prototype.
 
 Use lead screws from misumi, more course, more expensive but larger gaps.
@@ -1268,16 +1268,16 @@ Limitation in how much prizes GOS can hang.
 
 Have to prescribe where they can hang the prizes. Have drop sensor to make prize dispenser more foolproof. Can use proximity sensor. 
 
-## Going through function by function:
+**Going through function by function:**
 Have to change function names.
  
-### Points ID: 
+##### Points ID:
 
 Prototype don’t have. Mr Soh likes the idea of RFID slot for students to locate where to put the card. 
 
 LED will change color after points deducted.
 
-### Input Function: 
+*Input Function: 
 
 Keypad, Prize is labeled. 
 
@@ -1285,7 +1285,7 @@ Press which prize desired. What happens when anyhow type?
 
 Must have some logic, enter and backspace.
 
-### Prize Dispensing function: 
+##### Prize Dispensing function: 
 
 Stepper drive lead screw. 
 
@@ -1295,7 +1295,7 @@ Lead screw is heavy.
 
 Maintenance, have to remove coupling, have to consider.
 
-### Storage function: 
+##### Storage function: 
 
 Use drawer to pull out to restock. Intend to have 3 tiers for 3 tiers of prizes. Should fix it for them, number of tiers.
 
@@ -1309,7 +1309,7 @@ May consider straighten steel, weld to make drawer. Allen’s labeling as pull o
 
 Must have good housing for all the wires, as there will be many wires. Try to be neat for maintenance. Try to be like Steve Jobs, even if can’t see, have to be neat.
 
-### Prize Collection: 
+##### Prize Collection: 
 
 Using 3 Bar linkage (Considered 4 bar linkage concept). 
 
@@ -1320,7 +1320,7 @@ It is good as it is highly integrated. Drop sensor can put on the wall, does not
 Depending on what material we choose, the door will cost quite a lot of money. 
 Prize collection will have funnel to ensure accurate dropping into collection.
 
-### Coin dispensing: 
+##### Coin dispensing: 
 
 Bag prize with coin is good.
 
@@ -1328,14 +1328,14 @@ Sensory feedback: Can put speakers, low cost.
 
 Reminder to do BOM. Listen to stakeholder first before doing the BOM and standard parts.
 
-### Security: 
+##### Security: 
 
 Have T handle lock.
 Can use bigger hinges. If got budget, can buy aluminium profile hindge to buy as standard accessories. Can go to machine design center (AMC) see their industrial hinges. 
 Possible to use door hindge.
 
 
-### Extra:
+##### Extra:
 
 Cantilever design, might be too heavy. Consider them by using string, can have many types of prizes, shapes etc.
 
@@ -1353,11 +1353,11 @@ If got money, can everything use aluminum.
 
 Can put flagging, to tell computer if a row is depleting. 
 
-### Sponsor: 
+##### Sponsor: 
 
 Break down of expenses. Write down now much money we request. Then remaining money we will consult the sponsors on what to do.
 
-### For presentation: 
+##### For presentation: 
 
 Let them see the actual moving, see the drop of the prize. 
 
@@ -1371,11 +1371,11 @@ Don’t need powerpoint slides, show and tell is enough. If some concepts cannot
 
 We let GOS confirm functions first, fabrication let supplier quote. Possible to bend metal to not have hollow tube but still will be flimsy, prefer to have supports. 
 
-##Sponsorship 
+#### Sponsorship 
 
 Wen Da talked to ShiokPizza. They are willing to support us as they have supported SP Business School in the past. They are very open to let us visit and learn. We are planning to visit their premises and learn from their machines. Getting money will be secondary. They asked if we are building from scratch or building from a current model. As we are doing as a FYP, we are building the vending machine from scratch.
 
-## Progress
+#### Progress
 
 Wen Da and Reynard finished up soldering the Voltage Regulator. As the specified capacitor was not available, we decided to use higher capacitance.
 
