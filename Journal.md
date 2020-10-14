@@ -1007,7 +1007,7 @@ After finalising what the designs for each function are. We needed to build a pr
 4. What other additions to the machine do they want?
 5. Are the compromises acceptable? (needing them to prepare the prizes beforehand)
 
-The materials that we will mainly be using to build the prototype consists of corugated cardboard (single ply and double ply), PLA 3D printed parts, door hinges, fasteners (scews and nuts), acrylic, and transparency.
+The materials that we will mainly be using to build the prototype consists of corugated cardboard (single ply and double ply), PLA 3D printed parts, door hinges, fasteners (scews and nuts), acrylic, paper, and transparency.
 
 #### 3D CAD 
 
@@ -1015,8 +1015,8 @@ Allen did the CAD drawings for the prototype in Inventor.
 
 **Body**
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body%20wireframe.jpg" alt="3D body wirefram" width="49.5%">
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body.png" alt="3D body" width="50%"> 
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body%20wireframe.jpg" alt="3D body wirefram" width="49%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body.png" alt="3D body" width="49%"> 
 With reference to the diagram on the right, it shows the body of the vending machine. It is split into to compartments, the first compartment houses the dispensing mechanism, storage, and prize collection point, it is covered by the main door, while the other compartment houses all the electrical components, such as wires from the IO door and stepper motors in the dispensing mechanisms, power supply unit, it can also be used to store any specialised tools used to service the vending machine or any spare parts and act as a temporary storage for prizes as well, it is covered by the IO door, where the lock will also be installed on.  
 
 With refernce to the diagram on the left, we can see four blue arrows each pointing at the same extruded features with an array of holes. These features are for us to mount the "slide rails" so that the storage of the dispensing mechanism can slide in and out like a drawer. It is designed this way to emulate what GOS staff will do when they need to replenish the prizes or perform any maintainence work. They can just slide out the dispensing mechansim storage in question, do the relevant work, and slide it back in. There are many holes there because we wanted to show that they have the option to change how far apart they want each storage to be, as some prizes may require a larger space to store. 
@@ -1027,12 +1027,14 @@ With refernce to the diagram on the left, we can see four blue arrows each point
 This is one part of the slide rail that is mounted onto the body using bolts and nuts through the holes.
 
 ![Slide rail A](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Slide%20rail%20A.png)
-This is the other part of the slide rail *(pointed by the red arrows)* that is attached to the storage component where the dispensing mechanism sits on. 
+This shows how it would look like when the slide rail is mounted onto the body. 
 
 **Storage**
 
 ![Dispensing storage](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20storage.png)
-The holes in the storage component are to mount the motor and bearing brackets on it. While the feature pointed by the red arrows are the aforementioned other part of the slide rail that when put on top of the first part of the slide rail, the entire storage component can easily slide in and out like a drawer.
+The holes in the storage component are to mount the motor and bearing brackets on it. While the part pointed by the red arrows are the second part of the slide rail that when we put the storage component on top of the first part of the slide rail, it can easily slide in and out like a drawer.
+
+The part that is pointed by the green arrow serves two purposes. One, it acts as a handle for the staff to grab on, so they can pull the storage out and push it back in. Two, item tags can be put onto it to specify which motor dispenses what item, so that users know what number they should enter on the keypad in order to get their desired prize.
 
 **Dispensing Mechanism**
 
@@ -1050,18 +1052,42 @@ Bearing Bracket -
 Assembly of the dispensing mechanism on the storage component -
  
 ![Dispensing assembly](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20assembly.png)
+For this prototype, each storage compartment comprises of three dispensing mechanisms. Since there are three level of prizes, the prototype can holp up to 9 different prizes at a time. If GOS is happy with this implementation, for the final product we can proceed with it, but if our budget allows it and GOS requires more variety of prizes being dispensed, we can further expand it for the final product.
 
 **Collection point**
 
+The main purpose of the collection function is a place for the prizes to fall onto, so that students know where to claim them. It needs to be easily accessed and be able to prevent theft. Generally, most vending machines uses a internal trap door system that flips up when the outside flap is open, this allows for users to take their dispensed item but prevents them from reaching into the machine to take the other contents of the vending machine. There are also some other vending machines that uses a conveyor belt system that carries the dispensed item to a different collection point situated at the side of the machine rather than near the bottom of the machine commonly found in many vending machines in the market. 
+
+For our design, we will just have a flap on the outside that is connected to a inner trapdoor that closes and opens. Speaking of the flap on the outside, we have to decide whether we want it the flap to be pushed open or pulled open. Generally, most vending machines' flaps are pushed open, but we found out that the flap normally scrapes on our arm when we forget to hold it open while we collect our items. We are worried that if students are not careful they might injure themselves which is the last thing we want our machine to cause. Therefore, we decided that the flap should be pulled open instead. This way, it is more intuitive to students that the door needs to be held open in order to collect the prizes.
+
+Another thing to consider is where should the collection point be located at, either attached to the door, or installed in the body of the vending machine. We decided that the collection point will be installed in the body as if we wanted to add any electronics such as a drop sensor to the collection point, it is easier for us and the wiring will be neater as well. 
+
+Collection point design - 
+
+![CP O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/CP%20O.png)
+The above is the design we came up with, an inner flap is attached onto a hinge, which is then attached to a "wall". The space in between the "wall" to the door will be where the prize will drop into. How the inner flap works is it will be conencted using linkages to an outer flap which is attached to the door. As long the outer flap remains closed, the inner flap remains open, when a prize is dispensed and a prize drops, a student will pull open the outer flap in order to reach in to grab their prize, by doing so, the pulling motion of the front door will cause the inner flap to flip up and "close", hence preventing the student from reaching into to take anything else in the vending machine.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/CP%20Old.png" alt="CP Old" width="537">
+
+The "wall" alongside flap and hinge is installed into the body of the vending machine. It will be secured by screws and nuts.
+
+Linkage design -
+
+![Linkage O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Linkage%20O.png)
+To conenct the motion of the outer flap to that of the inner flap, a three bar linkage is used. 
+
+Linkage assembly to "wall" -
+
+![Collection point A O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection%20point%20A%20O.png) 
+As we can see from above, the flap in front will be connected to the front door using a hinge as well.
+
 **Main door**
 
+![Main door O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Main%20door%20O.png)
+
+
+
 **IO door**
-
-Screen - 
-
-NFC reader - 
-
-Keypad - 
 
 ### Wednesday 7/10/2020
 Allen and Reynard worked together to laser cut and 3D print to fabricate first prototype.
@@ -1081,7 +1107,6 @@ Soldered Stripboard
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/stripboard.JPG" alt="soldered stripboard" width="577" height="262">
 
 (insert allen/reynard prototyping part)
-
 
 ### Wednesday 7/10/2020
 
