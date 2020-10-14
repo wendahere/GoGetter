@@ -1184,6 +1184,27 @@ However, for power calculation, we have to use Max Load, which is the Rated Valu
 
 If we want to keep the same concept of the collection point, we cannot have the collection point be part of the body. It has to be part of the main door instead. This way, we can still have the linkages connecting the outer and inner flaps, and the main door still can be opened. 
 
+**Changes to Main door cum collection point**
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Door%20wireframe.png" alt="Door wireframe" width=49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/D%20N.png" alt="D N" width="49.5%">
+As we can see from above, a collection area is added to the back of the door, and there are hole cutouts for attaching the hinges. 
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/L%20N.png" alt="L N" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Flap%20assembly.png" alt="Flap assembly" width="49.5%">
+The design of the four bar linkage was also changed to accomodate for the collection point design change *(left)*. The linkages were then assembled along with the the inner and outer flaps in inventor to verify whether the design worked *(right)*
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/CP%20N.png" alt="CP N" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/CP%20New.png" alt="CP New" width="49.5%">
+This is how it looks like when the flap assembly is assembled with the main door in CAD.
+
+![MD with B](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/MD%20with%20B.png)
+
+Fully assembled main door attached to the body in CAD.
+
+**Changes to IO door**
+
+Seeing how plain the original design of the IO door is, Allen made some changes to it. 
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20N.png" alt="" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20N_b.png" alt="" width="49.5%">
+
 
 
 #### Assembly of prototype
