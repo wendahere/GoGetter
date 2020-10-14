@@ -1393,7 +1393,15 @@ This is the code used for testing:
 
 ### Wednesday 14/10/2020
 
+Allen worked on the Journal and did some additions on the prototype. We did another test and took a video of it.
 
 Wen Da received feedback on his 7805 Voltage Regulator Schematic, the voltage input was supposed to be 12v, not 24v and should rotate the capacitors to make it less confusing. Only 1 ground is needed and do not need + or - at input and output. The filtering of voltage is called Low-Pass filter.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/voltageregulatorv2.JPG)
+
+Wen Da did the EAGLE circuit drawing for A4988 circuit with Arduino. There was some trouble as the library did not have A4988 and stepper motor. After installing the libraries, everything worked well.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/a4988%20with%20arduino.JPG)
+
+
+Wen Da designed a keychain for ShiokPizza the sponsor. Allen and Wen Da laser cutted it.
