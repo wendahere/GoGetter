@@ -1122,15 +1122,17 @@ After everything has been CAD out by Allen, we proceeded to prepare the material
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A3.JPG" alt="A3">
 Hinges are attached to the left and right walls of the body.
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A4.JPG" alt="A4">
-The right wall is glued to the base.
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A4.JPG" alt="A4" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A5.JPG" alt="A5" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A6.JPG" alt="A6" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A7.JPG" alt="A7" width="49%">
+The right, back, middle, and right are glued to the base of the body. 
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A5.JPG" alt="A5" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A6.JPG" alt="A6" width="49%">
-The back
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/SR.JPG" alt="SR" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A8.JPG" alt="A8" width="49%">
+One pair of the slide rails is glued together, and is mounted onto the mounting rails of the body with screws and nuts.
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A7.JPG" alt="A7">
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A8.JPG" alt="A8">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/S%20A1.JPG" alt="S A1" width="49%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/S%20A2.JPG" alt="S A2" width="49%">
+The other pair of slide rails for the storage component is also glued together. For back wall of the storage component is also glued to the base of the storage component.
 
+![S A3](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/S%20A3.JPG)
+The slide rails is then glued to the base. 
 
 
 ### Thursday 8/10/2020
