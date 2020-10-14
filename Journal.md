@@ -1369,3 +1369,5 @@ This is the code used for testing:
 
 
 Wen Da received feedback on his 7805 Voltage Regulator Schematic, the voltage input was supposed to be 12v, not 24v and should rotate the capacitors to make it less confusing. Only 1 ground is needed and do not need + or - at input and output. The filtering of voltage is called Low-Pass filter.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/voltageregulatorv2.JPG)
