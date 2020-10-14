@@ -1068,7 +1068,6 @@ Collection point design -
 The above is the design we came up with, an inner flap is attached onto a hinge, which is then attached to a "wall". The space in between the "wall" to the door will be where the prize will drop into. How the inner flap works is it will be conencted using linkages to an outer flap which is attached to the door. As long the outer flap remains closed, the inner flap remains open, when a prize is dispensed and a prize drops, a student will pull open the outer flap in order to reach in to grab their prize, by doing so, the pulling motion of the front door will cause the inner flap to flip up and "close", hence preventing the student from reaching into to take anything else in the vending machine.
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/CP%20Old.png" alt="CP Old" width="537">
-
 The "wall" alongside flap and hinge is installed into the body of the vending machine. It will be secured by screws and nuts.
 
 Linkage design -
@@ -1079,15 +1078,19 @@ To conenct the motion of the outer flap to that of the inner flap, a three bar l
 Linkage assembly to "wall" -
 
 ![Collection point A O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection%20point%20A%20O.png) 
-As we can see from above, the flap in front will be connected to the front door using a hinge as well.
+As we can see from above, the flap in front will be connected to the front door using a hinge.
 
 **Main door**
 
 ![Main door O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Main%20door%20O.png)
 
-
+For the design of the main door, it has 2 main cut outs. The bigger one will be covered with a sheet of transparency. The smaller cut out below is where the pull flap will be attached to.
 
 **IO door**
+
+![IO door O](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20O.png)
+
+The display screen, NFC reader and keypad will be located at the IO door. For this prototype, we will be using Wen Da's phone as the dusplay screen, and a custom made keypad with mechanical key switches, while we won't be putting any NFC reader on the door, there will be a holder for a card to be slotted onto,                 
 
 ### Wednesday 7/10/2020
 Allen and Reynard worked together to laser cut and 3D print to fabricate first prototype.
@@ -1106,9 +1109,13 @@ Soldered Stripboard
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/stripboard.JPG" alt="soldered stripboard" width="577" height="262">
 
-(insert allen/reynard prototyping part)
+#### Making the prototype
 
-### Wednesday 7/10/2020
+After everything has been CAD out by Allen, we proceeded to prepare the materials to build the prototype. We laser cut double and single ply cardboards.
+
+![]() 
+
+### Thursday 8/10/2020
 
 Wen Da drew out circuit diagram for having Double Pole, Double Throw Relay (DPDT). After much consultation with electrical experts, we decided to use one fuse (about 10-12A) after the PSU steps down from 220v to 12v. This is because there is a fuse at the plug for the PSU. After stepping down, only 1 fuse is required. There is no need for each stepper motor to have it's own fuse. Afterwards, Wen Da went Sim Lim Tower to buy fuse holder, fuses and 4 pin wire. Wen Da also sent out emails for sponsorships.
 
@@ -1123,7 +1130,6 @@ Reynard 3D printed the parts for the prototype.
 
 During assembly, we realised that there was a major flaw in our design. 
 
-### Thursday 8/10/2020
 
 #### Sponsorships
 As the allocated funds for our project is limited, we needed to be resourceful 
