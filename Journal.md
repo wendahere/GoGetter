@@ -1015,8 +1015,8 @@ Allen did the CAD drawings for the prototype in Inventor.
 
 **Body**
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body%20wireframe.jpg" alt="3D body wirefram" width="49%">
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body.png" alt="3D body" width="49%"> 
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body%20wireframe.jpg" alt="3D body wirefram" width="48%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20body.png" alt="3D body" width="48%"> 
 With reference to the diagram on the right, it shows the body of the vending machine. It is split into to compartments, the first compartment houses the dispensing mechanism, storage, and prize collection point, it is covered by the main door, while the other compartment houses all the electrical components, such as wires from the IO door and stepper motors in the dispensing mechanisms, power supply unit, it can also be used to store any specialised tools used to service the vending machine or any spare parts and act as a temporary storage for prizes as well, it is covered by the IO door, where the lock will also be installed on.  
 
 With refernce to the diagram on the left, we can see four blue arrows each pointing at the same extruded features with an array of holes. These features are for us to mount the "slide rails" so that the storage of the dispensing mechanism can slide in and out like a drawer. It is designed this way to emulate what GOS staff will do when they need to replenish the prizes or perform any maintainence work. They can just slide out the dispensing mechansim storage in question, do the relevant work, and slide it back in. There are many holes there because we wanted to show that they have the option to change how far apart they want each storage to be, as some prizes may require a larger space to store. 
@@ -1039,6 +1039,7 @@ The part that is pointed by the green arrow serves two purposes. One, it acts as
 **Dispensing Mechanism**
 
 ![Dispensing mech](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Dispensing%20mech.png)
+
 The above shows the assembly of the dispensing mechanism. The motor and bearing brackets were designed by reynard. The purpose of the motor bracket is to act as a fixture for us to mount our stepper motor on, so that during operation, the motor stays in one place and doesn't shift out of place. While the purpose of the bearing bracket is to house a bearing that would take the rotational load of the lead screw during operation, this is because we do not want the coupling to be taking that load since as the coupling is only needed connect the lead screw/threaded rod to the steper motor shaft.
 
 Motor Bracket - 
@@ -1117,8 +1118,8 @@ After everything has been CAD out by Allen, we proceeded to prepare the material
 
 **Assembly**
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A1.JPG" alt="A1" width="49%">
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A2.JPG" alt="A2" width="49%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A1.JPG" alt="A1" width="48%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A2.JPG" alt="A2" width="48%">
 The mounting panels are glued onto the left and middle walls of the body. The mounting panels are for us to attach one part of the slide rails.
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A3.JPG" alt="A3">
