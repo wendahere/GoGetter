@@ -1203,11 +1203,38 @@ Fully assembled main door attached to the body in CAD.
 
 Seeing how plain the original design of the IO door is, Allen made some changes to it. 
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20N.png" alt="IO door N" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20N_b.png" alt="" width="49.5%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20N%20.png" alt="IO door N" width=""> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20N%20_b.png" alt="" width="">
 
+There are four major changes to the design of the IO door. *From top to bottom,* firstly, a holder is made to slot in Wen Da's phone where we will be using as the screen. Secondly, the cut out for the NFC reader is made into a smaller size as for the prototype we wouldn't be adding that component in. Thirdly, a small hole is also added for us to add in a 5mm LED bulb. Fourthly, another holder for the keypad is also made so that we can slot in the keypad  and it will stay there securely.
 
+Display Screen - 
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Phone%20slot%20W.png" alt="Phone slot W" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Phone%20slot.png" alt="Phone slot" width="49.5%">
+Here shows how Wen Da's phone, an iPhone X will be slotted into the holder.
+
+NFC reader & LED -
+
+![NFC](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/NFC.png) 
+
+The cutout will be cover by a sheet of transparency, and there will be a holder such that students can leave their card in that holder instead of holding their cards on it for the entire duration when they are redeeming the points for the prizes. The LED below will switch between red and green, where red means "do not remove card", and green neans "you can remove your card".
+
+Keypad - 
+
+Instead of using conventional keypads that most vending machine uses. We wanted to use a keypad that has mechanical key switches. Using such key switches elevates the user experience for students, when they press on the switches, it will provide a tactile feedback, this feeling is very different from conventional keypads.
+
+![Numpad case](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Numpad%20Case.png)
+Reynard designed the holder for the switches, whereas the material used for the holder is acrylic.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/keypad%20assembly%203D.png" alt="keypad assembly 3D" width="62%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/keypad%20assembly%20S.png" alt="keypad assembly S">
+This is how the keypad looks when the keycaps and switches are assembled onto the holder. 
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Numpad.png" alt="Numpad" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Numpad%20W.png" alt="Numpad W" width="49.5%">  
 
 #### Assembly of prototype
+
+With the changes made, Allen and Reynard cut the new pieces on double and single ply cardboards.
+
+
 
 #Assembly of prototype, keypad, monitor etc
 
