@@ -1113,7 +1113,21 @@ Soldered Stripboard
 
 After everything has been CAD out by Allen, we proceeded to prepare the materials to build the prototype. We laser cut double and single ply cardboards.
 
-![]() 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Everything.JPG)
+
+**Assembly**
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A1.JPG" alt="A1" width="49%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A2.JPG" alt="A2" width="49%">
+The mounting panels are glued onto the left and middle walls of the body. The mounting panels are for us to attach one part of the slide rails.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A3.JPG" alt="A3">
+Hinges are attached to the left and right walls of the body.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A4.JPG" alt="A4">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/A5.JPG" alt="A5">
+
+
 
 ### Thursday 8/10/2020
 
