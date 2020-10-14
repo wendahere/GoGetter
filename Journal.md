@@ -1404,4 +1404,6 @@ Wen Da did the EAGLE circuit drawing for A4988 circuit with Arduino. There was s
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/a4988%20with%20arduino.JPG)
 
 
-Wen Da designed a keychain for ShiokPizza the sponsor. Allen and Wen Da laser cutted it.
+Wen Da designed a keychain for ShiokPizza the sponsor. Allen and Wen Da laser cutted it. This was made as a token of appreciation for our sponsor and to ensure that the sponsorship will go well.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/sponsortoken.JPG)
