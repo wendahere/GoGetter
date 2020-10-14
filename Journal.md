@@ -1229,11 +1229,20 @@ Reynard designed the holder for the switches, whereas the material used for the 
 This is how the keypad looks when the keycaps and switches are assembled onto the holder. 
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Numpad.png" alt="Numpad" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Numpad%20W.png" alt="Numpad W" width="49.5%">  
+Here shows how the assembled keypad is installed onto the IO door.
 
-#### Assembly of prototype
+![IO door assembly](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20assembly.png)
+
+Fully assembled IO door attached to the body in CAD.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20CAD%20F.png" alt="3D CAD" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/CAD%20F.png" alt="CAD F" width="49.5%">
+![3D CAD Open](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/3D%20CAD%20Open.png)
+
+Here are the final screenshots of the whole CAD assembly in Inventor. 
+
+#### Final assembly of prototype
 
 With the changes made, Allen and Reynard cut the new pieces on double and single ply cardboards.
-
 
 
 #Assembly of prototype, keypad, monitor etc
@@ -1242,7 +1251,7 @@ With the changes made, Allen and Reynard cut the new pieces on double and single
 
 We had a reply for the sponsorship email from a company called ShiokPizza.
 
-##09/10/2020 - Team meeting 7 (10:00am)
+##09/10/2020 - Team meeting 7 (10:00am)`
 We met up with Mr Soh to go through our prototype.
 
 Use lead screws from misumi, more course, more expensive but larger gaps.
