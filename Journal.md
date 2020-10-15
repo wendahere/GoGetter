@@ -1563,6 +1563,20 @@ This is the code used for testing:
 
 Allen worked on the Journal and did some additions on the prototype. We did another test and took a video of it.
 
+#### How to load prizes
+
+**Method**
+
+Nylon
+
+Weaved nylon
+
+Sewing thread
+
+#### Finished protoype
+
+## Show pics
+
 Wen Da received feedback on his 7805 Voltage Regulator Schematic, the voltage input was supposed to be 12v, not 24v and should rotate the capacitors to make it less confusing. Only 1 ground is needed and do not need + or - at input and output. The filtering of voltage is called Low-Pass filter.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/voltageregulatorv2.JPG)
@@ -1575,3 +1589,12 @@ Wen Da did the EAGLE circuit drawing for A4988 circuit with Arduino. There was s
 Wen Da designed a keychain for ShiokPizza the sponsor. Allen and Wen Da laser cutted it. This was made as a token of appreciation for our sponsor and to ensure that the sponsorship will go well.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/sponsortoken.JPG)
+
+### Thursday 15/10/2020
+
+We did presentation slides
+
+insert link [here]().
+
+### Friday 16/10/2020
+
