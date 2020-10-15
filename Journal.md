@@ -1255,7 +1255,7 @@ Main door and IO door:
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20PH%20A.JPG" alt="N PH A" width="49.5%">
 The cardboard for the phone holder is laser cut *(left)* and assembled *(right)*.
 
-![Phone]()
+![Phone](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Phone.jpg)
 This is how it looks with Wen Da's phone in the holder. 
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH.JPG" alt="N KH" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH%20A.JPG" alt="N KH A" width="49.5%">
@@ -1264,7 +1264,8 @@ The cardboard for the keypad holder is laser cut *(left)* and assembeld *(right)
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Keypad%20acrylic.jpg" alt="Keypad acrylic" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Keypad%20assembly.jpg" alt="Keypad assembly" width="49.5%"> 
 The acrylic for the key switches is cut *(left)* and the key caps are assembled onto the key switches which are then assembled onto the acrylic holder. 
 
-![Suspad]()
+![Suspad](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Suspad.jpg)
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Suspad.jpg" alt="Suspad" height="625">
 This is how it looks with the keypad in the holder. 
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20AF.JPG" alt="IO door AF" width="49.5%">  <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20AB.JPG" alt="IO door AB" width="49.5%"> 
