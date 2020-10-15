@@ -1245,7 +1245,10 @@ Here are the final screenshots of the whole CAD assembly in Inventor.
 
 #### Final assembly of prototype
 
-With the changes made, Allen and Reynard cut the new pieces on double and single ply cardboards.
+With the changes made, Allen and Reynard cut the new pieces on double and single ply cardboards. Reynard also cut out the acrylic for the keypad.
+
+![N door](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20door.JPG)
+!
 
 ### Friday 9/10/2020
 
