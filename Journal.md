@@ -1255,8 +1255,9 @@ Main door and IO door:
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20PH%20A.JPG" alt="N PH A" width="49.5%">
 The cardboard for the phone holder is laser cut *(left)* and assembled *(right)*.
 
-![Phone](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Phone.jpg)
-This is how it looks with Wen Da's phone in the holder. 
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Phone.jpg" alt="Phone" height="845">
+
+This is how it looks with Wen Da's phone when inserted to the IO door. 
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH.JPG" alt="N KH" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH%20A.JPG" alt="N KH A" width="49.5%">
 The cardboard for the keypad holder is laser cut *(left)* and assembeld *(right)*.
@@ -1264,9 +1265,9 @@ The cardboard for the keypad holder is laser cut *(left)* and assembeld *(right)
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Keypad%20acrylic.jpg" alt="Keypad acrylic" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Keypad%20assembly.jpg" alt="Keypad assembly" width="49.5%"> 
 The acrylic for the key switches is cut *(left)* and the key caps are assembled onto the key switches which are then assembled onto the acrylic holder. 
 
-![Suspad](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Suspad.jpg)
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Suspad.jpg" alt="Suspad" height="625">
-This is how it looks with the keypad in the holder. 
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Suspad.jpg" alt="Suspad" height="845">
+
+This is how it looks with the keypad when inserted to the IO door.
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20AF.JPG" alt="IO door AF" width="49.5%">  <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20AB.JPG" alt="IO door AB" width="49.5%"> 
 *Front view (left), Back view (right)* Finished assembled IO door, with 5mm LED bulb inserted.
@@ -1472,6 +1473,39 @@ Allen focused on finishing up the prototype by adding the transparent component 
 
 **Final touchup of prototype**
 
+![MD T](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/MD%20T.jpg)
+A sheet of transparency is used to cover up the huge rectangular cut out of the main door.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20F.jpg" alt="Card holder F" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20B.jpg" alt="Card holder B" width="49.5%">
+A card holder for the NFC cut out was made from folding the outermost layer of cardboard. *Front view (left), back view (right)* It is folded and glued onto the cutout for NFC card reader in the IO door.
+
+![IO T](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20T.jpg)
+A small sheet of transparency is cut out and then glued onto the cutout for NFC reader in the IO door.
+
+![Test NFC](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Test%20NFC.jpg)
+Here is a sample of how the holder works. Students can choose to either physically hold their card onto the reader until the LED below flashes green or leave their card in the holder when they redeem their prizes.
+
+For this prototype we did not implement any physical locking mechanism but we wanted to show GOS what kind of security system they would expect from this machine. So we went to take a picture of the type of lock we wanted to use from an existing vending machine in school, then printed a sticker of it and applied it on the IO door.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/reference.jpg" alt="reference" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/sticker.jpg" alt="sticker" width="49.5%">
+This vending machine here *(left)* has the type of T-handle security lock we needed. Here *(right*) is the image of our prototype with the sticker of the same lock applied on it.  
+
+![handle](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/F%20H.jpg)
+Reynard also added a handle to the outer flap on the main door, so that it is easier for users to test out our prototype during our next client meeting.
+
+To ensure the doors of the prototype stays shut at all times, we used magnets to achieve this. On top of that, we also wanted to show that in the event the machine requires any form of maintainance, the IO door has to be opened first before the main door can be opened.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/magnet.jpg" alt="hole" height="800">
+
+magnet
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/paper.jpg" alt="hole" height="800">
+
+paper
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/hole.jpg" alt="hole" height="800">
+
+A hole is added to the back 
 
 
 **Stepper motor**
