@@ -1245,16 +1245,62 @@ Here are the final screenshots of the whole CAD assembly in Inventor.
 
 #### Final assembly of prototype
 
-With the changes made, Allen and Reynard cut the new pieces on double and single ply cardboards. Reynard also cut out the acrylic for the keypad.
+With the changes made, Allen and Reynard cut the new designs on double and single ply cardboards. Reynard also cut out the acrylic for the keypad.
+
+Main door and IO door: 
 
 ![N door](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20door.JPG)
-main door and IO door just laser cut
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20PH.JPG" alt="N PH" width="49.5%">
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20PH%20A.JPG" alt="N PH A" width="49.5%">
-phone holder just laser cut *(left)* phone holder assembled *(right)*
+The cardboard for the phone holder is laser cut *(left)* and assembled *(right)*.
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH.JPG" alt="N KH" wdith="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH.JPG" alt="N KH" wdith="49.5%"> 
+![Phone]()
+This is how it looks with Wen Da's phone in the holder. 
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH.JPG" alt="N KH" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH%20A.JPG" alt="N KH A" width="49.5%">
+The cardboard for the keypad holder is laser cut *(left)* and assembeld *(right)*.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Keypad%20acrylic.jpg" alt="Keypad acrylic" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Keypad%20assembly.jpg" alt="Keypad assembly" width="49.5%"> 
+The acrylic for the key switches is cut *(left)* and the key caps are assembled onto the key switches which are then assembled onto the acrylic holder. 
+
+![Suspad]()
+This is how it looks with the keypad in the holder. 
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20AF.JPG" alt="IO door AF" width="49.5%">  <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20door%20AB.JPG" alt="IO door AB" width="49.5%"> 
+*Front view (left), Back view (right)* Finished assembled IO door, with 5mm LED bulb inserted.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20CP.JPG" alt="N CP" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20CP%20A.JPG" alt="N CP A"width="49.5%"> 
+The cardboard for the collection point is cut *(left)* and assembled *(right)*.
+
+![N CF](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20CPF.jpg)
+The cardboard for the inner *(blue)* and outer *(yellow)* flaps are cut out.
+
+![N CPL](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20CPL.JPG)
+The new linkages are printed and assembled as follows.
+
+![N FL A](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20FL%20A.JPG)
+The inner and outer flaps are assembled onto the linkages. 
+
+When we wanted to assemble both the collection point and flaps to the main door, we realised that it is not a good idea to permanently glue the collection point to the main door, in case we need to make any changes or repairs to our prototype.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20CP%20M.JPG" alt="N CP M" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20CP%20MG.JPG" alt="N CP MG" width="49.5%">
+So we came up with a design which consists of a square with a hole in the centre to allow us to join the collection point to the main door using only screws and nuts. The squares with holes are cut out *(left)* and glued together *(right)*. 
+
+![N CP A F](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20CP%20A%20F.JPG)
+The squares are then glued to the the collection point.
+
+![N FL MD A](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20FL%20MD%20A.JPG)
+A hinge is installed onto the collection point then the inner flap is connected to that hinge.
+
+![N MD F](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20MD%20F.JPG)
+For the main door, four holes are created *(as shown by red arrows)* to guide the screws that will connect the collection point with the main door.
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20CPMD%20F%20A1.JPG" alt="N CPMD F A1" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20CPMD%20F%20A2.JPG" alt="N CPMD F A2" width="49.5%">
+The collection point is assembled to the main door as shown. 
+
+![N FA C](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20FA%20C.JPG)
+The finished main door and IO door is assembled to the body.
 
 ### Friday 9/10/2020
 
@@ -1417,12 +1463,17 @@ We used a stepper motor driver uln2003 to try. The 5v stepper motor for it works
 This is the guide used for uln2003 stepper driver.
 [https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/](https://www.makerguides.com/28byj-48-stepper-motor-arduino-tutorial/)
 
-
 ### Tuesday 13/10/2020
 
-####Prototype Prep to present to Grace Orchard School.
+####Prototype prep to present to Grace Orchard School.
 
 Allen focused on finishing up the prototype by adding the transparent component and doing finishing touches.
+
+**Final touchup of prototype**
+
+
+
+**Stepper motor**
 
 Reynard brought more A4988 stepper motor drivers. Wen Da wired A4988 circuit.
 
