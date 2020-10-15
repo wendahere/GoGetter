@@ -1479,7 +1479,7 @@ A sheet of transparency is used to cover up the huge rectangular cut out of the 
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20F.jpg" alt="Card holder F" height="800"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20B.jpg" alt="Card holder B" height="800">
 
-A card holder for the NFC cut out was made from folding the outermost layer of cardboard. *Front view (left), back view (right)* It is folded and glued onto the cutout for NFC card reader in the IO door.
+A card holder for the NFC cut out was made from folding the outermost layer of cardboard. It is folded and glued onto the cutout for NFC card reader in the IO door. *Front view (left), back view (right)* 
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20T.jpg" alt="IO T" height="800">
 
@@ -1491,7 +1491,7 @@ Here is a sample of how the holder works. Students can choose to either physical
 For this prototype we did not implement any physical locking mechanism but we wanted to show GOS what kind of security system they would expect from this machine. So we went to take a picture of the type of lock we wanted to use from an existing vending machine in school, then printed a sticker of it and applied it on the IO door.
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/reference.jpg" alt="reference" width="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/sticker.jpg" alt="sticker" width="49.5%">
-This vending machine here *(left)* has the type of T-handle security lock we needed. Here *(right*) is the image of our prototype with the sticker of the same lock applied on it.  
+This vending machine here *(left)* has the type of T-handle security lock we needed. Here *(right*) is the image of our prototype with the sticker *(green arrow)* of the same lock applied on it.  
 
 ![handle](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/F%20H.jpg)
 Reynard also added a handle to the outer flap on the main door, so that it is easier for users to test out our prototype during our next client meeting.
@@ -1500,16 +1500,15 @@ To ensure the doors of the prototype stays shut at all times, we used magnets to
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/magnet.jpg" alt="magnet" height="800">
 
-magnet
+Four magnets are installed onto the prototype in the four points as shown *(green circles)*. 
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/paper.jpg" alt="paper" height="800">
 
-paper
+To emulate that the IO door has to be opened first before the main door, pieces of paper are added to the main door as shown *(red arrows)*. This acts like the actual recessed layer of the main door that we would implement in the actual vending machine to ensure that the main door only opens after the IO door opens.
 
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/hole.jpg" alt="hole" height="800">
 
-A hole is added to the back 
-
+As we would be running a stepper motor to demonstrate our dispensing mechanism, we needed some form of cable management. A hole is cut out at the back of the prototype so that our circuit and microcontroller can be hidden away at the back of the prototype when everything is connected.
 
 **Stepper motor**
 
