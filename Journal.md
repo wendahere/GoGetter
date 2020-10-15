@@ -1248,7 +1248,13 @@ Here are the final screenshots of the whole CAD assembly in Inventor.
 With the changes made, Allen and Reynard cut the new pieces on double and single ply cardboards. Reynard also cut out the acrylic for the keypad.
 
 ![N door](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20door.JPG)
-!
+main door and IO door just laser cut
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20PH.JPG" alt="N PH" width="49.5%">
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20PH%20A.JPG" alt="N PH A" width="49.5%">
+phone holder just laser cut *(left)* phone holder assembled *(right)*
+
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH.JPG" alt="N KH" wdith="49.5%"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/N%20KH.JPG" alt="N KH" wdith="49.5%"> 
 
 ### Friday 9/10/2020
 
