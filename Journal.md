@@ -1473,18 +1473,16 @@ Allen focused on finishing up the prototype by adding the transparent component 
 
 **Final touchup of prototype**
 
-![MD T](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/MD%20T.jpg)
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/MD%20T.jpg" alt="MD T" height="800">
 
 A sheet of transparency is used to cover up the huge rectangular cut out of the main door.
 
-<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20F.jpg" alt="Card holder F" width="49.5%" height="800"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20B.jpg" alt="Card holder B" width="49.5%" height="800">
-![Card holder F](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20F.jpg) ![Card holder B](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20B.jpg)
+<img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20F.jpg" alt="Card holder F" height="800"> <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Card%20holder%20B.jpg" alt="Card holder B" height="800">
 
 A card holder for the NFC cut out was made from folding the outermost layer of cardboard. *Front view (left), back view (right)* It is folded and glued onto the cutout for NFC card reader in the IO door.
 
-![IO T](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20T.jpg)
 <img src="https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/IO%20T.jpg" alt="IO T" height="800">
+
 A small sheet of transparency is cut out and then glued onto the cutout for NFC reader in the IO door.
 
 ![Test NFC](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Test%20NFC.jpg)
