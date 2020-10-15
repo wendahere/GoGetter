@@ -1596,5 +1596,9 @@ We did presentation slides
 
 insert link [here]().
 
+Allen did a video (for prototype)
+
+embed vid here [here]()
+
 ### Friday 16/10/2020
 
