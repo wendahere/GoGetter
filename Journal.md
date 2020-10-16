@@ -1602,3 +1602,163 @@ embed vid here [here]()
 
 ### Friday 16/10/2020
 
+We had a meeting with GOS 10am and another meeting with ShiokPizza 3pm.
+
+Meeting with GOS 10am:
+
+Questions to ask GOS - 
+
+1. How user friendly the vending machine is for the staff to operate and for the students to interact?
+2. Do they like the design?
+3. Ask them individually about each function
+4. What are some of the pain points that a staff or student may experience?
+5. Layout of the IO interface
+6. What other additions to the machine do they want?
+7. Are the compromises acceptable? (needing them to prepare the prizes beforehand)
+8. Is using a phone to give points acceptable?
+9. How many points does a student earn per day {this affects how often a staff needs to give points to the student) 
+10. Each level what are the different number of types of prizes (the min number)
+11. Do they want us to implement special prizes (principal prize)
+12. Average height of the student body?
+13. For the layout of the storage and IO interface
+
+Remarks 
+
+
+- Plug in that our budget increased by abit, but should be able to make it full sized, however certain functions may have to have some corners cut
+
+What we did:
+
+
+- Gave a short demo on how teachers would give students points
+- Showcased prototype with each working function
+
+**Bolded: Important to take note**
+*Italic: Action required*
+
+GOS asked: 
+
+
+
+- What is the prevention method for 2 prizes dropping?
+
+
+- How many types of prizes per row? 
+
+
+- How often do they need to replenish? (they see the prototype quite small)
+	- Afternoon session over 100 students that redeems prizes
+
+
+- Size of actual machine? Estimate how many prizes we can put
+
+
+- How many motors per row? And can give more than 3-4? To ensure a variety of prizes.
+	- They want about 5 stepper motors per level
+	- For the current system, all 3 tiers have about the same number of prizes
+
+
+- Shift Stepper motor left and right to edit space required due to prizes. (what we can do)
+
+
+- Maintainability: eg motor spoil and lead screw spoil then how? 
+	- We use standard parts so easy to buy and specially made parts will give extra as spares (what we said)* 
+
+
+- Will they (student) know which prizes need to press what button?
+	- Color code, A row is yellow etc
+- **Students might find trouble with A1, doing something like Yellow 1 is better.**
+
+
+- Smart TV can do? 
+	- Smart TV has no NFC function.
+	- If a student has 100 points and wants to redeem 2-50points items instead of 1-100 point items. 
+		- Is OK (what we said)
+
+- Recording: Is there a way to capture data, which prizes not “selling” etc? 
+	- **Record down name and points redeemed. Name, Class and no. points redeemed**
+		- Current method: excel sheet manually input number of points, so can see from jan to feb how many points
+		- Teacher will check who have not redeemed their points and will find out why etc..
+
+- Dropped card concern
+	- Have ID on the card so cant use other people card
+	- **Have name on the card to identify is enough (Conclusion by GOS)**
+	- Current system: if student lost their card, if anyone find their card and give to teacher then they will return to that student, else teacher will give another card
+
+
+- *Can have separate devices to input points* 
+	- Separate readers installed in class
+	- Can connect a laptop to the reader to give points. Usually teachers give points in class
+	- However, teachers also give out points outside of the classroom as well. Look into NFC readers that can read and write. Can put in a common corridor
+	- Teachers have school issued laptops, able to control what software can be installed. 
+
+
+- *Regarding budget:* 
+	- They asked if possible for GOS to add on money for more columns and rows 
+	- GOS won a prize and will donate money when necessary
+
+
+
+
+- Want to see the screen display, how many points, press keys for prizes, please make your selection etc. **Messages are important**
+	- **Let them know what we made so they can give feedback, so they can help us with the needs of the students (GOS said)**
+
+
+
+
+
+
+- Layout of the machine: 
+	- Younger students are the main issue as they are shorter. Keypad can be installed lower. Screen cannot be too low. 
+	- Mr Soh will give ergonomic data so we can take average. 
+	- Can make steps/stool for shorter students to use the machine. They currently use it so it's fine to use it. 
+	- **Don't need to implement the design.**
+
+
+- **Need to put a cardholder as a pressing button while holding the card is not easy for the student**
+
+
+
+- Regarding forgetting card on the machine
+	- *Install audio/visual* 
+	- *Please take your card*
+
+
+- Bolting down the machine, have to check if possible but if its an safety issue then will allow.
+	- **Check if machine needs to be bolted down for safety**
+
+
+
+- *Glass*
+	- Don’t want something that will break from punch. 
+	- If it breaks, it won't break into pieces.
+
+
+
+- Packaging is low cost, it is okay with them to pack the prizes
+
+
+
+- *Special prizes and adhoc prizes can be done offline because few students redeem it*
+
+
+
+- Not worried about lead screw bending
+
+
+
+- Extra:
+	- Make laser cut tokens for GOS.
+	- Only android phones can give points: FA Watch will always tap to check how much money is inside, many students want to tap just for fun.
+
+*Pain Point*: 
+Teachers sometimes anyhow chop, put +3 or +2, making it hard to count the number of points.
+
+**Students might not understand how point systems work, hard for students to tell which number is bigger, 50 or 100 etc**.
+
+
+- Light up which row can be chosen will be useful
+- Make a meter to reflect how much points currently have, 0 to 100 in a bar (in display)
+- Have LED strip to show how much points
+
+**Next meeting with GOS: Show CAD files and make video/animation.**
