@@ -1762,3 +1762,35 @@ Teachers sometimes anyhow chop, put +3 or +2, making it hard to count the number
 - Have LED strip to show how much points
 
 **Next meeting with GOS: Show CAD files and make video/animation.**
+
+## Meeting with ShiokPizza 3pm:
+
+
+They have have old machines and able to edit it.
+
+Don't mind working together but want to know how can they help.
+
+Hanging type vending cause more jam compared to coil type.
+
+Can take entire old vending machine for parts
+
+Can arrange to bring over to SP with no charge
+
+Normally these type vending machine are shipped from china
+
+Factory in amk
+
+Can consult their engineers for help
+
+Thurs most likely but will get back to us
+
+Can have a bracelet with a chip for payment.
+
+
+### What to do for weekend:
+
+Allen: setup report template, look into metal design bending for CAD, what kind of metals we can use, look into hollow tubes. 
+
+Wen Da: finish up on journal and report, learn Pi, circuit stuff
+
+Reynard: programming ( look into NFC)
