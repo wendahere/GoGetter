@@ -129,7 +129,7 @@ We discussed team name, roles for each of us and what to do before Transdiscipli
 - Star Vendor
 - Go-Getter
 - Let’s give back together
-- 
+
 **Github/website**
 
 - Wen Da - set up
@@ -1806,6 +1806,8 @@ Mr Cat
 
 Wen Da worked on RaspberryPi. 
 
+#### RaspberryPi
+
 Steps to follow:
 
 1. Format the SD Card
@@ -1856,3 +1858,11 @@ Steps to install VNC:
 
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/VNC.JPG)
+
+#### Group discussion
+
+In preparation for the site visit to Blue Sky Tree's factory on **insert date**, we wanted to do some calculations for the dispensing function. While deciding on the important parameters, we realised that for each level of the dispensing mechanism, it can be aligned at the same posistion on top of each other, this is because if the prize from the top level gets dispensed, the dispensed prize might get caught by the lead screw at the bottom levels. This was an oversight to our design due to the prototype not being to scale
+
+#### Parts sourcing
+
+Allen scoured the internet to search for different prices of lead screws, which is an integral part of our vending machine. Lead screws are particularly expensive since they are usually used in linear slide units or 3D printers for precise linear motion control. He searched in many websites such as [Accu.co.uk](https://www.accu.co.uk/), [Misumi](https://sg.misumi-ec.com), and [RS components](https://sg.rs-online.com/web/). 
