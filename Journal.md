@@ -1834,3 +1834,22 @@ Steps to update:
 5. Press y and enter when prompted to use up disk space
 6. Done!
 
+It should look like this
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/update.JPG)
+
+Next Wen Da setup remote control for the Pi. This makes it easier to control the Pi as a monitor is not required. For this, we will be using VNC Server. We followed this guide [https://www.raspberrypi.org/documentation/remote-access/vnc/README.md](https://www.raspberrypi.org/documentation/remote-access/vnc/README.md)
+
+Steps to install VNC:
+
+1. Create a account
+2. Watch the video to enable Home subscription (Free for 5 users)
+3. In Pi Terminal, type "sudo apt update" and "sudo apt install realvnc-vnc-server realvnc-vnc-viewer"
+4. Enable VNC in Pi
+5. Select Menu > Preferences > Raspberry Pi Configuration > Interfaces
+6. Ensure VNC is Enabled
+7. Download VNC Viewer on your PC that is controlling the Pi
+8. Login on your PC and Pi 
+9. From your computer, click on the Pi and connect
+10. For login details, username: pi, password:raspberry
+11. Done!
