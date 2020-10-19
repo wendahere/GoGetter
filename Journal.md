@@ -1815,3 +1815,22 @@ Steps to follow:
 5. Plug in mouse, keyboard and HDMI cable before plugging in the power
 
 Initially, there was a problem with the monitor, the monitor kept a fuzzy static image.
+
+![fuzzy](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/fuzzyscreen.JPG)
+
+After trying on a larger resolution monitor, the same Pi with same SD Card worked. This meant that there was a problem with the resolution. After reading this site:
+[https://pimylifeup.com/raspberry-pi-screen-resolution/#:~:text=With%20the%20tool%20loaded%20on,set%20for%20this%20current%20display.](https://pimylifeup.com/raspberry-pi-screen-resolution/#:~:text=With%20the%20tool%20loaded%20on,set%20for%20this%20current%20display.)
+
+We learned that the resolution can be changed in the config text file. We changed the hdmi_group to "hdmi_group=2" and it worked well.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/catgif.JPG)
+
+Next we ensured that the Pi was updated. 
+Steps to update:
+1. Connect Pi to internet
+2. Open Terminal in the Pi
+3. Type "sudo apt-get update && sudo apt-get upgrade
+4. Let the program update
+5. Press y and enter when prompted to use up disk space
+6. Done!
+
