@@ -1446,7 +1446,7 @@ We tested the Voltage Regulator and it is working as intended. The 12v supply wi
 
 ## Summary
 
-Finishing touches on the prototype and installing electrical component into the prototype to present to Grace Orchard School. Meeting with GOS this week.
+Finishing touches on the prototype and installing electrical component into the prototype to present to Grace Orchard School. Met with GOS and sponsor, ShiokPizza this week. Arranged to visit ShiokPizza premises Week 6.
 
 ### Monday 12/10/2020
 
@@ -1794,3 +1794,24 @@ Allen: setup report template, look into metal design bending for CAD, what kind 
 Wen Da: finish up on journal and report, learn Pi, circuit stuff
 
 Reynard: programming ( look into NFC)
+
+
+## Week 6 (18/10/2020 to 24/10/2020) 
+
+## Summary
+
+Mr Cat
+
+### Monday 19/10/2020
+
+Wen Da worked on RaspberryPi. 
+
+Steps to follow:
+
+1. Format the SD Card
+2. Follow this link [https://www.raspberrypi.org/downloads/](https://www.raspberrypi.org/downloads/) , download the Raspberry Pi Imager for Windows and select the recommended OS, select the correct SD Card (important)
+3. Let the program run, it will take a while
+4. Eject the SD Card and plug into the Pi
+5. Plug in mouse, keyboard and HDMI cable before plugging in the power
+
+Initially, there was a problem with the monitor, the monitor kept a fuzzy static image.
