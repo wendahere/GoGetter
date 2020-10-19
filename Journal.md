@@ -1853,3 +1853,6 @@ Steps to install VNC:
 9. From your computer, click on the Pi and connect
 10. For login details, username: pi, password:raspberry
 11. Done!
+
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/VNC.JPG)
