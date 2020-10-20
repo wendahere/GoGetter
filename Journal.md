@@ -1882,3 +1882,12 @@ If this line is used: 	GPIO.setmode(GPIO.BOARD) # Use physical pin numbering, th
 
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/pinout.JPG)
+
+
+Afterwards, we setup the Stepper Motor circuit on the Pi. We followed this video. 
+
+[https://www.youtube.com/watch?v=LUbhPKBL_IU&t=771s](https://www.youtube.com/watch?v=LUbhPKBL_IU&t=771s)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/IMG_5118.JPG)
+
+After turning of the Pi, the stepper started to move, this meant that we have to setup a fail open circuit.
