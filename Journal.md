@@ -129,7 +129,7 @@ We discussed team name, roles for each of us and what to do before Transdiscipli
 - Star Vendor
 - Go-Getter
 - Let’s give back together
-
+- 
 **Github/website**
 
 - Wen Da - set up
@@ -1806,8 +1806,6 @@ Mr Cat
 
 Wen Da worked on RaspberryPi. 
 
-#### RaspberryPi
-
 Steps to follow:
 
 1. Format the SD Card
@@ -1859,10 +1857,28 @@ Steps to install VNC:
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/VNC.JPG)
 
-#### Group discussion
 
-In preparation for the site visit to Blue Sky Tree's factory on **insert date**, we wanted to do some calculations for the dispensing function. While deciding on the important parameters, we realised that for each level of the dispensing mechanism, it can be aligned at the same posistion on top of each other, this is because if the prize from the top level gets dispensed, the dispensed prize might get caught by the lead screw at the bottom levels. This was an oversight to our design due to the prototype not being to scale
+### Tuesday 20/10/2020
 
-#### Parts sourcing
+Wen Da continued with RaspberryPi. He did a simple blinky program to learn about the GPIO. This guide was followed:
+[https://raspberrypihq.com/making-a-led-blink-using-the-raspberry-pi-and-python/](https://raspberrypihq.com/making-a-led-blink-using-the-raspberry-pi-and-python/)
 
-Allen scoured the internet to search for different prices of lead screws, which is an integral part of our vending machine. Lead screws are particularly expensive since they are usually used in linear slide units or 3D printers for precise linear motion control. He searched in many websites such as [Accu.co.uk](https://www.accu.co.uk/), [Misumi](https://sg.misumi-ec.com), and [RS components](https://sg.rs-online.com/web/). 
+This is the code used:
+
+	import RPi.GPIO as GPIO # Import Raspberry Pi GPIO library
+	from time import sleep # Import the sleep function from the time module
+	GPIO.setwarnings(False) # Ignore warning for now
+	GPIO.setmode(GPIO.BOARD) # Use physical pin numbering
+	GPIO.setup(8, GPIO.OUT, initial=GPIO.LOW) # Set pin 8 to be an output pin and set initial value to low (off)
+	while True: # Run forever
+	 GPIO.output(8, GPIO.HIGH) # Turn on
+	 sleep(1) # Sleep for 1 second
+	 GPIO.output(8, GPIO.LOW) # Turn off
+	 sleep(1) # Sleep for 1 second
+
+From this, we learned that there are 2 different types of pin numbering. Physical Pin number is to use the number labeled on the pins as the GPIO pin numbering rather than the number attached to the pin (eg. GPIO_14).
+
+If this line is used: 	GPIO.setmode(GPIO.BOARD) # Use physical pin numbering, then the Pi will be using the number in the circle as the GPIO numbering, else it will use the GPIO_numbering instead.
+
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/pinout.JPG)
