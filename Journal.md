@@ -1891,3 +1891,7 @@ Afterwards, we setup the Stepper Motor circuit on the Pi. We followed this video
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/IMG_5118.JPG)
 
 After turning of the Pi, the stepper started to move, this meant that we have to setup a fail open circuit.
+
+Wen Da drew out the circuit for DPDT Relay with Raspberry Pi and A4988 Driver
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/DPDT.JPG)
