@@ -1878,7 +1878,7 @@ This is the code used:
 
 From this, we learned that there are 2 different types of pin numbering. Physical Pin number is to use the number labeled on the pins as the GPIO pin numbering rather than the number attached to the pin (eg. GPIO_14).
 
-If this line is used: 	GPIO.setmode(GPIO.BOARD) # Use physical pin numbering, then the Pi will be using the number in the circle as the GPIO numbering, else it will use the GPIO_numbering instead.
+If this line is used: 	GPIO.setmode(GPIO.BOARD) # Use physical pin numbering, then the Pi will be using the number in the circle as the GPIO numbering, else using GPIO.setmode(GPIO.BCM), will use the GPIO_numbering instead (Broadcom SOC Channel).
 
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/pinout.JPG)
