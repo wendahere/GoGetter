@@ -1904,3 +1904,8 @@ Allen continued to source for materials and did ergonomics study on the anthropo
 
 **insert allen testing on his brother**
 
+
+### Wednesday 21/10/2020
+
+Allen made a mockup for the layout of the vending machine 
+
