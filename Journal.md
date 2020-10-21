@@ -1857,6 +1857,8 @@ Steps to install VNC:
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/VNC.JPG)
 
+Allen sourced for materials.
+
 
 ### Tuesday 20/10/2020
 
@@ -1895,3 +1897,10 @@ After turning of the Pi, the stepper started to move, this meant that we have to
 Wen Da drew out the circuit for DPDT Relay with Raspberry Pi and A4988 Driver
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/DPDT.JPG)
+
+Allen continued to source for materials and did ergonomics study on the anthropometric data of **insert nationality/race** to determine the best layout for our components.
+
+**insert data**
+
+**insert allen testing on his brother**
+
