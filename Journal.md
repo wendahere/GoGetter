@@ -1909,3 +1909,54 @@ Allen continued to source for materials and did ergonomics study on the anthropo
 
 Allen made a mockup for the layout of the vending machine 
 
+Wen Da did drawing of PCB and etching to make the PCB. 
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/pcbv1.png)
+
+We decided to make the PCB using etching.
+
+First step is to print the PCB on a special paper. The white portion will be etched away.
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5125.JPG)
+
+AFterwards, cut and stick the paper on a stripboard with thin layer of copper.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5126.JPG)
+
+Use a kapton tape that is heat resistant and can stick at high temperatures.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5127.JPG)
+
+Put a layer of foam and baking paper to protect the special paper from smudging. Set the temperature of the heat press to 170 degrees Celsius. 
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5129.JPG)
+
+![](https://github.com/wendahere/GoGetter/blob/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5130.JPG)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5131.JPG)
+
+Close the press and wait for 40 seconds. 
+
+Peel off the paper and the black portion should remain on the copper portions.
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5136.JPG)
+
+As etching will remove copper portions, we cut away the perimeters of the copper that is unused.
+
+Mix 1:1 portion of 3% Hydrogen Peroxide and Vinegar. If the hydrogen peroxide is 6%, mix a 2:1 with 2 being Vinegar.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5137.JPG)
+
+Put the copper PCB in the chemical bath and irritate the liquid to remove the etching from the copper board.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5139.JPG)
+
+After testing for continuity to check if the board is working, using Aerosol to remove the white portions of the PCB.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5141.JPG)
+
+End Product.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5143.JPG)
+
+This also works for copper tape:
+
+![](https://github.com/wendahere/GoGetter/blob/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5144.JPG)
