@@ -1800,7 +1800,7 @@ Reynard: programming ( look into NFC)
 
 ## Summary
 
-Mr Cat
+We visited sponsor's warehouse and were given one working vending machine to be transported the next week. After learning that industry standard is DC motors in vending machine and we were sponsored the 24v DC motors as well, we decided to switch to DC motors. We further worked on refining the design after looking at the insides of a vending machine. We also made a PCB using chemical etching. 
 
 ### Monday 19/10/2020
 
@@ -1981,3 +1981,9 @@ Wen Da tested the Pi with the new motor given. We learned that 2.05 seconds woul
 We also learned that with only spring, the motor would take 0.05A of current
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/IMG_5186.JPG)
+
+Afterwards, we had our Intro to Entrepreneurship class.
+
+After the class, Allen and Wen Da went to Mr Walter Chan, the Executive in charge of T11c Fablab, to talk about the placement of vending machine. We were allowed to put the vending machine there as long as we work there from then onward. We talked to Mr Edward Tay from W12 workshop about the hollow tube frame. He gave us his opinion and we learned that we might not get what we asked for, eg angle of frame not exactly 90 degrees, length not exact if we do not give the tolerance. 
+
+We also learned that giving too small of tolerance eg +- 0.01mm is too much and +- 0.05 is okay but the product given might not fit what we are planning if both sides are out.
