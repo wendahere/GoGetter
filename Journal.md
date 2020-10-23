@@ -1960,3 +1960,24 @@ End Product.
 This also works for copper tape:
 
 ![](https://github.com/wendahere/GoGetter/blob/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5144.JPG)
+
+### Thursday 22/10/2020
+
+Reynard and Wen Da worked on Double Pole Double Throw Relay with Stepper motors. We managed to make it work, when the relay was actuated, the stepper motor switched to the other stepper motor.
+
+At 2:50pm, Mr Soh drove us to Techplace 1, where the warehouse of the vending machines were located.
+
+We looked through how the vending machines worked and what motors they used. We would be sponsored one working vending machine.
+
+
+### Friday 23/10/2020
+
+We decided to change the dispensing mechanism to spring instead of lead screw.
+
+Wen Da tested the Pi with the new motor given. We learned that 2.05 seconds would result in 1 rotation of the motor.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/IMG_5184.JPG)
+
+We also learned that with only spring, the motor would take 0.05A of current
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/IMG_5186.JPG)
