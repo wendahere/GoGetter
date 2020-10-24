@@ -1995,3 +1995,40 @@ We also learned that giving too small of tolerance eg +- 0.01mm is too much and 
 
 Allen did CAD for the motor gear box given to us by the sponsor, since there isn't any available 3D files of it online. He did torque calculations.
 
+
+Wen Da started to learn how to make GUI display. This youtube video guides were followed: [https://www.youtube.com/watch?v=s81_WnM1oJA](https://www.youtube.com/watch?v=s81_WnM1oJA)
+
+Steps:
+Install all tools, open console and type and enter the commands:
+"sudo apt-get update" 
+
+"sudo apt-get dist-upgrade" 
+
+"sudo apt-get install qt5-default" 
+
+"sudo apt-get install qtcreator" 
+
+"sudo apt-get install libqt5serialport5" 
+
+"sudo qpt-get install libqt5serialport5-dev"
+ 
+"sudo apt-get install qttools5-dev-tools"
+
+"sudo apt-get install eric" (Python Compiler that I will be using)
+
+Restart the Pi and launch Eric
+
+
+
+Code used:
+
+	from PyQt5.QtWidgets import QApplication
+	from ui.mainWindow import MainWindow
+
+	if __name__=="__main__":
+ 	   import sys
+ 	   app=QApplication(sys.argv)
+ 	   ui=MainWindow()
+ 	   #ui.showFullScreen()
+ 	   ui.show()
+ 	   sys.exit(app.exec_())
