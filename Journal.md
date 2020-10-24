@@ -1857,7 +1857,7 @@ Steps to install VNC:
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/VNC.JPG)
 
-Allen sourced for materials.
+Allen sourced for materials. (lead screws)
 
 
 ### Tuesday 20/10/2020
@@ -1908,6 +1908,8 @@ Allen continued to source for materials and did ergonomics study on the anthropo
 ### Wednesday 21/10/2020
 
 Allen made a mockup for the layout of the vending machine 
+
+**insert pictures**
 
 Wen Da did drawing of PCB and etching to make the PCB. 
 
@@ -1969,6 +1971,7 @@ At 2:50pm, Mr Soh drove us to Techplace 1, where the warehouse of the vending ma
 
 We looked through how the vending machines worked and what motors they used. We would be sponsored one working vending machine.
 
+Allen design the frame so we could send it for quotation.
 
 ### Friday 23/10/2020
 
@@ -1987,3 +1990,8 @@ Afterwards, we had our Intro to Entrepreneurship class.
 After the class, Allen and Wen Da went to Mr Walter Chan, the Executive in charge of T11c Fablab, to talk about the placement of vending machine. We were allowed to put the vending machine there as long as we work there from then onward. We talked to Mr Edward Tay from W12 workshop about the hollow tube frame. He gave us his opinion and we learned that we might not get what we asked for, eg angle of frame not exactly 90 degrees, length not exact if we do not give the tolerance. 
 
 We also learned that giving too small of tolerance eg +- 0.01mm is too much and +- 0.05 is okay but the product given might not fit what we are planning if both sides are out.
+
+### Weekends 24-25/10/2020
+
+Allen did CAD for the motor gear box given to us by the sponsor, since there isn't any available 3D files of it online. He did torque calculations.
+
