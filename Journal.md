@@ -1993,7 +1993,7 @@ We also learned that giving too small of tolerance eg +- 0.01mm is too much and 
 
 ### Weekends 24-25/10/2020
 
-Allen did CAD for the motor gear box given to us by the sponsor, since there isn't any available 3D files of it online. He did torque calculations.
+Allen did CAD for the motor gear box given to us by the sponsor, since there isn't any available 3D files of it online. He did torque calculations. Designed the feedtray. 
 
 
 Wen Da started to learn how to make GUI display. This youtube video guides were followed: [https://www.youtube.com/watch?v=s81_WnM1oJA](https://www.youtube.com/watch?v=s81_WnM1oJA)
@@ -2037,9 +2037,19 @@ Code used:
 
 Allen continued working on the feedtray design for the vending machine. Since we will not be using the existing feedtrays from the vending machine that was given to us, as it does not serve the purpose we need, which is to hang the prizes on the coil. He also sourced for the different materials that will be used to make the feed tray (angle bar, and sheet metal), and did research on what grade of aluminium or steel is most suitable for us.
 
+Talk about the angle bar
+
+Also modelled a drawer roller slide. 
+
+**insert pictures**
+
 ### Tuesday 27/10/2020
 
 Allen consulted with Mr Soh on the design of the feedtray. Where Mr Soh mentioned if we were to proceed with sheet metal bending, we needed to include corner reliefs for the bends so as to prevent tearing from happening while bending. He said to send the design for quotation first and to see the prices for 1.5mm steel and 2mm aluminium.
+
+Allen also 3D printed the coil mount he modelled during the weekends to see whether it fits, and to test whether can we 3D print spare parts for it for GOS should any of it break during operation. 
+
+**insert pictures**
 
 #### Special needs education (SEN) expert meeting
 
