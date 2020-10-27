@@ -2032,3 +2032,15 @@ Code used:
  	   #ui.showFullScreen()
  	   ui.show()
  	   sys.exit(app.exec_())
+
+### Monday 26/10/2020
+
+Allen continued working on the feedtray design for the vending machine. Since we will not be using the existing feedtrays from the vending machine that was given to us, as it does not serve the purpose we need, which is to hang the prizes on the coil. He also sourced for the different materials that will be used to make the feed tray (angle bar, and sheet metal), and did research on what grade of aluminium or steel is most suitable for us.
+
+### Tuesday 27/10/2020
+
+Allen consulted with Mr Soh on the design of the feedtray. Where Mr Soh mentioned if we were to proceed with sheet metal bending, we needed to include corner reliefs for the bends so as to prevent tearing from happening while bending. He said to send the design for quotation first and to see the prices for 1.5mm steel and 2mm aluminium.
+
+#### Special needs education (SEN) expert meeting
+
+We had an appointment Ms Nicole Daswani, an expert on special needs education from SP's SEN centre. We wanted to know more about 
