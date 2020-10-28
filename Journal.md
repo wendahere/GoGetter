@@ -2059,6 +2059,8 @@ Allen consulted with Mr Soh on the design of the feedtray. Where Mr Soh mentione
 
 Allen also 3D printed the coil mount he modelled during the weekends to see whether it fits, and to test whether can we 3D print spare parts for it for GOS should any of it break during operation. 
 
+Reynard did the keypad. He did matrix wiring on the key switches, and programmed an arduino micro for the keypad.
+
 Wen Da carried on PCB Design for Motor Matrix wiring.
 
 **insert pictures**
@@ -2074,3 +2076,5 @@ Wen Da made the PCB board for etching fit the board. The board given was smaller
 Allen made the necessary adjustments to the feed tray design before making the 2D drawing for it. As well as making a 1mm variant of the design if we decide to make the feed tray with steel. Allen also made the 2D drawings for the motor bracket and the handle.
 
 **insert pictures**
+
+Reynard continued to work on the keypad.
