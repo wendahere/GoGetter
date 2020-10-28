@@ -2055,7 +2055,7 @@ The LED lights up means the 1 by 1 matrix works. This means that 5 by 4 etc, wou
 
 ### Tuesday 27/10/2020
 
-Allen consulted with Mr Soh on the design of the feedtray. Where Mr Soh mentioned if we were to proceed with sheet metal bending, we needed to include corner reliefs for the bends so as to prevent tearing from happening while bending. He said to send the design for quotation first and to see the prices for 1.5mm steel and 2mm aluminium.
+Allen consulted with Mr Soh on the design of the feedtray. Where Mr Soh mentioned if we were to proceed with sheet metal bending, we needed to include corner reliefs for the bends so as to prevent tearing from happening while bending. He said to send the design for quotation first and to see the prices for 1mm steel and 2mm aluminium.
 
 Allen also 3D printed the coil mount he modelled during the weekends to see whether it fits, and to test whether can we 3D print spare parts for it for GOS should any of it break during operation. 
 
@@ -2070,3 +2070,7 @@ We had an appointment Ms Nicole Daswani, an expert on special needs education fr
 ### Wednesday 28/10/2020
 
 Wen Da made the PCB board for etching fit the board. The board given was smaller than expected so he made it smaller to fit. However, the container to put the chemical was too small so we decided to continue on Friday due to sponsor meeting on Thursday. Allen and Wen Da laser cut a larger sized container for etching.
+
+Allen made the necessary adjustments to the feed tray design before making the 2D drawing for it. As well as making a 1mm variant of the design if we decide to make the feed tray with steel. Allen also made the 2D drawings for the motor bracket and the handle.
+
+**insert pictures**
