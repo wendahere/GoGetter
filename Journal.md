@@ -1943,7 +1943,7 @@ Peel off the paper and the black portion should remain on the copper portions.
 
 As etching will remove copper portions, we cut away the perimeters of the copper that is unused.
 
-Mix 1:1 portion of 3% Hydrogen Peroxide and Vinegar. If the hydrogen peroxide is 6%, mix a 2:1 with 2 being Vinegar.
+Mix 1:1 portion of 3% Hydrogen Peroxide and Vinegar. If the hydrogen peroxide is 6%, mix a 2:1 with 2 being Vinegar. Add half a teaspoon of salt, it does not have to be accurate, but too much salt will cause too much bubbles when copper is being rubbed off.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/IMG_5137.JPG)
 
@@ -2066,3 +2066,7 @@ Wen Da carried on PCB Design for Motor Matrix wiring.
 #### Special needs education (SEN) expert meeting
 
 We had an appointment Ms Nicole Daswani, an expert on special needs education from SP's SEN centre. We wanted to know more about 
+
+### Wednesday 28/10/2020
+
+Wen Da made the PCB board for etching fit the board. The board given was smaller than expected so he made it smaller to fit. However, the container to put the chemical was too small so we decided to continue on Friday due to sponsor meeting on Thursday. Allen and Wen Da laser cut a larger sized container for etching.
