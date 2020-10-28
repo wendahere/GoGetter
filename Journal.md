@@ -2077,4 +2077,4 @@ Allen made the necessary adjustments to the feed tray design before making the 2
 
 **insert pictures**
 
-Reynard continued to work on the keypad.
+Reynard continued to work on the keypad. Ask Loius to flash the arduino micro. Considered making a PCB as the wires leading to the arduino micro is very messy. 
