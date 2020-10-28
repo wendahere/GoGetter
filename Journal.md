@@ -2043,11 +2043,23 @@ Also modelled a drawer roller slide.
 
 **insert pictures**
 
+Wen Da tested if using transistor as a switch for power side would work. He was unsure as the typical switch use is to cut off the ground side, not the power side. This was tested on tinkercad.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/powersidetest.JPG)
+
+Wen Da drew out the matrix wiring control for motors (5 by 3 and 5 by 4) on eagle. He later tested 1 by 1 matrix as he was unsure if the GPIO control common GND would connect to the 2nd transistor (GND Side)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Raspberry/Images/transistormatrixtest.JPG)
+
+The LED lights up means the 1 by 1 matrix works. This means that 5 by 4 etc, would all work as well.
+
 ### Tuesday 27/10/2020
 
 Allen consulted with Mr Soh on the design of the feedtray. Where Mr Soh mentioned if we were to proceed with sheet metal bending, we needed to include corner reliefs for the bends so as to prevent tearing from happening while bending. He said to send the design for quotation first and to see the prices for 1.5mm steel and 2mm aluminium.
 
 Allen also 3D printed the coil mount he modelled during the weekends to see whether it fits, and to test whether can we 3D print spare parts for it for GOS should any of it break during operation. 
+
+Wen Da carried on PCB Design for Motor Matrix wiring.
 
 **insert pictures**
 
