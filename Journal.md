@@ -2078,3 +2078,9 @@ Allen made the necessary adjustments to the feed tray design before making the 2
 **insert pictures**
 
 Reynard continued to work on the keypad. Ask Loius to flash the arduino micro. Considered making a PCB as the wires leading to the arduino micro is very messy. 
+
+### Thursday 29/10/2020
+
+Allen brought parts from Aircon Lab in SP.
+
+Wen Da tested all of the power supply units Allen brought to ensure that it is working. Wen Da went to Easy M Ltd Pte at Republic Plaza, #06-00 to see what parts he could take for the project.
