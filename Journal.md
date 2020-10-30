@@ -2033,6 +2033,11 @@ Code used:
  	   ui.show()
  	   sys.exit(app.exec_())
 
+## Week 7 (25/10/2020 to 31/10/2020) 
+We met up with Singapore Polytechnic Special Needs Education Expert (Sen Center). Wen Da designed and chemical etched a PCB for Motor Matrix Control. Allen worked on the Vending Machine Design. Reynard worked on Keycaps and soldering Keypad Matrix.
+
+At end of the week, we collected a sponsored Vending Machine given from Blue Sky Tree. We took apart the vending machine to study and to use as parts.
+
 ### Monday 26/10/2020
 
 Allen continued working on the feedtray design for the vending machine. Since we will not be using the existing feedtrays from the vending machine that was given to us, as it does not serve the purpose we need, which is to hang the prizes on the coil. He also sourced for the different materials that will be used to make the feed tray (angle bar, and sheet metal), and did research on what grade of aluminium or steel is most suitable for us.
@@ -2077,10 +2082,75 @@ Allen made the necessary adjustments to the feed tray design before making the 2
 
 **insert pictures**
 
-Reynard continued to work on the keypad. Ask Loius to flash the arduino micro. Considered making a PCB as the wires leading to the arduino micro is very messy. 
+Reynard continued to work on the keypad. Ask Louis to flash the arduino micro. Considered making a PCB as the wires leading to the arduino micro is very messy. 
 
 ### Thursday 29/10/2020
 
 Allen brought parts from Aircon Lab in SP.
 
 Wen Da tested all of the power supply units Allen brought to ensure that it is working. Wen Da went to Easy M Ltd Pte at Republic Plaza, #06-00 to see what parts he could take for the project.
+
+### Friday 30/10/2020
+
+We gathered our comrades to assist us in moving the sponsored vending machine from Techplace 1 in Ang Mo Kio Ave 10 to T11c in Singapore Polytechnic. Reynard stayed behind in Singapore Polytechnic due to his bad knee and there is a shelter to be moved before the Truck can move into T11c. 
+
+Shelter to be moved:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/5692770c-e486-4bc8-b8b4-09d3d65d0a59.jpg)
+
+Wen Da liaised with a transport company called LongShot Transport, for a 8-footer lorry with tail lift and one pallet jack.
+
+The driver came very early.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/E7F6F8B8-3345-4C1C-AF38-442881FE71B8.jpg)
+
+Allen and our comrades helped move the vending machine to the loading bay. 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/c798f85a-eda3-4921-b7b1-ba3ab5f7caa2.jpg)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5269.JPG)
+
+We are very thankful for the company Blue Sky Tree for sponsoring their vending machine! We parked the vending machine at T11c at the back. This will be our working area from now onwards.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5273.JPG)
+
+After a short break, Allen and Reynard worked on taking apart the vending machine while Wen Da worked on chemical etching the PCB.
+
+Working on PCB:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5275.JPG)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5276.JPG)
+
+The heat press looked promising however....Looking at the top-ish left portion of the board, there is a part that did not did press properly. We tried using a black marker pen to protect the copper, however, after the chemical bath and wiping away with Aerosol, it turns out that marker ink did not protect the copper.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5281.JPG)
+
+After using Aerosol to wipe away the protection and testing continuity, it turns out that the bad portion did had continuity! It will work fine. Wen Da is planning to drill hole and solder the components on Monday. As the board is large, Wen Da and Allen made a larger size box using Acrylic and waterproofed it using tape and Acrylic Glue. This board required 5 chemical baths of 100ml to etch away the copper.
+
+***Weekends:***
+
+Wen Da brought the Power Supply Unit and a row of Motor and it's PCB home to work on it. The PSU had 2 input to power the machine in parallel as only 1 input (wall plug) might not have enough current to power the machine.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5302.JPG)
+
+The PSU used Molex cables to connect the wires. 
+
+The Mechanical Circuit Breaker is C16, this meant that it was a slow acting 16A MCB. There is 2 inputs and 2 outputs, for live and neutral. This means that it is able to detect if there is deviation due to poor insulation. It is not the best MCB for our purpose, Type A is better as it is fast acting, but it will work fine. The Live and Neutral will be connected to the MCB then to the PSU. 
+
+The Earth will be connected to the casing and parallel connected to the PSU. (PSU required Live, Neutral and Earth) Connecting Earth to the casing is to ensure that anyone who touches the Vending Machine will not be shocked if there are any live loose/open wires touching the casing due to any reason.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5305.JPG)
+
+The given casing with the PSU also had a temperature controller. It will not be used as it is not required.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5306.JPG)
+
+This is the Power Supply Unit. 24v, 10A. Out of all of our 24V power supply we had, this is the highest current rating we have. We will be using this Power Supply Unit.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5308.JPG)
+
+The PCB they used for matrix control was very useful. I learned that the holes to put the molex female component were Vias. This meant that I could connect the top copper and bottom copper to the molex female component and only solder the component at the bottom. I would not need to solder the top copper for the component to connect as there is the Via to connect the bottom to the top copper.
+
+
+
+
