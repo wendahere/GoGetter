@@ -2090,6 +2090,8 @@ Allen brought parts from Aircon Lab in SP.
 
 Wen Da tested all of the power supply units Allen brought to ensure that it is working. Wen Da went to Easy M Ltd Pte at Republic Plaza, #06-00 to see what parts he could take for the project.
 
+Allen also made multiple designs of the 
+
 ### Friday 30/10/2020
 
 We gathered our comrades to assist us in moving the sponsored vending machine from Techplace 1 in Ang Mo Kio Ave 10 to T11c in Singapore Polytechnic. Reynard stayed behind in Singapore Polytechnic due to his bad knee and there is a shelter to be moved before the Truck can move into T11c. 
@@ -2150,6 +2152,14 @@ This is the Power Supply Unit. 24v, 10A. Out of all of our 24V power supply we h
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Collection/IMG_5308.JPG)
 
 The PCB they used for matrix control was very useful. I learned that the holes to put the molex female component were Vias. This meant that I could connect the top copper and bottom copper to the molex female component and only solder the component at the bottom. I would not need to solder the top copper for the component to connect as there is the Via to connect the bottom to the top copper.
+
+Allen continued to work on the CAD design of the vending machine. He focused on designing the metal sheets that would be used to cover up the hollow tube frame. 
+
+**insert pictures of the different metal sheets for the frame**
+
+The way we will be installing the sheets onto the frame is by blind riveting. Allen learnt that the spacing between each rivets also known as rivet pitch must be at least 3 times the rivet diameter, althought the preferred distance is 3.5 times the rivet diameter. Another thing to note is the edge distance of rivets, it should not be less than 2 times the diameter of the rivets. The recommended edge distance is 2.5 times the rivet diameter, this is so that the rivet holes can be enlarged in the future without violating the miniumum edge distance. It is important that the minimum edge distance is met. This is because, if rivets are placed to near the edge of the sheet, the sheet may crack or pull away from the rivet while under load.
+
+To find out more about the basics of riveting, here are some links: [link 1](https://www.youtube.com/watch?v=FY8Nn7_6Erc&ab_channel=HomebuiltHELP), [link 2](https://www.flight-mechanic.com/structural-fasteners-solid-shank-rivets-installation-of-rivets/), [link 3](https://www.tpub.com/air/13-25.htm). 
 
 
 
