@@ -2159,8 +2159,11 @@ Allen continued to work on the CAD design of the vending machine. He focused on 
 
 The way we will be installing the sheets onto the frame is by blind riveting. Allen learnt that the spacing between each rivets also known as rivet pitch must be at least 3 times the rivet diameter, althought the preferred distance is 3.5 times the rivet diameter. Another thing to note is the edge distance of rivets, it should not be less than 2 times the diameter of the rivets. The recommended edge distance is 2.5 times the rivet diameter, this is so that the rivet holes can be enlarged in the future without violating the miniumum edge distance. It is important that the minimum edge distance is met. This is because, if rivets are placed to near the edge of the sheet, the sheet may crack or pull away from the rivet while under load.
 
-To find out more about the basics of riveting, here are some links: [link 1](https://www.youtube.com/watch?v=FY8Nn7_6Erc&ab_channel=HomebuiltHELP), [link 2](https://www.flight-mechanic.com/structural-fasteners-solid-shank-rivets-installation-of-rivets/), [link 3](https://www.tpub.com/air/13-25.htm). 
+To find out more about the basics of riveting, here are some links: [link 1](https://www.youtube.com/watch?v=FY8Nn7_6Erc&ab_channel=HomebuiltHELP), [link 2](https://www.flight-mechanic.com/structural-fasteners-solid-shank-rivets-installation-of-rivets/), [link 3](https://www.tpub.com/air/13-25.htm).
 
+**show pic of the frame with rivet holes** 
+
+There was a concern with the design if we 
 
 
 
