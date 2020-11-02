@@ -2129,7 +2129,7 @@ The heat press looked promising however....Looking at the top-ish left portion o
 
 After using Aerosol to wipe away the protection and testing continuity, it turns out that the bad portion did had continuity! It will work fine. Wen Da is planning to drill hole and solder the components on Monday. As the board is large, Wen Da and Allen made a larger size box using Acrylic and waterproofed it using tape and Acrylic Glue. This board required 5 chemical baths of 100ml to etch away the copper.
 
-***Weekends:***
+### Weekends 31/10 - 1/11/2020
 
 Wen Da brought the Power Supply Unit and a row of Motor and it's PCB home to work on it. The PSU had 2 input to power the machine in parallel as only 1 input (wall plug) might not have enough current to power the machine.
 
@@ -2164,6 +2164,10 @@ To find out more about the basics of riveting, here are some links: [link 1](htt
 **show pic of the frame with rivet holes** 
 
 There was a concern with the design if we 
+
+### Monday 02/11/2020
+
+Allen and Reynard continue to take apart the vending machine to learn its inner workings. While Wen Da worked on his PCB.
 
 
 
