@@ -2184,11 +2184,12 @@ Allen met up with Mr Soh to discuss the design of the vending machine.
 - For the design of the feedtray, Mr Soh stated that if the other 3 sides of the wall of the body is not load bearing, then their height need not to match the height of the front wall. This might help to cut cost in the manufacture of the feed tray drawers.
 - For the motor bracket, Mr Soh suggested to change the design into using bent 3mm steel,  
 - For our angle bar that is used to support the coil, the bending relief should be perpendicular to the bending line rather than parallel to it.
-- With regards to the 
+- With regards to the chance a prize on the highest level might get caught by the coils on the level below it when it gets dispensed, Mr Soh suggested to make ramps for the top 2 levels.
 
 **Frame:**
 
 - The panel thickness is changed from 2mm to 1mm, and we will most likely use either phosphated steel or powder coated mild steel.
 - The width of the frame is increased by 150mm and the thickness is increased by 200mm. Hence, the final dimension of our vending machine is: 1150 x 1450 x 800mm
 - For the rivet pitch, we would use 20 times the rivet diameter. Don't need to follow the rule of thumb.
-- To mount the drawer runners to the frame, it will be mounted on the 
+- To mount the drawer runners to the frame, it will be mounted on horizontal hollow tubes, that are 1mm thick, where rectangular cut outs are made in the the tubes so that the drawer runner can slide into them and be locked in place. If that doesn't work, the drawer runners will be welded directly onto the frame.
+- Talk about making the left panel transparent, use polycarbonate sheet instead of metal sheet, so that students will be able to peer through and see the dispensing mechanism. This allows students to learn about physics (link to what was said by SEN centre expert, allow the students to gain transferable knowledge).
