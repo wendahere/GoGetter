@@ -2188,4 +2188,7 @@ Allen met up with Mr Soh to discuss the design of the vending machine.
 
 **Frame:**
 
-- 
+- The panel thickness is changed from 2mm to 1mm, and we will most likely use either phosphated steel or powder coated mild steel.
+- The width of the frame is increased by 150mm and the thickness is increased by 200mm. Hence, the final dimension of our vending machine is: 1150 x 1450 x 800mm
+- For the rivet pitch, we would use 20 times the rivet diameter. Don't need to follow the rule of thumb.
+- To mount the drawer runners to the frame, it will be mounted on the 
