@@ -2171,8 +2171,6 @@ One method that we came up with is to cut the coils short
 
 **show pic of the solution**
 
-
-
 ### Monday 02/11/2020
 
 Allen and Reynard continue to take apart the vending machine to learn its inner workings. While Wen Da worked on his PCB.
