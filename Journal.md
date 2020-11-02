@@ -2165,9 +2165,27 @@ To find out more about the basics of riveting, here are some links: [link 1](htt
 
 There was a concern with the design if we 
 
+**show pic of the coils being in line, then the prizes might get caught by the coils below**
+
+One method that we came up with is to cut the coils short
+
+**show pic of the solution**
+
+
+
 ### Monday 02/11/2020
 
 Allen and Reynard continue to take apart the vending machine to learn its inner workings. While Wen Da worked on his PCB.
 
+Allen met up with Mr Soh to discuss the design of the vending machine.
 
+**Dispensing mechanism:**
 
+- For the design of the feedtray, Mr Soh stated that if the other 3 sides of the wall of the body is not load bearing, then their height need not to match the height of the front wall. This might help to cut cost in the manufacture of the feed tray drawers.
+- For the motor bracket, Mr Soh suggested to change the design into using bent 3mm steel,  
+- For our angle bar that is used to support the coil, the bending relief should be perpendicular to the bending line rather than parallel to it.
+- With regards to the 
+
+**Frame:**
+
+- 
