@@ -2204,3 +2204,7 @@ Allen worked on creating a ramp for the bottom 2 levels of the feed tray. After 
 **show ramp design 1**
 
 **show ramp design 2** 
+
+Allen also worked on the panels for the collection point at the door.
+
+**show pictures**
