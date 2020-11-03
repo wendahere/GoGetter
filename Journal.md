@@ -2199,3 +2199,8 @@ Allen laser cut and bent 3mm acrylic to test out the new motor bracket.
 
 **insert pic here**
 
+Allen worked on creating a ramp for the bottom 2 levels of the feed tray. After creating the first design, he realised that the overall design can be simplified. This way there isn't a need to increase the width of the frame and the thickness can be increased by 100mm instead of 200mm. New frame dimension: 1000x700x1450mm. 
+
+**show ramp design 1**
+
+**show ramp design 2** 
