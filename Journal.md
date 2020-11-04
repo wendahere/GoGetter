@@ -2240,10 +2240,9 @@ Allen calculated the rough weight of the feed tray to determine the load the dra
 - Fastener weight: 
 - Drawer slider weight:  
 
-Total weight (2mm aluminium): 0.99 + 1.65
+Total weight (2mm aluminium): 0.99 + 1.65 + + 1.45 + 0.3 + 0.48 + + 1.68 + + + =
 
-Total weight (1mm steel): 1.55 + 
-
+Total weight (1mm steel): 1.55 + 1.65 + + 1.45 + 0.3 + 0.48 + + 1.68 + + + = 
 
 Reynard read up on SQL which will be used for the database of the students.
 
