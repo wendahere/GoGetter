@@ -2244,6 +2244,10 @@ Total weight (2mm aluminium): 0.99 + 1.65 + + 1.45 + 0.3 + 0.48 + + 1.68 + + + =
 
 Total weight (1mm steel): 1.55 + 1.65 + + 1.45 + 0.3 + 0.48 + + 1.68 + + + = 
 
+Allen also made a template for GOS on how to tie string that will be use to loop around the coil.
+
+**show picture**
+
 Reynard read up on SQL which will be used for the database of the students.
 
 Wen Da designed a new board for chemical etching.
