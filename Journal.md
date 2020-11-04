@@ -2219,3 +2219,14 @@ Allen made some adjustments to the height of the vending machine frame, and went
 
 Allen also did 2D drawings for the panels for the vending machine frame. 
 
+Wen Da brought some blind rivets and a rivet gun for Allen to familiarise on how to do riveting.
+
+Allen prepared some aluminium pieces to practice on how to rivet. 
+
+**show pictures**
+
+Reynard read up on SQL which will be used for the database of the students.
+
+Wen Da designed a new board for chemical etching.
+
+### Thursday 05/11/2020
