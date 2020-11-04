@@ -2225,6 +2225,26 @@ Allen prepared some aluminium pieces to practice on how to rivet.
 
 **show pictures**
 
+Allen calculated the rough weight of the feed tray to determine the load the drawer rollers will have to support. Here are the calculations: 
+
+- Feed tray weight (2mm 5083 aluminium): 0.99kg [calculated using [this website](http://www.aalco.co.uk/online-tools/weight-calculator/)]
+- Feed tray weight (1mm maraging steel): 1.55kg [caclulated using [this website](http://www.aalco.co.uk/online-tools/weight-calculator/)] 
+- Coil weight: 0.33 * 5 = 1.65kg
+- Motor weight: * 5 =
+- Motor bracket weight (3mm maraging steel): 0.29 * 5 = 1.45kg 
+- Angle bar weight (1mm 5083 aluminium): 0.06 * 5 = 0.3kg
+- Handle weight (2mm 5083 aluminium): 0.14 + 0.17 + 0.17 = 0.48kg 
+- Ramp weight (2mm acrylic): 
+- Prize weight (heaviest): 120 * 14 = 1.68kg 
+- LED weight: 
+- Fastener weight: 
+- Drawer slider weight:  
+
+Total weight (2mm aluminium): 0.99 + 1.65
+
+Total weight (1mm steel): 1.55 + 
+
+
 Reynard read up on SQL which will be used for the database of the students.
 
 Wen Da designed a new board for chemical etching.
