@@ -2208,3 +2208,14 @@ Allen worked on creating a ramp for the bottom 2 levels of the feed tray. After 
 Allen also worked on the panels for the collection point at the door.
 
 **show pictures**
+
+Did a layout test, found out that 1450mm might not be a suitable height
+
+**show pictures**
+
+### Wednesday 04/11/2020
+
+Allen made some adjustments to the height of the vending machine frame, and went to measure the stands of existing vending machine, where he found that they are between 3 inches to 6 inches. Therefore, the final height of the vending machine frame is 1600mm, and the stands to use is 100mm, which will bring the final height of the vending machine to be 1700mm. 
+
+Allen also did 2D drawings for the panels for the vending machine frame. 
+
