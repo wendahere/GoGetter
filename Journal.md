@@ -2263,7 +2263,49 @@ Wen Da brought some blind rivets and a rivet gun for Allen to familiarise on how
 
 Allen prepared some aluminium pieces to practice on how to rivet. 
 
-Wen Da printed the
+Wen Da printed the PCB Drawing on paper to check if the copper board could fit the design Wen Da made. The drawing could not fit and Wen Da removed some terminal blocks and moved the components closer and it fit well.
+
+Below are the steps on how to make high resolution print for PCB on Special paper for heat press: (This was learned from SP Fab Academy's Ting: [http://fabacademy.org/2020/labs/singapore/students/engting-kok/exercise06.html](http://fabacademy.org/2020/labs/singapore/students/engting-kok/exercise06.html) )
+
+1. Only show the layers that you want to print, in my case, I wanted top, pads and tnames.
+ ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20high%20res%20printing/Screenshot%20(39).png)
+2. Go File>Export>Image 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20high%20res%20printing/Screenshot%20(33).png)
+3. Set Resolution to 1000dpi and Click Monochrome 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20high%20res%20printing/Screenshot%20(34).png)
+4. Import the image to any software that can mirror and invert colors, I used Inkscape 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20high%20res%20printing/Screenshot%20(35).png)
+5. Go Path>Trace Bitmap ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20high%20res%20printing/Screenshot%20(36).png)
+6. Click on Invert Image then OK 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20high%20res%20printing/Screenshot%20(37).png)
+7. Remove the initial image 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20high%20res%20printing/Screenshot%20(38).png)
+8. Mirror the image 
+![](https://github.com/wendahere/GoGetter/blob/master/Electrical%20Component/PCB%20high%20res%20printing/Screenshot%20(41).png)
+9. Print/Save as PDF and print on the special paper 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20high%20res%20printing/Screenshot%20(43).png)
+
+Wen Da's initial print on paper was a fail as the image was too close to the edge to print.
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/IMG_5357.JPG)
+
+After editing and checking, Wen Da printed the image on the special glossy paper and cut and pasted on the copper board using Kepton tape.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/IMG_5358.JPG)
+
+Ready the chemical solution and etch!
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/IMG_5360.JPG)
+
+The first etch was a fail, for some reason, there was some black residue and the black protection corroded off as well.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/8BF64C5D-5433-477E-A70B-6E610AA636F3.jpg)
+
+After consulting and asking around, Wen Da learned that it was because the glossy special paper was slightly crumpled when Wen Da printed his board on it. The special glossy paper rolls up when exposed to the atmosphere for too long. Wen Da had to be quick and print once opened the paper.
+
+After etching, there was a large problem. Although the board was dull and similar to the first PCB board made, the most parts of the PCB still had continuity! Wen Da learned the reason was because the copper board was left exposed to the atmosphere for too long and the oxidation protected the copper board from the chemicals. After using a smoother type sand paper and sanding away the oxidation, there was obvious copper left. Wen Da with help from Fablab Technician Louis, used an Exacto Knife and scrapped away the portions that still had continuity. 
+
+Wen Da went home and used a dremel tool to remove away most of the extra copper.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/801D1F7E-2DA1-413B-AA82-9073E4F60950.jpg)
 
 **show pictures**
 
@@ -2295,3 +2337,9 @@ Reynard read up on SQL which will be used for the database of the students.
 Wen Da designed a new board for chemical etching.
 
 ### Thursday 05/11/2020
+
+Wen Da drilled holes in the new PCB Board and put in the components to get it ready for soldering. Wen Da worked on the Journal and report. 
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/IMG_5371.JPG)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/last.JPG)
