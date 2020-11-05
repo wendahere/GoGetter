@@ -2175,6 +2175,20 @@ One method that we came up with is to cut the coils short
 
 Allen and Reynard continue to take apart the vending machine to learn its inner workings. While Wen Da worked on his PCB.
 
+Wen Da drilled holes for the components for the PCB matrix motor control. He brought his 0.8mm drill bit and a desk drill press. 
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/IMG_5321.JPG)
+
+After checking the other side to see if the holes drilled through, Wen Da found out that the back cracked. This is not good as the component pin cannot go through the hole drilled.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/IMG_5322.JPG)
+
+Wen Da used a thin scrap wood board, about 3mm and put under the PCB to drill through. The back of the PCB had no cracks. Wen Da used a 1mm drill bit to "debur" the cracks.
+Wen Da put all the components in the respective locations and taped it in place for soldering.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/IMG_5325.JPG)
+
+
 Allen met up with Mr Soh to discuss the design of the vending machine.
 
 **Dispensing mechanism:**
@@ -2213,6 +2227,30 @@ Did a layout test, found out that 1450mm might not be a suitable height
 
 **show pictures**
 
+Wen Da got an expert to help him solder the components on Monday evening. 
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/54B77140-9261-48C7-8C03-DA31C23B9BD8.jpg)
+
+Wen Da cut the extra pins after checking continuity of the circuit. However, Wen Da realised that the PCB had a mistake, one of the transistor's middle pin was shorted to the side pins. Wen Da consulted few experts and got few opinions on how to fix it. 
+
+The first method was by using wiring wrapping. Using a tool and wire wrap, the copper wire can wrap around a pin, in this case the middle transistor pin and other side solder to the copper required. This method requires less soldering but is not permanent as there is no solder on the wire wrap connecting to the middle transistor pin.
+
+The second method which was used is simply to "jumper" the middle pin of the transistor to the copper required. The middle pin can be bend 90 degrees and cut a bit shorter. A wire will be soldered on it and the other end soldered on copper on the PCB.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/IMG_5340.JPG)
+
+After a quick continuity check to check if there are any shorts, Wen Da went and test the board with motors.
+
+Wen Da tested his circuit and found problems. The motor control did not work. After testing the low-side transistor switch, he found out that only the low-side transistor switch worked. After consulting few electrical engineers, he found out that he used wrong transistor. In the first place, TIP120 is a NPN Transistor, to use as a switch, it should be used for LOW-SIDE SWITCH, not high-side switch. For high-side switch, a mosfet that is PNP configuration should be used instead. However, for high-side switch to switch on 24VDC, a high voltage of at least 12VDC needs to be used, the Raspberry Pi can only send out 5VDC as signal, thus, another PNP high-side switch transistor has to be used. 
+
+For this application, a relay should be used instead. Wen Da spent the rest of the day drawing the Relay circuit for high-side switch. The first PCB can be used for low-side switch. Wen Da learned how to make his own EAGLE library using this youtube video: [https://www.youtube.com/watch?v=yvRGmltr_P8](https://www.youtube.com/watch?v=yvRGmltr_P8)
+
+This was required as the Fablab's 2xterminal block was not a standard part and there were troubles aligning the holes of the first PCB with the fablab's terminal block. Thus, Wen Da made an EAGLE library with the terminal block of 4.5mm pitch that fit with the fablab's terminal block.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/EAGLE.JPG)
+
+However, the (left side) schematic was not done very well, the holes could not be seen unless the mouse hover over it. The PCB (right side) however, was good as the spacing was accurately measured using a vernier caliper. 
+
 ### Wednesday 04/11/2020
 
 Allen made some adjustments to the height of the vending machine frame, and went to measure the stands of existing vending machine, where he found that they are between 3 inches to 6 inches. Therefore, the final height of the vending machine frame is 1600mm, and the stands to use is 100mm, which will bring the final height of the vending machine to be 1700mm. 
@@ -2221,7 +2259,11 @@ Allen also did 2D drawings for the panels for the vending machine frame.
 
 Wen Da brought some blind rivets and a rivet gun for Allen to familiarise on how to do riveting.
 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/E4CC2EA4-E43A-4CEF-8890-15213081BFE4.jpg)
+
 Allen prepared some aluminium pieces to practice on how to rivet. 
+
+Wen Da printed the
 
 **show pictures**
 
