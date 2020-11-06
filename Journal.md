@@ -2343,3 +2343,9 @@ Wen Da drilled holes in the new PCB Board and put in the components to get it re
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/IMG_5371.JPG)
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/last.JPG)
+
+Afterwards, Wen Da and Allen went to mechanical parts hardware store at Blk 802 French Road. Allen brought back few sizes of rivets, given as sample. We looked at drawer slides and learned that they only sell ball bearing drawer slides, not wheel type drawer slides. Both drawer slides can only up to 30kk and the wheel drawer slides are cheaper.
+
+### Friday 06/11/2020
+
+Wen Da had an expert to help solder the PCB board and he tested it. The current draw from the motor was 60mA and current draw for the relay was 40mA.
