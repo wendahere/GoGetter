@@ -2348,4 +2348,4 @@ Afterwards, Wen Da and Allen went to mechanical parts hardware store at Blk 802 
 
 ### Friday 06/11/2020
 
-Wen Da had an expert to help solder the PCB board and he tested it. The current draw from the motor was 60mA and current draw for the relay was 40mA.
+Wen Da had an expert to help solder the PCB board and he tested it. The current draw from the motor was 60mA and current draw for the relay was 30mA.
