@@ -2368,3 +2368,5 @@ Reynard worked on his keycaps.
 Allen did the tray design.
 
 ### Tuesday 03/11/2020
+
+Wen Da listed down the electrical parts required to be purchased and designed the box for storing the power supply.
