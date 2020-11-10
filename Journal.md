@@ -2374,3 +2374,7 @@ Wen Da listed down the electrical parts required to be purchased and designed th
 After consulting with Mr Soh, he suggested that we use back the power supply box as it is powder coated and still in good condition.
 
 We will use back the power supply box, additional holes can be covered up with acrylic and epoxy glue.
+
+Wen Da finished his PCB Design for JLCPCB Fabrication and talked to Mr Steven Chew to check. Mr Steven Chew asked Wen Da to rectify the errors in DRC errors.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/JLCPCB/DRCErrors.JPG)
