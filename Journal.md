@@ -2171,6 +2171,10 @@ One method that we came up with is to cut the coils short
 
 **show pic of the solution**
 
+## Week 8 (1/11/2020 to 7/11/2020) 
+
+We took apart the vending machine to reuse their parts. Wen Da finished his chemical etched PCB for motor control.
+
 ### Monday 02/11/2020
 
 Allen and Reynard continue to take apart the vending machine to learn its inner workings. While Wen Da worked on his PCB.
@@ -2351,3 +2355,16 @@ Afterwards, Wen Da and Allen went to mechanical parts hardware store at Blk 802 
 Wen Da had an expert to help solder the PCB board and he tested it. The current draw from the motor was 60mA and current draw for the relay was 30mA.
 
 Wen Da tested with both high-side and low-side switches boards and it works!
+
+
+## Week 9 (8/11/2020 to 14/11/2020) 
+
+### Monday 02/11/2020
+
+Wen Da worked on final design of PCB EAGLE board to be manufactured and emailed JLCPCB about his inquiries and talked to Mr Steven Chew about PCB Vias.
+
+Reynard worked on his keycaps.
+
+Allen did the tray design.
+
+### Tuesday 03/11/2020
