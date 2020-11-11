@@ -2350,16 +2350,35 @@ Wen Da drilled holes in the new PCB Board and put in the components to get it re
 
 Afterwards, Wen Da and Allen went to mechanical parts hardware store at Blk 802 French Road. Allen brought back few sizes of rivets, given as sample. We looked at drawer slides and learned that they only sell ball bearing drawer slides, not wheel type drawer slides. Both drawer slides can only up to 30kk and the wheel drawer slides are cheaper.
 
+Allen ordered the drawer roller slides from [shoppee](https://shopee.sg/product/196223156/5106857356).
+
 ### Friday 06/11/2020
 
 Wen Da had an expert to help solder the PCB board and he tested it. The current draw from the motor was 60mA and current draw for the relay was 30mA.
 
 Wen Da tested with both high-side and low-side switches boards and it works!
 
+To allow for easy refill of prizes, Allen made a locking mechanism to be attached on the handle, so that the handle can be easily lifted up and down during refilling.
+
+**show pictures**
+
+### Weekends (07 - 08/11/2020)
+
+Allen received the drawer roller slides, and modelled them in CAD.
+
+**show pic of the drawer slides and cad model**
+
+Allen added rivet holes to the frame and panels and did dimension drawings for all the components.
+
+**show pics**
+
+The feed tray design has also been changed  to accomodate the drawer slides, and also the height of the back of the feedtray has been reduced since it is not load bearing it does not make sense to have it at such a high height, plus it saves cost too.
+
+**show pic**
 
 ## Week 9 (8/11/2020 to 14/11/2020) 
 
-### Monday 02/11/2020
+### Monday 08/11/2020
 
 Wen Da worked on final design of PCB EAGLE board to be manufactured and emailed JLCPCB about his inquiries and talked to Mr Steven Chew about PCB Vias.
 
@@ -2367,7 +2386,7 @@ Reynard worked on his keycaps.
 
 Allen did the tray design.
 
-### Tuesday 03/11/2020
+### Tuesday 09/11/2020
 
 Wen Da listed down the electrical parts required to be purchased and designed the box for storing the power supply.
 
@@ -2378,3 +2397,27 @@ We will use back the power supply box, additional holes can be covered up with a
 Wen Da finished his PCB Design for JLCPCB Fabrication and talked to Mr Steven Chew to check. Mr Steven Chew asked Wen Da to rectify the errors in DRC errors.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/JLCPCB/DRCErrors.JPG)
+
+Allen consulted Mr Edward about the design of certain components.
+
+### Wednesday 11/11/2020
+
+Allen did calculation for the coil support to determine whether will the angle bar fail under tensile and shear stress. All calculations are based on the worst case scenario.
+
+**Tensile stress calculation**
+
+Using the following formula to determine the tensile stress, 
+
+σ = (My)/I, where σ = bending stress, M = moments, y = distance from the neutral axis to the stress location, I = second moment of area about the neutral axis.
+
+![Moment calculation]()
+
+![Finding I and y of the angle bar]()
+Formula for I and y is taken from [this website](https://www.engineeringtoolbox.com/area-moment-inertia-d_521.html). 
+
+![Finding σ and factor of safety]()
+
+Since the working stress, 102.06 N/mm^2 is less than the maximum yield stress of the angle bar, 276 N/mm^2 ([source](http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6061T6)), and with a factor of safety of 2.7043, the angle bar will not fail during operation. 
+
+
+
