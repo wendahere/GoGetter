@@ -2420,4 +2420,6 @@ Formula for I and y is taken from [this website](https://www.engineeringtoolbox.
 Since the working stress, 102.06 N/mm^2 is less than the maximum yield stress of the angle bar, 276 N/mm^2 ([source](http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6061T6)), and with a factor of safety of 2.7043, the angle bar will not fail during operation. 
 
 
+Wen Da worked on making the 3D drawing of power supply box on Inventor. 
 
+Mr Soh suggested to sand down the parts of the sponsored power supply box that is rusted and spray paint over it at the final stage of the project.
