@@ -2423,3 +2423,9 @@ Since the working stress, 102.06 N/mm^2 is less than the maximum yield stress of
 Wen Da worked on making the 3D drawing of power supply box on Inventor. 
 
 Mr Soh suggested to sand down the parts of the sponsored power supply box that is rusted and spray paint over it at the final stage of the project.
+
+### Thursday 12/11/2020
+
+Wen Da worked on the report and took pictures of his PCB to add in the report.
+
+### Friday 13/11/2020
