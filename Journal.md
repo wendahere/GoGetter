@@ -2173,7 +2173,7 @@ One method that we came up with is to cut the coils short
 
 ## Week 8 (1/11/2020 to 7/11/2020) 
 
-We took apart the vending machine to reuse their parts. Wen Da finished his chemical etched PCB for motor control.
+We took apart the vending machine to reuse their parts. Wen Da finished his chemical etched PCB for motor control. Allen bought Drawer slides and is working on designing of the vending machine in Inventor. Reynard worked on his keypads.
 
 ### Monday 02/11/2020
 
@@ -2426,6 +2426,6 @@ Mr Soh suggested to sand down the parts of the sponsored power supply box that i
 
 ### Thursday 12/11/2020
 
-Wen Da worked on the report and took pictures of his PCB to add in the report.
+Wen Da worked on the report and took pictures of his PCB to add in the report. Allen did vending machine design to send for quotation. Reynard ordered electrical parts and Wen Da requires for PCB board.
 
 ### Friday 13/11/2020
