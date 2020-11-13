@@ -2429,3 +2429,12 @@ Mr Soh suggested to sand down the parts of the sponsored power supply box that i
 Wen Da worked on the report and took pictures of his PCB to add in the report. Allen did vending machine design to send for quotation. Reynard ordered electrical parts and Wen Da requires for PCB board.
 
 ### Friday 13/11/2020
+
+Wen Da created 3D model of this PCB.
+Following this playlist guide: [https://www.youtube.com/watch?v=DZ8cBNBsJwE&list=PL1rOC5j_Fyi6B0wRJw2GAVEjE_dNR7rlK&index=17](https://www.youtube.com/watch?v=DZ8cBNBsJwE&list=PL1rOC5j_Fyi6B0wRJw2GAVEjE_dNR7rlK&index=17)
+
+Steps:
+1) Create a managed Library in Eagle
+2) Go on Grabcad and find the component step file, check the size on Inventor
+3) Open the managed library online on library.io, click on edit on the package and import the step file
+4) Align the component to the holes and save Version 2
