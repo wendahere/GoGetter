@@ -2398,7 +2398,13 @@ Wen Da finished his PCB Design for JLCPCB Fabrication and talked to Mr Steven Ch
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/JLCPCB/DRCErrors.JPG)
 
-Allen consulted Mr Edward about the design of certain components.
+Allen consulted Mr Edward and Mr Soh about the design of certain components.
+
+Allen also designed the leg and hinge brackets that will be used to pivot the door and to hold the leg stands for the vending machine.
+
+**show pictures**
+
+Allen also confirmed with Mr Soh what type of material the team will use for the frame and the panels. Namely, 3mm thick mild steel 1 square inch hollow tubes for the frame, coated with a layer of anti rust primer; 1mm phosphated steel for the feed tray and frame panels. 
 
 ### Wednesday 11/11/2020
 
@@ -2428,6 +2434,8 @@ Mr Soh suggested to sand down the parts of the sponsored power supply box that i
 
 Wen Da worked on the report and took pictures of his PCB to add in the report. Allen did vending machine design to send for quotation. Reynard ordered electrical parts and Wen Da requires for PCB board.
 
+For the design of the vending machine, Allen made sure to double check critical dimensions, and redo the 2D drawings for the parts that will be sent out for fabrication. He also made some changes to the leg and hinge brackets by adding a nut to required brackets, so that there's a way to adjust the height of the leg stands by using the screw threads.
+
 ### Friday 13/11/2020
 
 Wen Da created 3D model of this PCB.
@@ -2438,3 +2446,33 @@ Steps:
 2) Go on Grabcad and find the component step file, check the size on Inventor
 3) Open the managed library online on library.io, click on edit on the package and import the step file
 4) Align the component to the holes and save Version 2
+
+Allen did a final round of checking for the parts to be sent out. And also finished the dimension drawings for the subassembly of the leg and hinge brackets to show how we want the bolts and nuts to be welded on each brackets.
+
+**show pictures**
+
+Allen also designed the window  for the main door which will be made out of polycarbonate. 
+
+**show pictures**
+
+### Weekends 14-15/11/2020
+
+Allen continued to finish up the design for the main door and IO door, as well as its associated panels and other components.
+
+**show pic of the doors(panel and frame)**
+
+Allen also ordered a lock that will be used for the vending machine from [lazada](https://www.lazada.sg/products/t-shape-cabinet-lock-lock-for-vending-machine-booth-game-machine-atm-machinesmart-terminal-handle-lockscabinet-lock-i1267414793-s5221610386.html?).
+
+![t lock]()
+
+Using the dimensions given by the supplier, he did a 3D model of the lock.
+
+**show the cad model of the lock**
+
+A bracket for the lock is also designed, to hold the other locking part of the lock on the frame of the vending machine body, while the other half is directly mounted to the IO door. 
+
+Furthermore, he designed the pull flap that covers the opening of the collection point. Initially, the team wanted an inner flap, so that when the outer flap is opened, the inner flap will close, blocking any access to the inside prizes from the outside. But while designing the system (4 bar linkage), Allen found out that it doesn't really makes sense to have that system in place with the type of design the team is going towards. So he decided to omit the inner flap and design an outer flap only.
+
+**show pictures** 
+
+### Monday 16/11/2020
