@@ -2476,3 +2476,24 @@ Furthermore, he designed the pull flap that covers the opening of the collection
 **show pictures** 
 
 ### Monday 16/11/2020
+
+16/11/2020 - Team Meeting Week 10
+
+Design
+Door is done
+Flap laser cut in school
+Collection panel will be made out of acrylic
+Security T-Handle Lock is ordered
+250mm space to put Pi and electrical components
+
+By Week 11
+Interim Report Finished (Chapter 3)
+
+By end of Week 12 latest
+Keypad Fully Finished
+No PCB
+80% done with SQL
+Dispensing Mechanism and Motor Bracket component is finished
+
+By end of Week 13
+50% done with NFC
