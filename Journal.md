@@ -2497,3 +2497,6 @@ Dispensing Mechanism and Motor Bracket component is finished
 
 By end of Week 13
 50% done with NFC
+
+Wen Da worked on the 3D model of the PCB. The holes will be M2, screw will be cheese head M2x5.
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/3D%20Model%20PCB.JPG)
