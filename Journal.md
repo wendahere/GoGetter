@@ -2479,7 +2479,7 @@ Wen Da worked on 3D modeling of the PCB.
 
 **show pictures** 
 
-## Week 9 (15/11/2020 to 21/11/2020) 
+## Week 10 (15/11/2020 to 21/11/2020) 
 
 End of the week, place fabrication order.
 
