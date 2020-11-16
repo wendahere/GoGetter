@@ -2378,6 +2378,8 @@ The feed tray design has also been changed  to accomodate the drawer slides, and
 
 ## Week 9 (8/11/2020 to 14/11/2020) 
 
+Wen Da completed the PCB Design to be sent out for manufacturing and did 3D modeling for the PCB. Allen work on finishing his designs and sent out quotations to 5 manufacturing companies and did mechanical calculations for his designs.
+
 ### Monday 08/11/2020
 
 Wen Da worked on final design of PCB EAGLE board to be manufactured and emailed JLCPCB about his inquiries and talked to Mr Steven Chew about PCB Vias.
@@ -2473,11 +2475,19 @@ A bracket for the lock is also designed, to hold the other locking part of the l
 
 Furthermore, he designed the pull flap that covers the opening of the collection point. Initially, the team wanted an inner flap, so that when the outer flap is opened, the inner flap will close, blocking any access to the inside prizes from the outside. But while designing the system (4 bar linkage), Allen found out that it doesn't really makes sense to have that system in place with the type of design the team is going towards. So he decided to omit the inner flap and design an outer flap only.
 
+Wen Da worked on 3D modeling of the PCB.
+
 **show pictures** 
+
+## Week 9 (15/11/2020 to 21/11/2020) 
+
+End of the week, place fabrication order.
 
 ### Monday 16/11/2020
 
-16/11/2020 - Team Meeting Week 10
+Received quotation from Starlight fabrication company.
+
+##16/11/2020 - Team Meeting Week 10
 
 Design
 Door is done
@@ -2500,3 +2510,21 @@ By end of Week 13
 
 Wen Da worked on the 3D model of the PCB. The holes will be M2, screw will be cheese head M2x5.
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/3D%20Model%20PCB.JPG)
+
+Wen Da planned out where he wanted to put the wires for the motor and LEDs. Wire wrap will be mainly used to keep the wires neat and tidy.
+
+When the tray is pushed in, the wire wrap will be as shown below. There will be slack given for when the tray is pulled out.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/Wire%20Layout%20Plan/Top-In.JPG)
+
+This is how the wires will behave when the tray is pulled out.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/Wire%20Layout%20Plan/Top-Out.JPG)
+
+The wires will go through the 50mm Diameter hole at the side panel as shown below.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/Wire%20Layout%20Plan/Top-Left_Out.JPG)
+
+This is repeated for the 3 trays and the middle compartment is where the PCB will be mounted. The wires will go through the 50mm Diameter hole at the shelf panel to go down/up to be connected to the PCB.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/Wire%20Layout%20Plan/Right-Side-PCB.JPG)
