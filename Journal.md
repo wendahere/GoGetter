@@ -2528,3 +2528,17 @@ The wires will go through the 50mm Diameter hole at the side panel as shown belo
 This is repeated for the 3 trays and the middle compartment is where the PCB will be mounted. The wires will go through the 50mm Diameter hole at the shelf panel to go down/up to be connected to the PCB.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/Wire%20Layout%20Plan/Right-Side-PCB.JPG)
+
+We received a quotation from Starlight, a metal working comapany. The projected cost to fabricate the frame, associated panels, feed tray and brackets will cost us around SGD2950. Unfortunately, This amount exceeds the available funds for our project, after some discussion with Mr Soh and the team, it was decided that for the first wave of fabrication we will only choose components that are the most critical to the project, namely the frame and the bigger panels enclosing it. The smaller panels as well as certain welding jobs are to be done either in house or another method. Therefore, after budgeting, we managed to keep the cost of the first wave of fabrication at SGD1950.
+
+Allen focused on making the final touch ups to the panels. For example, after discussing with Wen Da, a small change to the shelf and partition panels were needed to accomodate for the wires that will connect our motors to the motor control PCB.
+
+**show pictures**
+
+Allen also made a fan grill at the back panel, so that a 140mm fan can be attached to it, to draw air in from the outside so that there is an active airflow within the electronic side of the vending machine to keep sensitive electronics such as our Raspberry PI cool. 
+
+**show pictures, cad and the laser cut ones**
+
+Reynard focused on working on the NFC and also continued to design the keypad for the vending machine.
+
+**show pictures, laser cut template of the keypad**
