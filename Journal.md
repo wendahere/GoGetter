@@ -2542,3 +2542,6 @@ Allen also made a fan grill at the back panel, so that a 140mm fan can be attach
 Reynard focused on working on the NFC and also continued to design the keypad for the vending machine.
 
 **show pictures, laser cut template of the keypad**
+
+### Tuesday 17/11/2020
+
