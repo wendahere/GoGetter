@@ -1594,11 +1594,11 @@ Wen Da designed a keychain for ShiokPizza the sponsor. Allen and Wen Da laser cu
 
 We did presentation slides
 
-insert link [here]().
+insert link [here](https://onedrive.live.com/edit.aspx?cid=a387cf7580b2a55b&page=view&resid=A387CF7580B2A55B!6656&parId=A387CF7580B2A55B!6655&app=PowerPoint).
 
 Allen did a video (for prototype)
 
-embed vid here [here]()
+embed vid here [here](https://youtu.be/Da3ONNgB6-s)
 
 ### Friday 16/10/2020
 
@@ -1994,7 +1994,6 @@ We also learned that giving too small of tolerance eg +- 0.01mm is too much and 
 ### Weekends 24-25/10/2020
 
 Allen did CAD for the motor gear box given to us by the sponsor, since there isn't any available 3D files of it online. He did torque calculations. Designed the feedtray. 
-
 
 Wen Da started to learn how to make GUI display. This youtube video guides were followed: [https://www.youtube.com/watch?v=s81_WnM1oJA](https://www.youtube.com/watch?v=s81_WnM1oJA)
 
@@ -2545,3 +2544,22 @@ Reynard focused on working on the NFC and also continued to design the keypad fo
 
 ### Tuesday 17/11/2020
 
+Reynard continue to work on the SQL for our database and the NFC reader.
+
+Allen tested riveting on polycarbonate and crylic to test whether will they crack when riveted, as we plan to rivet polycarbonate window directly onto 
+
+Allen made a template for bending acrylic out of wood.
+
+**show picture**
+
+Allen prepared the necessary materials for the parts that need to be fabricated in-house. 
+
+**show raw stock pictures**
+
+Allen used a horizontal band saw to cut the stock material to the required sizes, so that it can be machined to the different parts we require.
+
+**show allen using band saw**
+
+**show finished materials**
+
+### Wednesday 18/11/2020 
