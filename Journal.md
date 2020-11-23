@@ -1575,7 +1575,11 @@ Sewing thread
 
 #### Finished protoype
 
-## Show pics
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/full%20proto%202.png)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Full%20proto.png)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/full%20proto%203.png)
 
 Wen Da received feedback on his 7805 Voltage Regulator Schematic, the voltage input was supposed to be 12v, not 24v and should rotate the capacitors to make it less confusing. Only 1 ground is needed and do not need + or - at input and output. The filtering of voltage is called Low-Pass filter.
 
