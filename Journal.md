@@ -2567,3 +2567,37 @@ Allen used a horizontal band saw to cut the stock material to the required sizes
 **show finished materials**
 
 ### Wednesday 18/11/2020 
+
+Wen Da and Allen machined the motor bracket together.
+
+First they faced down the brackets to size, then cut the slot and drilled the holes.
+
+### Thursday 19/11/2020
+
+Wen Da and Allen did fabrication.
+
+### Friday 20/11/2020
+
+Wen Da and Allen did fabrication. 
+
+### Weekends 21-22/11/2020
+
+Allen and Wen Da went to Sung Hoe Sheet Metal Works, a metal working company at 91 Geylang Bahru, where they met up with Mr Pau to get quotations on our design. There, we were suggested to change from 3mm thick 1" square hollow tubes to 1.5mm thick 1" square hollow tubes. The reason being, our structure does not need to bear a heavy amount of load, and with 1.5mm thickness, it is easier for them to weld and achieve high accuracy and precision, as the  corner of the square hollow tube of 1.5mm thickness is more squarish compared to that of the 3mm thick hollow tubes. Furthermore, it helps to reduce the weight of the overall vending machine, as well as help us to cut costs.
+
+In addition to that, we were also suggested that we directly weld the panels to the frame rather than rivet the panels one by one. It is faster, and a higher accuracy can be acheived as there is no need to align the holes in the panels to the holes in the frame. It also reduces fabrication costs because there are significantly lesser holes needed.
+
+Lastly, we were suggested that we reduce the thickness of our hinge brackets to 4mm, to reduce costs.
+
+### Monday 23/11/2020
+
+Wen Da and Allen continued to fabricate the parts. Allen worked on drilling the different holes and cutting the slots into the handles. While Wen Da focused on fabricating the pin housing.
+
+### Tuesday 24/11/2020
+
+Allen worked on the lock bracket, flap brackets. While Wen Da
+
+Allen made some design changes to the frame and panels as well as some aspects of the doors. All the thickness of the hollow tubes were changed from 3mm to 1.5mm; all the rivet holes of the panels were removed, as we decided we will ask our fabricator to help us weld the panels directly to our frame. We plan to use 2 fans instead of 1, so that we have air circulation within the vending machine, and the fan grills in the back panel is removed and in their places are 2 large square cut outs, with mounting holes around them, so we will fabricate the fan cover in separately and mount that the fan on the cover and finally mount everything to the back panel, this allows for easy servicing and the possibility of changing to a different sized fan. Some changes were made to the left panel, there are now cut outs in the panel where we will cover it with polycarbonate, this acts as a window which allows users to peer into the inner workings of our dispensing mechanism, and see them in action.
+
+**insert pictures of the aforementioned changes**
+
+### Wednesday 25/11/2020
