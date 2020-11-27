@@ -2594,10 +2594,20 @@ Wen Da and Allen continued to fabricate the parts. Allen worked on drilling the 
 
 ### Tuesday 24/11/2020
 
-Allen worked on the lock bracket, flap brackets. While Wen Da
+Allen worked on the lock bracket, flap brackets. While Wen Da finished machining the pin housing.
 
 Allen made some design changes to the frame and panels as well as some aspects of the doors. All the thickness of the hollow tubes were changed from 3mm to 1.5mm; all the rivet holes of the panels were removed, as we decided we will ask our fabricator to help us weld the panels directly to our frame. We plan to use 2 fans instead of 1, so that we have air circulation within the vending machine, and the fan grills in the back panel is removed and in their places are 2 large square cut outs, with mounting holes around them, so we will fabricate the fan cover in separately and mount that the fan on the cover and finally mount everything to the back panel, this allows for easy servicing and the possibility of changing to a different sized fan. Some changes were made to the left panel, there are now cut outs in the panel where we will cover it with polycarbonate, this acts as a window which allows users to peer into the inner workings of our dispensing mechanism, and see them in action.
 
 **insert pictures of the aforementioned changes**
 
 ### Wednesday 25/11/2020
+
+Milling
+
+### Thursday 26/11/2020
+
+Wen Da and Allen sand blasted all of the parts.
+
+### Friday 27/11/2020
+
+we did turning and changed design of pin
