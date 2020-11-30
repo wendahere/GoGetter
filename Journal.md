@@ -2379,11 +2379,11 @@ The feed tray design has also been changed  to accomodate the drawer slides, and
 
 **show pic**
 
-## Week 9 (8/11/2020 to 14/11/2020) 
+## Week 9 (9/11/2020 to 13/11/2020) 
 
 Wen Da completed the PCB Design to be sent out for manufacturing and did 3D modeling for the PCB. Allen work on finishing his designs and sent out quotations to 5 manufacturing companies and did mechanical calculations for his designs.
 
-### Monday 08/11/2020
+### Monday 09/11/2020
 
 Wen Da worked on final design of PCB EAGLE board to be manufactured and emailed JLCPCB about his inquiries and talked to Mr Steven Chew about PCB Vias.
 
@@ -2391,7 +2391,7 @@ Reynard worked on his keycaps.
 
 Allen did the tray design.
 
-### Tuesday 09/11/2020
+### Tuesday 10/11/2020
 
 Wen Da listed down the electrical parts required to be purchased and designed the box for storing the power supply.
 
@@ -2408,6 +2408,10 @@ Allen consulted Mr Edward and Mr Soh about the design of certain components.
 Allen also designed the leg and hinge brackets that will be used to pivot the door and to hold the leg stands for the vending machine.
 
 **show pictures**
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/3D%20Files/Working%20on%203D/WhatsApp%20Image%202020-11-10%20at%2022.22.59%20(1).jpeg)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/3D%20Files/Working%20on%203D/WhatsApp%20Image%202020-11-10%20at%2022.22.59.jpeg)
 
 Allen also confirmed with Mr Soh what type of material the team will use for the frame and the panels. Namely, 3mm thick mild steel 1 square inch hollow tubes for the frame, coated with a layer of anti rust primer; 1mm phosphated steel for the feed tray and frame panels. 
 
