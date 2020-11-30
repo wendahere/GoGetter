@@ -2564,7 +2564,11 @@ Allen used a horizontal band saw to cut the stock material to the required sizes
 
 **show allen using band saw**
 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.17.jpeg)
+
 **show finished materials**
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.10.jpeg)
 
 ### Wednesday 18/11/2020 
 
@@ -2575,6 +2579,8 @@ First they faced down the brackets to size, then cut the slot and drilled the ho
 ### Thursday 19/11/2020
 
 Wen Da and Allen did fabrication.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.16.jpeg)
 
 ### Friday 20/11/2020
 
@@ -2602,12 +2608,22 @@ Allen made some design changes to the frame and panels as well as some aspects o
 
 ### Wednesday 25/11/2020
 
-Milling
+Wen Da and Allen did fabrication.
 
 ### Thursday 26/11/2020
 
 Wen Da and Allen sand blasted all of the parts.
 
+Wen Da sandblasted the longer parts. He laid down the parts nicely so that sandblasting would be easier.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.02.jpeg)
+
 ### Friday 27/11/2020
 
-we did turning and changed design of pin
+we did turning and changed design of pin.
+
+### Weekends 28/11/2020
+
+Wen Da visited Sung Hoe Sheet Metal Works again to ask about quotation. Mr Pau gave rough quote of $1500 to 1800. This is without door fabrication.
+
+Allen worked on the report.
