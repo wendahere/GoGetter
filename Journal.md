@@ -2488,7 +2488,7 @@ Wen Da worked on 3D modeling of the PCB.
 
 ## Week 10 (15/11/2020 to 21/11/2020) 
 
-End of the week, place fabrication order.
+End of the week, we placed fabrication order for feedtray. Reynard worked on coding. Allen and Wen Da started machining.
 
 ### Monday 16/11/2020
 
@@ -2598,6 +2598,10 @@ In addition to that, we were also suggested that we directly weld the panels to 
 
 Lastly, we were suggested that we reduce the thickness of our hinge brackets to 4mm, to reduce costs.
 
+## Week 11 (23/11/2020 to 28/11/2020) 
+
+Allen and Wen Da machined all aluminium parts and sand blasted them all except Pin left for CNC. Wen Da got rough quotation from Traditional company, Sung Hoe Sheet Metal Works for $1500-1800.
+
 ### Monday 23/11/2020
 
 Wen Da and Allen continued to fabricate the parts. Allen worked on drilling the different holes and cutting the slots into the handles. While Wen Da focused on fabricating the pin housing.
@@ -2631,3 +2635,9 @@ we did turning and changed design of pin.
 Wen Da visited Sung Hoe Sheet Metal Works again to ask about quotation. Mr Pau gave rough quote of $1500 to 1800. This is without door fabrication.
 
 Allen worked on the report.
+
+## Week 12 (30/11/2020 to 05/12/2020) 
+
+### Monday 30/11/2020
+
+Wen Da and Allen worked on finish up drawings to send for official quotation.
