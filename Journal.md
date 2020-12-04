@@ -2638,6 +2638,7 @@ Allen worked on the report.
 
 ## Week 12 (30/11/2020 to 05/12/2020) 
 
+
 ### Monday 30/11/2020
 
 Wen Da and Allen worked on finish up drawings to send for official quotation.
@@ -2659,3 +2660,5 @@ Wen Da researched on Sheets API and learned that version 4 does not allow to fin
 Wen Da realised that output of raspberry pi was 3.3v, not 5v. The lowest relay is 5v relay. To solve this, he can either make a npn transistor step up circuit or use buck converters or use a level shifter which can be bought for cheap.
 
 Wen Da decided to buy the level shifter.
+
+Mr Soh got the budget to $2500 and sent the PO to Mr Pau for fabrication.
