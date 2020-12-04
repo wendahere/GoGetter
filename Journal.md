@@ -2641,3 +2641,21 @@ Allen worked on the report.
 ### Monday 30/11/2020
 
 Wen Da and Allen worked on finish up drawings to send for official quotation.
+
+### Tuesday 01/12/2020
+
+Wen Da and Allen returned the tools used in W12 and discussed next steps for the project.
+
+### Wednesday 02/12/2020
+
+Wen Da worked on the Python program for the RPi.
+
+### Thursday 03/12/2020
+
+Wen Da researched on Sheets API and learned that version 4 does not allow to find cell location using data. Wen Da worked on the Python program for the RPi.
+
+### Friday 04/12/2020
+
+Wen Da realised that output of raspberry pi was 3.3v, not 5v. The lowest relay is 5v relay. To solve this, he can either make a npn transistor step up circuit or use buck converters or use a level shifter which can be bought for cheap.
+
+Wen Da decided to buy the level shifter.
