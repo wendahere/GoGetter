@@ -2662,3 +2662,5 @@ Wen Da realised that output of raspberry pi was 3.3v, not 5v. The lowest relay i
 Wen Da decided to buy the level shifter.
 
 Mr Soh got the budget to $2500 and sent the PO to Mr Pau for fabrication.
+
+Reynard did stress test for Raspberry Pi.
