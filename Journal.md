@@ -2664,3 +2664,13 @@ Wen Da decided to buy the level shifter.
 Mr Soh got the budget to $2500 and sent the PO to Mr Pau for fabrication.
 
 Reynard did stress test for Raspberry Pi.
+
+### Weekends 05-06/12/2020
+
+Wen Da called Mr Pao and confirmed that he has Vendors@Gov and that he can start work.
+
+Wen Da worked on flashing TMK on a Arduino Pro/Micro
+
+He followed this guide: https://www.youtube.com/watch?v=_-L0EsyLXio
+
+https://github.com/tmk/tmk_keyboard/wiki/Build-on-VirtualBox
