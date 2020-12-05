@@ -2674,3 +2674,13 @@ Wen Da worked on flashing TMK on a Arduino Pro/Micro
 He followed this guide: https://www.youtube.com/watch?v=_-L0EsyLXio
 
 https://github.com/tmk/tmk_keyboard/wiki/Build-on-VirtualBox
+
+There was an error trying to install avrdude on ubuntu. "Unable to lock the administration directory (/var/lib/dpkg/) is another process using it?"
+
+TO fix this, the lock can be removed by typing:
+
+sudo rm /var/lib/apt/lists/lock
+
+sudo rm /var/cache/apt/archives/lock
+
+sudo rm /var/lib/dpkg/lock
