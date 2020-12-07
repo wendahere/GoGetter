@@ -2697,3 +2697,5 @@ Wen Da worked on getting the keypad hex file. The keypad will look like this:
 [{a:7},"A","B","C"],
 ["1","2","3","4","5"],
 ["ENTER","BACKSPACE"]
+
+Wen Da checked with the 5v relay and turns out that 3.3v can power the coil. Wen Da will proceed with soldering of the PCB.
