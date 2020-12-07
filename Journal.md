@@ -2638,6 +2638,7 @@ Allen worked on the report.
 
 ## Week 12 (30/11/2020 to 05/12/2020) 
 
+The Purchase Order for fabrication has been sent out by Mr Soh. The programming is making further progress by Wen Da and Reynard. Allen worked on report.
 
 ### Monday 30/11/2020
 
@@ -2684,3 +2685,15 @@ sudo rm /var/lib/apt/lists/lock
 sudo rm /var/cache/apt/archives/lock
 
 sudo rm /var/lib/dpkg/lock
+
+## Week 13 (30/11/2020 to 05/12/2020) 
+
+
+### Monday 30/11/2020
+
+Allen worked on report. Reynard worked on SQL.
+
+Wen Da worked on getting the keypad hex file. The keypad will look like this:
+[{a:7},"A","B","C"],
+["1","2","3","4","5"],
+["ENTER","BACKSPACE"]
