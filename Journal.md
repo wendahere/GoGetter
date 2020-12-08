@@ -2745,7 +2745,13 @@ I was running under python 3 but oauth2client and gspread were installed under p
 
 What functions are needed:
 
-1) Function to deduct points
+1) Function to find user details
+
+	- Find worksheet with UID (findSheet(UID) output -> sheet name)
+	- Find row with matching UID (findRow(sheet,UID) output -> row number)
+	- Function to find details (findDetails(sheet,row) output -> Dict with name, class, points)
+
+2) Function to deduct points
 
 	- Inputs required: UID
 	- How many points to deduct
@@ -2755,17 +2761,14 @@ What functions are needed:
 	
 
 	- Functions
-		- Find worksheet with UID (findSheet(UID) output -> sheet name)
-		- Function to check UID are valid (checkUID())
-		- Find row with matching UID (findRow(sheet,UID) output -> row number)
-		- Function to find details (findDetails(sheet,row) output -> Dict with name, class, points)
 		- Function to calculate the points (deductPoints(points, pointstodeduct) output -> new points)
 		- Function to update the sheet (updateSheet(sheet,row,points))
-		- 
-
-
-2) 
 
 
 Advanced steps: Log of who redraw and tap their card. Have another sheet for this (Logs).
 Every once a month, will check if got any sheet that is 5 years old and will delete that sheet. Create new log sheet yearly.
+
+What if one of the function error?
+Add another sheet? It works fine. The code will find the UID on every sheet except the Log sheet
+
+Have made a log sheet that will create new log sheet every month. Have not created auto delete after 5 years yet.
