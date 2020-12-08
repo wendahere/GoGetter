@@ -2726,3 +2726,13 @@ your “authDomain” will be like this “projectId.firebaseapp.com”.your “
 ProjectID for this is "grace-vending"
 
 and to get your “databaseURL” go to your project database dashboard and copy that URL.
+
+I learned that this method is crude  and not meant for this purpose.
+
+Wen Da intends to use sheets V4. TO find the UID, the code will search 2nd row and first column and continue down the row to find the matching UID.
+
+For forums, have to add fail safe to ensure cannot add negative number, extremely big number and only can add integer(no letters).
+
+When vending machine minus, have to check if minus to negative points and display error if not enough points.
+
+Wen Da managed to get skeleton of the code to work, enter UID, the program will search the matching row for that UID given. It will display name, class and amount of points. Then the program will ask how many points to deduct. The amount deduct will be reflected on the google sheets.
