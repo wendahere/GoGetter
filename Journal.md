@@ -2709,3 +2709,18 @@ He worked on getting Google Firebase to work on the Pi.
 Install Pip if have not : curl https://bootstrap.pypa.io/get-pip.py | python
 
 install pyrebase: sudo pip3 install Pyrebase
+
+To have Pi connect to Google Firebase, python code has to connect to it:
+
+config = {     
+  "apiKey": "ENTER YOUR API KEY",
+  "authDomain": "ENTER YOUR AUTH DOMAIN URL",
+  "databaseURL": "ENTER YOUR DATABASE URL",
+  "storageBucket": "ENTER YOUR STORAGE BUGET URL"
+}
+
+To find the “API Key”, “authDomain”, “databaseURL”, “storageBucket” values, go to your database dashboard click on the gear icon, then “Project settings”.
+
+your “authDomain” will be like this “projectId.firebaseapp.com”.your “storageBucket” will be like this “projectId.appspot.com”.
+
+and to get your “databaseURL” go to your project database dashboard and copy that URL.
