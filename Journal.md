@@ -2736,3 +2736,7 @@ For forums, have to add fail safe to ensure cannot add negative number, extremel
 When vending machine minus, have to check if minus to negative points and display error if not enough points.
 
 Wen Da managed to get skeleton of the code to work, enter UID, the program will search the matching row for that UID given. It will display name, class and amount of points. Then the program will ask how many points to deduct. The amount deduct will be reflected on the google sheets.
+
+Running on Pi had an error "ImportError: No module named 'oauth2client'."
+
+I was running under python 3 but oauth2client and gspread were installed under python 2. To fix this, I ran pip3 install on gspread and oauth2client and all is running smoothly now.
