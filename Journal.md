@@ -2686,10 +2686,10 @@ sudo rm /var/cache/apt/archives/lock
 
 sudo rm /var/lib/dpkg/lock
 
-## Week 13 (30/11/2020 to 05/12/2020) 
+## Week 13 (07/12/2020 to 12/12/2020) 
 
 
-### Monday 30/11/2020
+### Monday 7/12/2020
 
 Allen worked on report. Reynard worked on SQL.
 
@@ -2699,3 +2699,13 @@ Wen Da worked on getting the keypad hex file. The keypad will look like this:
 ["ENTER","BACKSPACE"]
 
 Wen Da checked with the 5v relay and turns out that 3.3v can power the coil. Wen Da will proceed with soldering of the PCB. Wen Da sent purchased all of the LED strip (white and programmable), wire wrap, wire chain and LED Light Strip diffuser.
+
+### Tuesday 8/12/2020
+
+Wen Da did programming at home.
+
+He worked on getting Google Firebase to work on the Pi.
+
+Install Pip if have not : curl https://bootstrap.pypa.io/get-pip.py | python
+
+install pyrebase: sudo pip3 install Pyrebase
