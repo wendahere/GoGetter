@@ -2740,3 +2740,32 @@ Wen Da managed to get skeleton of the code to work, enter UID, the program will 
 Running on Pi had an error "ImportError: No module named 'oauth2client'."
 
 I was running under python 3 but oauth2client and gspread were installed under python 2. To fix this, I ran pip3 install on gspread and oauth2client and all is running smoothly now.
+
+
+
+What functions are needed:
+
+1) Function to deduct points
+
+	- Inputs required: UID
+	- How many points to deduct
+	- Show Output (how many points left)
+	- If output is "-1", means not enough points
+	- If output is "-2", UID is wrong, card invalid
+	
+
+	- Functions
+		- Find worksheet with UID (findSheet(UID) output -> sheet name)
+		- Function to check UID are valid (checkUID())
+		- Find row with matching UID (findRow(sheet,UID) output -> row number)
+		- Function to find details (findDetails(sheet,row) output -> Dict with name, class, points)
+		- Function to calculate the points (deductPoints(points, pointstodeduct) output -> new points)
+		- Function to update the sheet (updateSheet(sheet,row,points))
+		- 
+
+
+2) 
+
+
+Advanced steps: Log of who redraw and tap their card. Have another sheet for this (Logs).
+Every once a month, will check if got any sheet that is 5 years old and will delete that sheet. Create new log sheet yearly.
