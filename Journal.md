@@ -2802,3 +2802,9 @@ Text box
 	- Add, deduct, set
 
 Submit button
+
+Wen Da tried : https://stackoverflow.com/questions/21392445/update-dropdown-from-spreadsheet-in-apps-script
+
+however, the names did were not displayed. After searching around for more answers, Wen Da followed this guide: https://script.gs/autocomplete-drop-down-options-from-spreadsheet-data/
+
+This works. We managed to get names to display on the HTML page.
