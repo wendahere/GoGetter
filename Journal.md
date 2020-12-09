@@ -2772,3 +2772,20 @@ What if one of the function error?
 Add another sheet? It works fine. The code will find the UID on every sheet except the Log sheet
 
 Have made a log sheet that will create new log sheet every month. Have not created auto delete after 5 years yet.
+
+Google Forms User Interface
+	Display Class 
+	Select Class
+	Display all student
+	Select Student
+	Display UID
+	Add points
+	Execute
+
+### Wednesday 9/12/2020
+
+Wen Da did programming at home.
+
+Wen Da is using google Apps Script to run program in Google Form. He has to link the google form to google sheets. 
+
+Wen Da decided to look into creating a custom HTML form to link with google sheets.
