@@ -2789,3 +2789,16 @@ Wen Da did programming at home.
 Wen Da is using google Apps Script to run program in Google Form. He has to link the google form to google sheets. 
 
 Wen Da decided to look into creating a custom HTML form to link with google sheets.
+
+Form will be like this:
+
+Dropdown menu selection for:
+	- Select Year (Which spreadsheet name)
+	- Select Class (Within that spreadsheet)
+	- Select Student (Or type and search)
+
+Text box 
+	- Number of points
+	- Add, deduct, set
+
+Submit button
