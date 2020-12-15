@@ -2808,3 +2808,11 @@ Wen Da tried : https://stackoverflow.com/questions/21392445/update-dropdown-from
 however, the names did were not displayed. After searching around for more answers, Wen Da followed this guide: https://script.gs/autocomplete-drop-down-options-from-spreadsheet-data/
 
 This works. We managed to get names to display on the HTML page.
+
+### Thursday 10/12/2020
+
+Wen Da did programming at home. Wen Da used this guide:
+
+https://developers.google.com/apps-script/guides/html/reference/run
+
+and managed to get functions in the .gs file to run by clicking a button in the html page.
