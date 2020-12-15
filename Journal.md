@@ -2816,3 +2816,26 @@ Wen Da did programming at home. Wen Da used this guide:
 https://developers.google.com/apps-script/guides/html/reference/run
 
 and managed to get functions in the .gs file to run by clicking a button in the html page.
+
+### Friday 11/12/2020
+
+Wen Da did programming at home. He added more dropdown menus.
+
+
+### Weekends 12-13/12/2020
+
+Wen Da added submit buttons and made it such that the dropdown menu will get its options from the google sheets.
+Currently, Year, class, student name are working. Added a text box to edit the points. Able to retrieve the amount typed in the box. More submit buttons are added for these.
+
+## Week 14 (14/12/2020 to 19/12/2020) 
+
+### Monday 14/12/2020
+
+T11c was closed. Everyone worked from home/took break.
+
+
+### Tuesday 15/12/2020
+
+Wen Da and Allen worked on finishing up the PSU Wiring. Left is the heatshrink for insultation. 
+
+Mr Soh brought Wen Da, Allen and Reynard to Sung Hoe Sheet Metal Works. The hollow tube frame is done. We discussed any changes and gave Mr Pao the legs and drawer slides.
