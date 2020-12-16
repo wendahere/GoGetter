@@ -2839,3 +2839,13 @@ T11c was closed. Everyone worked from home/took break.
 Wen Da and Allen worked on finishing up the PSU Wiring. Left is the heatshrink for insultation. 
 
 Mr Soh brought Wen Da, Allen and Reynard to Sung Hoe Sheet Metal Works. The hollow tube frame is done. We discussed any changes and gave Mr Pao the legs and drawer slides.
+
+### Wednesday 16/12/2020
+
+Wen Da and Allen worked on the dispensing support as there was trouble. The spring would push itself off the V support bar. Allen and Wen Da discussed with Mr Edward and came up with solution for this problem. Allen drew out the solution in Inventor.
+
+Allen collected the polycarbonate delivered to school.
+
+Reynard worked on his SQL.
+
+Wen Da finished up the points interface, adding Year of student to the Logs on both the teacher and vending machine's code.
