@@ -2849,3 +2849,10 @@ Allen collected the polycarbonate delivered to school.
 Reynard worked on his SQL.
 
 Wen Da finished up the points interface, adding Year of student to the Logs on both the teacher and vending machine's code.
+
+### Thursday 16/12/2020
+
+Allen realised that his design for dispensing function had issues, the spring would push itself off. Wen Da and Allen brainstormed for solution and came up with a simple solution of adding laser cut acrylic.
+
+Reynard worked on his SQL. He currently as 1 query to add up all the collection of tier prizes.
+
