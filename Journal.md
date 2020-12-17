@@ -2856,3 +2856,6 @@ Allen realised that his design for dispensing function had issues, the spring wo
 
 Reynard worked on his SQL. He currently as 1 query to add up all the collection of tier prizes.
 
+Wen Da worked on NFC at home following this link:
+
+https://pimylifeup.com/raspberry-pi-rfid-rc522/
