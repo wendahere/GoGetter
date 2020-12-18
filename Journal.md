@@ -2850,7 +2850,7 @@ Reynard worked on his SQL.
 
 Wen Da finished up the points interface, adding Year of student to the Logs on both the teacher and vending machine's code.
 
-### Thursday 16/12/2020
+### Thursday 17/12/2020
 
 Allen realised that his design for dispensing function had issues, the spring would push itself off. Wen Da and Allen brainstormed for solution and came up with a simple solution of adding laser cut acrylic.
 
@@ -2859,3 +2859,11 @@ Reynard worked on his SQL. He currently as 1 query to add up all the collection 
 Wen Da worked on NFC at home following this link:
 
 https://pimylifeup.com/raspberry-pi-rfid-rc522/
+
+### Friday 18/12/2020
+
+Allen finalised design for dispensing function.
+
+Wen Da worked on making a graphical display for the vending machine.
+
+Reynard did his SQL.
