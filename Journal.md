@@ -2867,3 +2867,13 @@ Allen finalised design for dispensing function.
 Wen Da worked on making a graphical display for the vending machine.
 
 Reynard did his SQL.
+
+###weekends
+
+Wen Da visited Mr Paos Workshop to confirm drawings and answer any query that he had.
+Wen Da worked on the NFC Card reader. As their code was not updated for 3 years, Wen Da had to fix bugs in their code as it was meant for python 2 and currently we are using python 3. Example of fix was print did not had () in python 2 but 3 had. The maker misspelled Backdata as ackdata.
+
+https://github.com/mxgxw/MFRC522-python/blob/52507f18514bd4259c3e34886587ac2f95b13cb4/MFRC522.py
+
+Wen Da made the NFC reader connect to the Pi and connected all the code together. Everything is functional.
+Left to do is to make the display show name and points and error prevention(fall safe).
