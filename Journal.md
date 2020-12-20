@@ -2877,3 +2877,7 @@ https://github.com/mxgxw/MFRC522-python/blob/52507f18514bd4259c3e34886587ac2f95b
 
 Wen Da made the NFC reader connect to the Pi and connected all the code together. Everything is functional.
 Left to do is to make the display show name and points and error prevention(fall safe).
+
+On Sunday, Wen Da finished up the code. When submission is done, after 5 seconds, the whole program will reboot itself. Looping was not an option as it breaks the "Enter" key function.
+
+Left is to add motor control code and improve on optimizing the javascript code.
