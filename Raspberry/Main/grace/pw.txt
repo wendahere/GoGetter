@@ -1,0 +1,29 @@
+Write down PSU Specs, 24v
+fuse is for
+MCB is for etc
+write formulas
+put datasheet
+
+learn change color of LED
+
+tmk keyboard programming for 3x4
+https://www.youtube.com/watch?v=_-L0EsyLXio
+
+
+1. connect pi and google sheets get it to work first
+2. able to get pi to write/read/sheet sth to google sheet
+3. able to write specify row/column
+4. ok
+
+part 2
+1.create google form that makes it easier to register new student/ upload excel then it will read etc, make template for them
+
+part 3
+1. make a program to tap and write UID
+2. specific google forms
+3. have text box to keep tapping lor
+4. have auto submit (custom forms)
+
+
+gracevendingmachine@gmail.com
+MeowMeow1!
