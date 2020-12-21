@@ -2881,3 +2881,19 @@ Left to do is to make the display show name and points and error prevention(fall
 On Sunday, Wen Da finished up the code. When submission is done, after 5 seconds, the whole program will reboot itself. Looping was not an option as it breaks the "Enter" key function.
 
 Left is to add motor control code and improve on optimizing the javascript code.
+
+### Monday 21/12/2020
+
+We presented to Mr Soh on what we had. As EA Funding has been rejected, Mr Soh managed to get our budget to 3500.
+
+Wen Da managed to fix the bug of when restarting the program, there would be import error.
+Using this line to restart worked and did not have any permission error. 
+
+https://www.nuomiphp.com/eplan/en/353376.html
+
+	os.execv(sys.executable, 
+       	  [sys.executable, os.path.join(sys.path[0], __file__)] + sys.argv[1:])
+
+There was an error with oauth2client, following this link: https://stackoverflow.com/questions/44011776/how-to-prevent-importerror-no-module-named-oauth2client-client-on-google-app
+
+and upgrading the oauth2client worked.
