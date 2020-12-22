@@ -2897,3 +2897,48 @@ https://www.nuomiphp.com/eplan/en/353376.html
 There was an error with oauth2client, following this link: https://stackoverflow.com/questions/44011776/how-to-prevent-importerror-no-module-named-oauth2client-client-on-google-app
 
 and upgrading the oauth2client worked.
+
+### Tuesday 22/12/2020
+
+https://www.instructables.com/RFID-RC522-Raspberry-Pi/
+
+Pinout for NFC Reader:
+SDA <--> 24
+
+SCK <--> 23
+
+MOSI <--> 19
+
+MISO <--> 21
+
+IRQ <--> UNUSED
+
+GND <--> 6
+
+RST <--> 22
+
+3.3V <--> 1
+
+Wen Da worked on the RGB LED
+
+To install the Neopixel library run the following command:
+
+sudo pip3 install rpi_ws281x adafruit-circuitpython-neopixel
+
+Raspberry Pi GPIO pin 18 to WS2812b Data In (DIN)
+
+1N4001 diode cathode (side with the stripe) to WS2812b 5V (or +)
+
+Power supply ground to Raspberry Pi ground (or 0)
+
+Power supply ground to WS121812b ground (GND or -)
+
+Power supply 5V to 1N4001 diode anode (side without the stripe; make sure to get the orientation of the diode correct, with the cathode (side with the stripe) otherwise you may damage the Pi)
+
+Wen Da and Allen tested the LED Strip, if another led strip connects in parallel what would happen?
+
+Both strips would have same code, thus having same color.
+
+We also tested what happens if the LED Strip is parallel in the middle of another strip, which is what our vending machine was planning to use.
+
+The second LED Strip would continue the next colors rather than restart from the start. This meant that the planned LED Strip design would work!
