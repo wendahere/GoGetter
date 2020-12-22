@@ -2942,3 +2942,7 @@ Both strips would have same code, thus having same color.
 We also tested what happens if the LED Strip is parallel in the middle of another strip, which is what our vending machine was planning to use.
 
 The second LED Strip would continue the next colors rather than restart from the start. This meant that the planned LED Strip design would work!
+
+Length of cable to solder would be minimum 15cm. 
+
+Wen Da and Allen drilled holes in parts and tested the mechanism to get ready to pass to Mr Pao.
