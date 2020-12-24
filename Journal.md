@@ -2946,3 +2946,26 @@ The second LED Strip would continue the next colors rather than restart from the
 Length of cable to solder would be minimum 15cm. 
 
 Wen Da and Allen drilled holes in parts and tested the mechanism to get ready to pass to Mr Pao.
+
+
+### Wednesday 23/12/2020
+
+Current Pins used (Physical Board Pins):
+
+SDA <--> 24
+
+SCK <--> 23
+
+MOSI <--> 19
+
+MISO <--> 21
+
+IRQ <--> UNUSED
+
+GND <--> 6
+
+RST <--> 22
+
+3.3V <--> 1
+
+DATA FOR RGB LED <--> Pin 12
