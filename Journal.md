@@ -2969,3 +2969,7 @@ RST <--> 22
 3.3V <--> 1
 
 DATA FOR RGB LED <--> Pin 12
+
+Mr Soh drove Wen Da and Allen to Mr Pao's workshop. We tested the drawer slide and it worked fine except the screws at the side, we used were too thick, it rubbed against the drawer slide edge. We are replacing it with a cheese head.
+
+Wen Da's PCB had a problem, the Pi does not have enough current to switch on the relay. Wen Da will be adding a high-side switch transistor to power the relay.
