@@ -2868,6 +2868,7 @@ Wen Da worked on making a graphical display for the vending machine.
 
 Reynard did his SQL.
 
+
 ###weekends
 
 Wen Da visited Mr Paos Workshop to confirm drawings and answer any query that he had.
@@ -2881,6 +2882,8 @@ Left to do is to make the display show name and points and error prevention(fall
 On Sunday, Wen Da finished up the code. When submission is done, after 5 seconds, the whole program will reboot itself. Looping was not an option as it breaks the "Enter" key function.
 
 Left is to add motor control code and improve on optimizing the javascript code.
+
+## Week 15 (21/12/2020 to 28/12/2020) 
 
 ### Monday 21/12/2020
 
@@ -2973,3 +2976,23 @@ DATA FOR RGB LED <--> Pin 12
 Mr Soh drove Wen Da and Allen to Mr Pao's workshop. We tested the drawer slide and it worked fine except the screws at the side, we used were too thick, it rubbed against the drawer slide edge. We are replacing it with a cheese head.
 
 Wen Da's PCB had a problem, the Pi does not have enough current to switch on the relay. Wen Da will be adding a high-side switch transistor to power the relay.
+
+### Thursday to Weekends 24-27/12/2020
+
+Work from home.
+
+Wen Da tested his updated circuit and drew on EAGLE.
+
+Made cover for PSU Housing.
+
+
+## Week 16 (28/12/2020 to 3/1/2021) 
+
+
+### Monday 28/12/2020
+
+Wen Da tested circuit and realised that 1k ohm resistor when put on does not activate the relay. Design is updated to remove the relay.
+
+Laser cut PSU Housing Cover to ensure it fits.
+
+Ordered PCB Design.
