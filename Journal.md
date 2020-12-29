@@ -2996,3 +2996,46 @@ Wen Da tested circuit and realised that 1k ohm resistor when put on does not act
 Laser cut PSU Housing Cover to ensure it fits.
 
 Ordered PCB Design.
+
+
+### Tuesday 29/12/2020
+
+Physical Pins used (gpio.BOARD)
+
+SDA <--> 24
+
+SCK <--> 23
+
+MOSI <--> 19
+
+MISO <--> 21
+
+IRQ <--> UNUSED
+
+GND <--> 6
+
+RST <--> 22
+
+3.3V <--> 1
+
+DATA FOR RGB LED <--> Pin 12
+
+Motor Control (9 pins total)
+
+G1 <--> 40
+
+G2 <--> 38
+
+G3 <--> 36
+
+G4 <--> 32
+
+G5 <--> 26
+
+24VDC-1 <--> 37
+
+24VDC-2 <--> 35
+
+24VDC-3 <--> 33
+
+24VDC-4 <--> 31
