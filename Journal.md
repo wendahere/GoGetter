@@ -3000,6 +3000,8 @@ Ordered PCB Design.
 
 ### Tuesday 29/12/2020
 
+Wen Da worked on the motor control and found a problem, the solid state swtich (transistor) does not work as intended.
+
 Physical Pins used (gpio.BOARD)
 
 SDA <--> 24
@@ -3039,3 +3041,17 @@ G5 <--> 26
 24VDC-3 <--> 33
 
 24VDC-4 <--> 31
+
+### Wednesday 30/12/2020
+
+Wen Da and Allen went to water cut metal parts.
+
+Wen Da found a solution to the transistor not working problem.
+
+The frame arrived with the back panel being inverted. However, we still can work with that.
+
+Wen Da tested the solution at home with full code and everything works.
+
+### Thursday 31/12/2020
+
+Wen Da soldered wires on the RGB LED Strips.
