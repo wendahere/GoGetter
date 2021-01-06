@@ -2688,6 +2688,8 @@ sudo rm /var/lib/dpkg/lock
 
 ## Week 13 (07/12/2020 to 12/12/2020) 
 
+Wen Da worked on a serverless cloud solution, Google Sheets V4 as the database.
+
 
 ### Monday 7/12/2020
 
@@ -2829,6 +2831,10 @@ Currently, Year, class, student name are working. Added a text box to edit the p
 
 ## Week 14 (14/12/2020 to 19/12/2020) 
 
+Wen Da finished up the Google Sheets V4 database solution and made a points interface to edit points using web app.
+
+Allen's dispensing function had a new problem and we attempted to fix it.
+
 ### Monday 14/12/2020
 
 T11c was closed. Everyone worked from home/took break.
@@ -2884,6 +2890,12 @@ On Sunday, Wen Da finished up the code. When submission is done, after 5 seconds
 Left is to add motor control code and improve on optimizing the javascript code.
 
 ## Week 15 (21/12/2020 to 28/12/2020) 
+
+EA Funding had been rejected, however, Mr Soh talked to project committee and managed to bring the budget to 3500!
+
+Wen Da made the Raspberry Pi Python Code able to restart itself after finishing a run. 
+
+We are working with Sung Hoe Sheet Metal works to make the vending machine frame.
 
 ### Monday 21/12/2020
 
@@ -2988,6 +3000,9 @@ Made cover for PSU Housing.
 
 ## Week 16 (28/12/2020 to 3/1/2021) 
 
+The PCB design was updated and reoredered. The pins for all the components on the Raspberry Pi is finalized.  
+
+The full metal body vending machine is welding finished and delivered to T11c.
 
 ### Monday 28/12/2020
 
@@ -3054,4 +3069,30 @@ Wen Da tested the solution at home with full code and everything works.
 
 ### Thursday 31/12/2020
 
+Work from home.
+
 Wen Da soldered wires on the RGB LED Strips.
+
+### Friday 1/01/2021
+
+Work from home.
+
+
+## Week 17 (4/01/2021 to 10/01/2021) 
+
+
+### Monday 4/01/2021
+
+Wen Da's new PCB arrived. He soldered on the components
+
+### Tuesday 5/01/2021
+
+Wen Da and Allen water cut the power supply box aluminum cover and tested it. It fits well.
+
+Wen Da tested the new PCB Circuit and everything works fine.
+
+### Wednesday 6/01/2021
+
+Wen Da and Allen showed Mr Soh the new 24v LED Strip compared to the 12v LED Strip and Mr Soh prefers the brighter 24v strip. We will be using that.
+
+Wen Da tried using the Raspberry Pi Shield but it made the circuit not work due to the LED on the shield making the pin into ground instead of originally a float. The PCB has to change design again in order to use the Shield.
