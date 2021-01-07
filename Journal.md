@@ -3096,3 +3096,9 @@ Wen Da tested the new PCB Circuit and everything works fine.
 Wen Da and Allen showed Mr Soh the new 24v LED Strip compared to the 12v LED Strip and Mr Soh prefers the brighter 24v strip. We will be using that.
 
 Wen Da tried using the Raspberry Pi Shield but it made the circuit not work due to the LED on the shield making the pin into ground instead of originally a float. The PCB has to change design again in order to use the Shield.
+
+### Thusday 7/01/2021
+
+Wen Da prepared the motors, installed all of the coils, screen and the code.
+
+Wen Da and Allen drilled holes in the polycabornate to be installed in the vending machine.
