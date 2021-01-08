@@ -3097,8 +3097,63 @@ Wen Da and Allen showed Mr Soh the new 24v LED Strip compared to the 12v LED Str
 
 Wen Da tried using the Raspberry Pi Shield but it made the circuit not work due to the LED on the shield making the pin into ground instead of originally a float. The PCB has to change design again in order to use the Shield.
 
-### Thusday 7/01/2021
+### Thursday 7/01/2021
 
 Wen Da prepared the motors, installed all of the coils, screen and the code.
 
 Wen Da and Allen drilled holes in the polycabornate to be installed in the vending machine.
+
+### Friday 8/01/2021
+
+GOS visit to SP.
+
+Meeting minutes:
+
+Comments:
+
+Light placement and brightness is OK.
+
+Concerned on height of students, however, having a 30cm stool and double step stool will solve that.
+
+Some prizes won't drop. (Realised that spring was installed wrongly, end tip should be pointing up instead of down!)
+
+Concerns on large prizes and weight of prizes. Informed GOS on max weight (1.8kg per motor).
+
+Changes:
+
+###Programming side:
+
+Rows change from ABC to 123, 1 being lowest tier and 3 being highest tier.
+
+Columns change to ABCDE, A being left most and E being right most.
+
+Set timer to reboot entire program in the vending machine (Python Code).
+
+Bigger board and text input box, bigger text for points and progress bar. (Vending machine interface).
+
+Progress bar will change color depending on tier possible to purchase.
+
+LED Strip on rows will light up when enough points to purchase that row.
+
+Color code for rows, from bottom to top, Red, Blue, Yellow. Yellow top row, tier 3.
+
+Make audio output if possible, "Please remember to take your card", "Please wait for your item", "You have ... points".
+
+Submits points for teacher interface points is slow. 
+
+- Change sheets from year to class instead.
+- 16-17 names per class
+- 40 classes
+- Names can be random
+
+###Mechanical Side:
+
+Color code for rows, from bottom to top, Red, Blue, Yellow. Yellow top row, tier 3.
+
+Powder coat and painting cost will be covered by GOS.
+
+#TO DO
+
+Give RFID card Specification and if have supplier who can also print on the card.
+
+Received design from GOS to make into stickers and paste on vending machine.
