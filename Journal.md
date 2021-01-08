@@ -3157,3 +3157,5 @@ Powder coat and painting cost will be covered by GOS.
 Give RFID card Specification and if have supplier who can also print on the card.
 
 Received design from GOS to make into stickers and paste on vending machine.
+
+Setup RTC Module as GOS wifi is enterprise.
