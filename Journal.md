@@ -3159,3 +3159,41 @@ Give RFID card Specification and if have supplier who can also print on the card
 Received design from GOS to make into stickers and paste on vending machine.
 
 Setup RTC Module as GOS wifi is enterprise.
+
+
+##Weekends
+
+Wen Da worked on playing audio.
+
+started by installing package.
+
+sudo apt-get install python-pygame
+
+faced an error using OGG files, says mixer not initialized.
+
+Searched online and found needed to init(), pygame.mixer.init()
+
+Pygame cannot open sound file.
+
+Learned that Pygame (version 2.9 at least) doesn't support 32-bit float WAVs. Re-encode it to a signed 16-bit WAV .
+
+Configured to output audio using audio plug.
+
+https://www.raspberrypi.org/documentation/configuration/audio-config.md
+
+Followed a guide and managed to get background music working:
+
+https://www.techwithtim.net/tutorials/game-development-with-python/pygame-tutorial/sound-effects-music/
+
+
+import pygame
+pygame.init()
+
+music = pygame.mixer.music.load("music.mp3")
+
+pygame.mixer.music.play(-1)
+
+Followed this guide to install RTC Module.
+
+https://github.com/sourceperl/rpi.rtc
+
