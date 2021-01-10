@@ -3193,7 +3193,20 @@ music = pygame.mixer.music.load("music.mp3")
 
 pygame.mixer.music.play(-1)
 
+
 Followed this guide to install RTC Module.
 
 https://github.com/sourceperl/rpi.rtc
 
+Cloned the github to desktop,
+
+set utc for the RTC chip, with ds1302_set_utc
+
+This command is to set time: it will be run on startup.
+
+sudo date -s `ds1302_get_utc`
+
+
+Run command on startup is done by following this: 
+
+https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up
