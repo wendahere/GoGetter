@@ -3210,3 +3210,27 @@ sudo date -s `ds1302_get_utc`
 Run command on startup is done by following this: 
 
 https://raspberrypi.stackexchange.com/questions/8734/execute-script-on-start-up
+
+the RTC module does not work as intended. Wen Da plans to buy an updated model of it as the current model, DS1302 is intended for arduino and worked on RPI+, a very old model.
+
+
+## Week 18 (11/01/2021 to 17/01/2021) 
+
+
+### Monday 11/01/2021
+
+Wen Da worked on testing all the LED with colors provided by GOS, Yellow, Blue and Red. 
+
+Wen Da changed the keys in the python Vending Machine program, Rows to 1 2 and 3 and columns to be A B C D E.
+
+Wen Da tested audio files and it is fine however, LED and audio has not been implemented in the main code yet.
+
+Reynard says that he will work on the javascript.
+
+Wen Da added self reboot after user tap card but did not make a selection. The code was
+	window.after(5000, resetDisplay)
+making use of the tkinter library to self reset.
+
+Wen Da learned that background music being played from python will mess with the RGB LED strips. Background music cannot work.
+
+Reynard worked on planning the keypad wires to solder and soldering it.
