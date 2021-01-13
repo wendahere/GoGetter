@@ -3193,6 +3193,8 @@ music = pygame.mixer.music.load("music.mp3")
 
 pygame.mixer.music.play(-1)
 
+Audio file has to be 16 bit to work. Wen Da used online-convert.com to convert the audio file to 16 bit WAV file format.
+
 
 Followed this guide to install RTC Module.
 
@@ -3234,3 +3236,17 @@ making use of the tkinter library to self reset.
 Wen Da learned that background music being played from python will mess with the RGB LED strips. Background music cannot work.
 
 Reynard worked on planning the keypad wires to solder and soldering it.
+the RTC module does not work as intended. Wen Da plans to buy an updated model of it as the current model, DS1302 is intended for arduino and worked on RPI+, a very old model.
+
+
+### Tuesday 12/01/2021
+
+Wen Da worked on the google sheets form and managed to reduce the time to submit a form to below 10 secs.
+
+Wen Da and Allen watercut aluminum parts and sand blasted all water cut parts.
+
+### Wednesday 13/01/2021
+
+Wen Da went to buy bolts for Allen and electronics such as DS1307 and wire wrap. However, wire wrap was $7 per meter which was expensive. Wen Da got the DS1307 to work. The time now syncs accordingly. However, there is a fault in this module, online it states that due to the temperature of the surrounding, the time will be off by 5 minutes per month.
+
+Wen Da bought another module online, DS3231 which did not have this problem. Till the new module arrives, DS1307 will be the placeholder.
