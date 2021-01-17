@@ -3250,3 +3250,10 @@ Wen Da and Allen watercut aluminum parts and sand blasted all water cut parts.
 Wen Da went to buy bolts for Allen and electronics such as DS1307 and wire wrap. However, wire wrap was $7 per meter which was expensive. Wen Da got the DS1307 to work. The time now syncs accordingly. However, there is a fault in this module, online it states that due to the temperature of the surrounding, the time will be off by 5 minutes per month.
 
 Wen Da bought another module online, DS3231 which did not have this problem. Till the new module arrives, DS1307 will be the placeholder.
+
+### Thursday 14/01/2021
+Wen Da did programming for overwriting previous student if they tap while a current student is still displayed on the vending machine. 
+
+### Friday 15/01/2021
+
+Wen Da did arduino card reader with keyboard output for teachers to use. It is to read the UID of the card and type out the UID number on the computer.
