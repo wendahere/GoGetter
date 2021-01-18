@@ -3257,3 +3257,16 @@ Wen Da did programming for overwriting previous student if they tap while a curr
 ### Friday 15/01/2021
 
 Wen Da did arduino card reader with keyboard output for teachers to use. It is to read the UID of the card and type out the UID number on the computer.
+
+## Week 19 (11/01/2021 to 17/01/2021) 
+
+
+### Monday 18/01/2021
+
+Wen Da tested full code with RGB LED and Sound. However, this made the sound jumble up as sound 3.5mm port uses PWM and controlling RGB LED does as well. The solution to this is to buy a USB/HDMI Speaker. Using a usb to 3.5mm audio jack will work as well.
+
+Wen Da tested manual mode and discovered it was not working due to bugs.
+
+Wen Da found out that in the main mode, if he used the 5v port in the raspberry pi, the RFID reader will not read.
+
+Wen Da added enter after the USB RFID Reader has typed in the UID.
