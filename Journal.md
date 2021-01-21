@@ -3270,3 +3270,50 @@ Wen Da tested manual mode and discovered it was not working due to bugs.
 Wen Da found out that in the main mode, if he used the 5v port in the raspberry pi, the RFID reader will not read.
 
 Wen Da added enter after the USB RFID Reader has typed in the UID.
+
+### Tuesday 19/01/2021
+
+Wen Da decided to use a buck converter stepped down to 5v to power the PCB Board. Wen Da worked on manual mode of the vending machine code.
+
+### Wednesday 20/01/2021
+
+Wen Da worked on making the USB RFID Reader to a perfboard, however, the Arduino Pro Micro was faulty and did not work. Wen Da went to buy a USB to 3.5mm female audio as using the default audio will mess with the RGB LED strip.
+
+### Thursday 21/01/2021
+
+Wen Da got the USB to speaker working. Steps below: (https://superuser.com/questions/989385/how-to-make-raspberry-pi-use-an-external-usb-sound-card-as-a-default)
+
+1. Find your hardware device number and card number using aplay -l before and after pluggin your usb device in.
+2. It will look something like this: card 2: CODEC [USB Audio CODEC], device 0 ..
+3. Default is card 0, for my system was card 2.
+4. You can confirm the device is working with "aplay -D hw:1,0 InsertYourWavFileHere.wav"
+5. Ensure the wav file is in the directory with cd /..
+6. Open this file sudo nano /usr/share/alsa/alsa.conf
+7. Change:
+
+defaults.pcm.card 0
+
+defaults.pcm.device 0
+
+To:
+
+defaults.pcm.card 2
+
+defaults.pcm.device 0
+
+
+https://www.bristolwatch.com/rpi/rpi_usb.htm
+
+Next: open .asoundrc using sudo nano .asoundrc
+
+Follow these edits: 
+
+Change from output jack:
+
+defaults.ctl.card 0
+defaults.pcm.card 0
+
+To USB:
+
+defaults.ctl.card 2
+defaults.pcm.card 2
