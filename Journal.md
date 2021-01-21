@@ -3273,6 +3273,7 @@ Wen Da added enter after the USB RFID Reader has typed in the UID.
 
 ### Tuesday 19/01/2021
 
+Wen Da got the new DS3231 RTC working.
 Wen Da decided to use a buck converter stepped down to 5v to power the PCB Board. Wen Da worked on manual mode of the vending machine code.
 
 ### Wednesday 20/01/2021
@@ -3317,3 +3318,17 @@ To USB:
 
 defaults.ctl.card 2
 defaults.pcm.card 2
+
+This did not work. The RGB LED and Audio did not work together.
+
+Wen Da tried using sounddevice as that module could select which audio output to play sound from. 
+
+However, after getting it to run on terminal, the RGB LED with that module does not work together as well.
+
+Mr Louis Goh, T14 Fablab Technician helped Wen Da to get it working. We expermented with SPI RGB LED but there was not enough pins as the RFID Reader used them all and the remaining pin could not be used for SPI. We discovered that VLC Player ran from Python code works together with RGB LED. 
+
+The theory was that the audio uses Pulse Wave Code Modulation (PCM) and as the RGB LED pin was also PCM, the audio might interfere with the LED. However, using the USB Audio did not work with the LEDs. 
+
+The new theory is that the python code does not work well with both audio and LEDs, the Audio signal "leaks" and makes the RGB LEDs light up randomly due to the "leakage" from the signal pin of the RGB LEDs. 
+
+As the VLC Player is an external audio player, the leakage does not interfere with the RGB LEDs.
