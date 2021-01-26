@@ -2093,7 +2093,6 @@ Allen brought parts from Aircon Lab in SP.
 
 Wen Da tested all of the power supply units Allen brought to ensure that it is working. Wen Da went to Easy M Ltd Pte at Republic Plaza, #06-00 to see what parts he could take for the project.
 
-Allen also made multiple designs of the 
 
 ### Friday 30/10/2020
 
@@ -2166,15 +2165,15 @@ To find out more about the basics of riveting, here are some links: [link 1](htt
 
 **show pic of the frame with rivet holes** 
 
-There was a concern with the design if we 
+There was a concern with the design if we align all three levels, prizes that drop from the first two levels will be caught by the coils of the bottom levels. Making it unable to dispense the prizes properly. 
 
 **show pic of the coils being in line, then the prizes might get caught by the coils below**
 
-One method that we came up with is to cut the coils short
+One method that we came up with is to have a staggered coil design for each level. This means that the highest level's coils will have the longest length, whereas the lowest level's coils will have the shortest length, to make way for the prizes on the first two rows to drop down.
 
 **show pic of the solution**
 
-## Week 8 (1/11/2020 to 7/11/2020) 
+## Week 8 (2/11/2020 to 7/11/2020) 
 
 We took apart the vending machine to reuse their parts. Wen Da finished his chemical etched PCB for motor control. Allen bought Drawer slides and is working on designing of the vending machine in Inventor. Reynard worked on his keypads.
 
@@ -2201,9 +2200,9 @@ Allen met up with Mr Soh to discuss the design of the vending machine.
 **Dispensing mechanism:**
 
 - For the design of the feedtray, Mr Soh stated that if the other 3 sides of the wall of the body is not load bearing, then their height need not to match the height of the front wall. This might help to cut cost in the manufacture of the feed tray drawers.
-- For the motor bracket, Mr Soh suggested to change the design into using bent 3mm steel,  
+- For the motor bracket, Mr Soh suggested to change the design into using bent 3mm steel.
 - For our angle bar that is used to support the coil, the bending relief should be perpendicular to the bending line rather than parallel to it.
-- With regards to the chance a prize on the highest level might get caught by the coils on the level below it when it gets dispensed, Mr Soh suggested to make ramps for the top 2 levels.
+- With regards to the chance a prize on the highest level might get caught by the coils on the level below it when it gets dispensed, Mr Soh suggested to make ramps for the bottom 2 levels.
 - Motor bracket change to use 3mm thick stainless steel (bending), but same design and dimension.
 
 **Frame:**
@@ -2227,6 +2226,10 @@ Allen worked on creating a ramp for the bottom 2 levels of the feed tray. After 
 **show ramp design 2** 
 
 Allen also worked on the panels for the collection point at the door.
+
+**show pictures**
+
+Allen also did a test to determine the what is the suitable angle from the horizontal for the ramp of the feed trays. And after doing multiple rounds of drop tests, the chosen angle was 30 from the horizontal.
 
 **show pictures**
 
@@ -2269,6 +2272,8 @@ Wen Da brought some blind rivets and a rivet gun for Allen to familiarise on how
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/E4CC2EA4-E43A-4CEF-8890-15213081BFE4.jpg)
 
 Allen prepared some aluminium pieces to practice on how to rivet. 
+
+**show pictures**
 
 Wen Da printed the PCB Drawing on paper to check if the copper board could fit the design Wen Da made. The drawing could not fit and Wen Da removed some terminal blocks and moved the components closer and it fit well.
 
@@ -2313,8 +2318,6 @@ After etching, there was a large problem. Although the board was dull and simila
 Wen Da went home and used a dremel tool to remove away most of the extra copper.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Electrical%20Component/PCB%20Etching/Electrical%20PCB/Part2/801D1F7E-2DA1-413B-AA82-9073E4F60950.jpg)
-
-**show pictures**
 
 Allen calculated the rough weight of the feed tray to determine the load the drawer rollers will have to support. Here are the calculations: 
 
@@ -2494,7 +2497,7 @@ End of the week, we placed fabrication order for feedtray. Reynard worked on cod
 
 Received quotation from Starlight fabrication company.
 
-##16/11/2020 - Team Meeting Week 10
+####Team Meeting####
 
 Design
 Door is done
@@ -2566,33 +2569,41 @@ Allen prepared the necessary materials for the parts that need to be fabricated 
 
 Allen used a horizontal band saw to cut the stock material to the required sizes, so that it can be machined to the different parts we require.
 
-**show allen using band saw**
-
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.17.jpeg)
-
-**show finished materials**
-
-![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.10.jpeg)
+Allen using a horizontal bandsaw
 
 ### Wednesday 18/11/2020 
 
-Wen Da and Allen machined the motor bracket together.
+Wen Da and Allen started to machine our in-house fabricated parts.
 
-First they faced down the brackets to size, then cut the slot and drilled the holes.
+![]()
+Allen using a milling machine
+
+The first part to be machined is 15 motor brackets. First they faced down the brackets to size, then cut the slot and drilled the holes.
+
+![]()
+L-brackets faced to size for the motor brackets
 
 ### Thursday 19/11/2020
 
-Wen Da and Allen did fabrication.
+Wen Da and Allen continued to finish machining the motor brackets. Slots for the motor to sit on was machined out. A fitting test with the motor was then done to ensure that the motor can be assembled to the motor bracket. 
+![]()
+Fitting test of the motor bracket
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.16.jpeg)
 
+Once the motor brackets were finished. Allen and Wenda moved on to machine the bracket handles.
+
 ### Friday 20/11/2020
 
-Wen Da and Allen did fabrication. 
+Allen machined the left and right sides of the handle while Wen Da machined the front side of the handle. Wen Da then did turning for the spacers of the pull flap of the collection point. Wen Da also machined the covers for the pin housings.
+
+![]()
+Wen Da doing turning with a lathe machine.
 
 ### Weekends 21-22/11/2020
 
-Allen and Wen Da went to Sung Hoe Sheet Metal Works, a metal working company at 91 Geylang Bahru, where they met up with Mr Pau to get quotations on our design. There, we were suggested to change from 3mm thick 1" square hollow tubes to 1.5mm thick 1" square hollow tubes. The reason being, our structure does not need to bear a heavy amount of load, and with 1.5mm thickness, it is easier for them to weld and achieve high accuracy and precision, as the  corner of the square hollow tube of 1.5mm thickness is more squarish compared to that of the 3mm thick hollow tubes. Furthermore, it helps to reduce the weight of the overall vending machine, as well as help us to cut costs.
+Allen and Wen Da went to Sung Hoe Sheet Metal Works, a metal working company at 91 Geylang Bahru, where they met up with Mr Liow to get quotations on our design. There, we were suggested to change from 3mm thick 1" square hollow tubes to 1.5mm thick 1" square hollow tubes. The reason being, our structure does not need to bear a heavy amount of load, and with 1.5mm thickness, it is easier for them to weld and achieve high accuracy and precision, as the  corner of the square hollow tube of 1.5mm thickness is more squarish compared to that of the 3mm thick hollow tubes. Furthermore, it helps to reduce the weight of the overall vending machine, as well as help us to cut costs.
 
 In addition to that, we were also suggested that we directly weld the panels to the frame rather than rivet the panels one by one. It is faster, and a higher accuracy can be acheived as there is no need to align the holes in the panels to the holes in the frame. It also reduces fabrication costs because there are significantly lesser holes needed.
 
@@ -2616,23 +2627,38 @@ Allen made some design changes to the frame and panels as well as some aspects o
 
 ### Wednesday 25/11/2020
 
-Wen Da and Allen did fabrication.
+Wen Da and Allen machined the coil supports together. Firstly, they faced the equal angle bars to size. Secondly,  two lines 25mm from the end of bar were scribed on the sides of the bar. Thirdly, a slot was cut at the one end of the bars. Lastly, using a table vice, the two flaps were bent from the bar.
+
+**show picture of some of the process**
+
+What we learnt about bending, is we should give some allowances. As when the workpiece is bent, some material will be stretched within the workpiece, resulting in a longer dimension.
 
 ### Thursday 26/11/2020
 
-Wen Da and Allen sand blasted all of the parts.
+Wen Da and Allen sand blasted all of the parts. 
 
-Wen Da sandblasted the longer parts. He laid down the parts nicely so that sandblasting would be easier.
+Allen sandblasted the smaller parts while Wen Da sandblasted the longer parts. They laid down the parts nicely so that sandblasting would be easier.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.02.jpeg)
 
+![]()
+Allen sandblasting the fabricated parts
+
+![]()
+Difference between a non sandblasted (left) piece and a sandblasted piece(right)
+
+Allen did a mastercam program for the cnc machining of our lock pin.
+
+![]()
+CNC programming of lock pin
+
 ### Friday 27/11/2020
 
-we did turning and changed design of pin.
+Before we CNC machined our lock pin, we did manual turning for the pin. Therefore, instead of a round head, a tapered head will be used instead. This is because, to produce a perfectly rounded head with a manual turning process is extremely difficult and time consuming, while a tapered head is easier and takes up lesser time to fabricate. Both types of head will still be able to work.
 
-### Weekends 28/11/2020
+### Weekends 28-29/11/2020
 
-Wen Da visited Sung Hoe Sheet Metal Works again to ask about quotation. Mr Pau gave rough quote of $1500 to 1800. This is without door fabrication.
+Wen Da visited Sung Hoe Sheet Metal Works again to ask about quotation. Mr Liow gave rough quote of $1500 to 1800. This is without door fabrication.
 
 Allen worked on the report.
 
@@ -2644,7 +2670,27 @@ The Purchase Order for fabrication has been sent out by Mr Soh. The programming 
 
 Wen Da and Allen worked on finish up drawings to send for official quotation.
 
+Allen designed a holder for the NFC reader that we will use for the vending machine.
+
+![]()
+Design of the NFC card holder
+
+Allen and Wen Da visited Sung Hoe Sheet Metal Works to pass Mr Liow the final drawings for the fabrication of our frame and doors.
+
+![]()
+Allen discussing with Mr Liow, our fabricator on the design of the frame and panels.
+
 ### Tuesday 01/12/2020
+
+Allen did some revision for the design of the lock pin.
+
+**show pic**
+
+Allen and Wen Da fabricated the new design of the lock pin.
+
+Allen assembled the lock pins into their housings.
+
+**show pic**
 
 Wen Da and Allen returned the tools used in W12 and discussed next steps for the project.
 
@@ -2652,9 +2698,13 @@ Wen Da and Allen returned the tools used in W12 and discussed next steps for the
 
 Wen Da worked on the Python program for the RPi.
 
+We submitted our interim report to Mr Soh and Dr Chew.
+
 ### Thursday 03/12/2020
 
 Wen Da researched on Sheets API and learned that version 4 does not allow to find cell location using data. Wen Da worked on the Python program for the RPi.
+
+Allen worked on updating some pictures of the design in the report.
 
 ### Friday 04/12/2020
 
@@ -2662,13 +2712,13 @@ Wen Da realised that output of raspberry pi was 3.3v, not 5v. The lowest relay i
 
 Wen Da decided to buy the level shifter.
 
-Mr Soh got the budget to $2500 and sent the PO to Mr Pau for fabrication.
+Mr Soh got the budget to $2500 and sent the PO to Mr Liow for fabrication.
 
 Reynard did stress test for Raspberry Pi.
 
 ### Weekends 05-06/12/2020
 
-Wen Da called Mr Pao and confirmed that he has Vendors@Gov and that he can start work.
+Wen Da called Mr Liow and confirmed that he has Vendors@Gov and that he can start work.
 
 Wen Da worked on flashing TMK on a Arduino Pro/Micro
 
@@ -2693,7 +2743,7 @@ Wen Da worked on a serverless cloud solution, Google Sheets V4 as the database.
 
 ### Monday 7/12/2020
 
-Allen worked on report. Reynard worked on SQL.
+Allen worked on the report, specifically on ergonomics study and looking at the different anothropometric data of Southeast Asians. Reynard worked on SQL.
 
 Wen Da worked on getting the keypad hex file. The keypad will look like this:
 [{a:7},"A","B","C"],
@@ -2702,9 +2752,15 @@ Wen Da worked on getting the keypad hex file. The keypad will look like this:
 
 Wen Da checked with the 5v relay and turns out that 3.3v can power the coil. Wen Da will proceed with soldering of the PCB. Wen Da sent purchased all of the LED strip (white and programmable), wire wrap, wire chain and LED Light Strip diffuser.
 
+Allen also designed a new version for the NFC holder, as well as a card holder.
+
+**show pic**
+
 ### Tuesday 8/12/2020
 
-Wen Da did programming at home.
+Allen continued to work on the report.
+
+Wen Da did programming at home. 
 
 He worked on getting Google Firebase to work on the Pi.
 
@@ -2786,6 +2842,10 @@ Google Forms User Interface
 
 ### Wednesday 9/12/2020
 
+Allen worked on the report and designed a screen holder for our new screen.
+
+**show pic**
+
 Wen Da did programming at home.
 
 Wen Da is using google Apps Script to run program in Google Form. He has to link the google form to google sheets. 
@@ -2813,6 +2873,10 @@ This works. We managed to get names to display on the HTML page.
 
 ### Thursday 10/12/2020
 
+Allen continued to work on the report. He also did a count on the number of fasteners needed for the assembly of all three feed trays.
+
+**show pic of excel sheet of the fasteners needed**
+
 Wen Da did programming at home. Wen Da used this guide:
 
 https://developers.google.com/apps-script/guides/html/reference/run
@@ -2823,6 +2887,9 @@ and managed to get functions in the .gs file to run by clicking a button in the 
 
 Wen Da did programming at home. He added more dropdown menus.
 
+Allen and Wen Da prepared all the fasteners needed for the assembly, and placed them into zip lock bags for easy access during assembly. 
+
+Allen and Wen Da also tested on the motor PCB to control the motors with a lab power supply unit.
 
 ### Weekends 12-13/12/2020
 
@@ -2844,11 +2911,15 @@ T11c was closed. Everyone worked from home/took break.
 
 Wen Da and Allen worked on finishing up the PSU Wiring. Left is the heatshrink for insultation. 
 
-Mr Soh brought Wen Da, Allen and Reynard to Sung Hoe Sheet Metal Works. The hollow tube frame is done. We discussed any changes and gave Mr Pao the legs and drawer slides.
+Mr Soh brought Wen Da, Allen and Reynard to Sung Hoe Sheet Metal Works. The hollow tube frame is done. We discussed any changes and gave Mr Liow the legs and drawer slides.
 
 ### Wednesday 16/12/2020
 
-Wen Da and Allen worked on the dispensing support as there was trouble. The spring would push itself off the V support bar. Allen and Wen Da discussed with Mr Edward and came up with solution for this problem. Allen drew out the solution in Inventor.
+Before assemblying the entire feed tray, Allen did a sub assembly of a column of motor complete with the coil support. The motor was then hooked up to a lab power supply unit, and when the power was on, an issue quickly arose. When the coil rotates on the coil support, it will skip on the bend of the coil support, which caused it to deflect and push itself of the coil support.
+
+Therefore, Allen and Wen Da discussed this issue with Mr Edward, and we managed to come up with a two solutions. The first solution is to simply increase the leg width of the equal angle bar either by using a wider angle bar or install a extension on it; the second solution is a sandwhich design, where another angle bar is used to push on the coil from the type, hence, the coil is sandwiched from both the top and from the bottom. Allen designed the sandwich solution in Inventor.
+
+**insert pics**
 
 Allen collected the polycarbonate delivered to school.
 
@@ -2858,6 +2929,9 @@ Wen Da finished up the points interface, adding Year of student to the Logs on b
 
 ### Thursday 17/12/2020
 
+Allen and Wen Da machined out the sandwich design together. At the same time, Allen took a wider angle bar from the workshop as well.Once the sandwich design is finished, they head back to the lab to test out the different solutions. 
+
+Wen Da also suggested  
 Allen realised that his design for dispensing function had issues, the spring would push itself off. Wen Da and Allen brainstormed for solution and came up with a simple solution of adding laser cut acrylic.
 
 Reynard worked on his SQL. He currently as 1 query to add up all the collection of tier prizes.
@@ -2877,7 +2951,7 @@ Reynard did his SQL.
 
 ###weekends
 
-Wen Da visited Mr Paos Workshop to confirm drawings and answer any query that he had.
+Wen Da visited Mr Liow's Workshop to confirm drawings and answer any query that he had.
 Wen Da worked on the NFC Card reader. As their code was not updated for 3 years, Wen Da had to fix bugs in their code as it was meant for python 2 and currently we are using python 3. Example of fix was print did not had () in python 2 but 3 had. The maker misspelled Backdata as ackdata.
 
 https://github.com/mxgxw/MFRC522-python/blob/52507f18514bd4259c3e34886587ac2f95b13cb4/MFRC522.py
@@ -2960,7 +3034,7 @@ The second LED Strip would continue the next colors rather than restart from the
 
 Length of cable to solder would be minimum 15cm. 
 
-Wen Da and Allen drilled holes in parts and tested the mechanism to get ready to pass to Mr Pao.
+Wen Da and Allen drilled holes in parts and tested the mechanism to get ready to pass to Mr Liow.
 
 
 ### Wednesday 23/12/2020
@@ -2985,7 +3059,7 @@ RST <--> 22
 
 DATA FOR RGB LED <--> Pin 12
 
-Mr Soh drove Wen Da and Allen to Mr Pao's workshop. We tested the drawer slide and it worked fine except the screws at the side, we used were too thick, it rubbed against the drawer slide edge. We are replacing it with a cheese head.
+Mr Soh drove Wen Da and Allen to Mr Liow's workshop. We tested the drawer slide and it worked fine except the screws at the side, we used were too thick, it rubbed against the drawer slide edge. We are replacing it with a cheese head.
 
 Wen Da's PCB had a problem, the Pi does not have enough current to switch on the relay. Wen Da will be adding a high-side switch transistor to power the relay.
 
