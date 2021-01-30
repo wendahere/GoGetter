@@ -3065,7 +3065,7 @@ Wen Da's PCB had a problem, the Pi does not have enough current to switch on the
 
 ### Thursday to Weekends 24-27/12/2020
 
-Work from home.
+As it was the Christmas week, and school was closed. The team worked from home.
 
 Wen Da tested his updated circuit and drew on EAGLE.
 
@@ -3141,19 +3141,15 @@ The frame arrived with the back panel being inverted. However, we still can work
 
 Wen Da tested the solution at home with full code and everything works.
 
-### Thursday 31/12/2020
+### Thursday to weekends 31/12/2020 - 3/01/2020 
 
-Work from home.
+As it was the New Years week, school was closed, so the team worked from home.
+
+Allen focused on getting the final 2D CAD drawings for all our components out.
 
 Wen Da soldered wires on the RGB LED Strips.
 
-### Friday 1/01/2021
-
-Work from home.
-
-
 ## Week 17 (4/01/2021 to 10/01/2021) 
-
 
 ### Monday 4/01/2021
 
@@ -3323,17 +3319,16 @@ Wen Da and Allen watercut aluminum parts and sand blasted all water cut parts.
 
 Wen Da went to buy bolts for Allen and electronics such as DS1307 and wire wrap. However, wire wrap was $7 per meter which was expensive. Wen Da got the DS1307 to work. The time now syncs accordingly. However, there is a fault in this module, online it states that due to the temperature of the surrounding, the time will be off by 5 minutes per month.
 
-Wen Da bought another module online, DS3231 which did not have this problem. Till the new module arrives, DS1307 will be the placeholder.
+Wen Da bought another module online, DS3231 which did not have this problem. Till the new module arrives, DS1307 will be used as a placeholder.
 
 ### Thursday 14/01/2021
-Wen Da did programming for overwriting previous student if they tap while a current student is still displayed on the vending machine. 
+Wen Da did the programming for overwriting the details of a previous student if they tap while a current student is still displayed on the vending machine. 
 
 ### Friday 15/01/2021
 
 Wen Da did arduino card reader with keyboard output for teachers to use. It is to read the UID of the card and type out the UID number on the computer.
 
 ## Week 19 (11/01/2021 to 17/01/2021) 
-
 
 ### Monday 18/01/2021
 
