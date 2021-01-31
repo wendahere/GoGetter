@@ -2045,7 +2045,9 @@ At end of the week, we collected a sponsored Vending Machine given from Blue Sky
 
 Allen continued working on the feedtray design for the vending machine. Since we will not be using the existing feedtrays from the vending machine that was given to us, as it does not serve the purpose we need, which is to hang the prizes on the coil. He also sourced for the different materials that will be used to make the feed tray (angle bar, and sheet metal), and did research on what grade of aluminium or steel is most suitable for us.
 
-Talk about the angle bar
+As the we wanted to hang prizes on our dispensing mechanism, the coils need to be of a cantilever design. However, the coils are heavy and can't support its own weight, therefore it requries something to support itself. Therefore, we will be using an one inch equal leg width angle bar to support it.
+
+**insert angle bar design**
 
 Also modelled a drawer roller slide. 
 
@@ -2065,17 +2067,20 @@ The LED lights up means the 1 by 1 matrix works. This means that 5 by 4 etc, wou
 
 Allen consulted with Mr Soh on the design of the feedtray. Where Mr Soh mentioned if we were to proceed with sheet metal bending, we needed to include corner reliefs for the bends so as to prevent tearing from happening while bending. He said to send the design for quotation first and to see the prices for 1mm steel and 2mm aluminium.
 
+**insert fedtray design v1**
+
 Allen also 3D printed the coil mount he modelled during the weekends to see whether it fits, and to test whether can we 3D print spare parts for it for GOS should any of it break during operation. 
+
+**insert 3d printed coil mount**
 
 Reynard did the keypad. He did matrix wiring on the key switches, and programmed an arduino micro for the keypad.
 
 Wen Da carried on PCB Design for Motor Matrix wiring.
 
-**insert pictures**
 
 #### Special needs education (SEN) expert meeting
 
-We had an appointment Ms Nicole Daswani, an expert on special needs education from SP's SEN centre. We wanted to know more about 
+We had an appointment Ms Nicole Daswani, an expert on special needs education from SP's SEN centre. We wanted to know more about designing for people with intellectual disability. 
 
 ### Wednesday 28/10/2020
 
@@ -2083,7 +2088,7 @@ Wen Da made the PCB board for etching fit the board. The board given was smaller
 
 Allen made the necessary adjustments to the feed tray design before making the 2D drawing for it. As well as making a 1mm variant of the design if we decide to make the feed tray with steel. Allen also made the 2D drawings for the motor bracket and the handle.
 
-**insert pictures**
+**insert pictures of motor bracket and handle**
 
 Reynard continued to work on the keypad. Ask Louis to flash the arduino micro. Considered making a PCB as the wires leading to the arduino micro is very messy. 
 
@@ -2163,15 +2168,9 @@ The way we will be installing the sheets onto the frame is by blind riveting. Al
 
 To find out more about the basics of riveting, here are some links: [link 1](https://www.youtube.com/watch?v=FY8Nn7_6Erc&ab_channel=HomebuiltHELP), [link 2](https://www.flight-mechanic.com/structural-fasteners-solid-shank-rivets-installation-of-rivets/), [link 3](https://www.tpub.com/air/13-25.htm).
 
-**show pic of the frame with rivet holes** 
-
 There was a concern with the design if we align all three levels, prizes that drop from the first two levels will be caught by the coils of the bottom levels. Making it unable to dispense the prizes properly. 
 
-**show pic of the coils being in line, then the prizes might get caught by the coils below**
-
 One method that we came up with is to have a staggered coil design for each level. This means that the highest level's coils will have the longest length, whereas the lowest level's coils will have the shortest length, to make way for the prizes on the first two rows to drop down.
-
-**show pic of the solution**
 
 ## Week 8 (2/11/2020 to 7/11/2020) 
 
@@ -2233,9 +2232,7 @@ Allen also did a test to determine the what is the suitable angle from the horiz
 
 **show pictures**
 
-Did a layout test, found out that 1450mm might not be a suitable height
-
-**show pictures**
+Did a layout test, found out that 1450mm might not be a suitable height. 
 
 Wen Da got an expert to help him solder the components on Monday evening. 
 
