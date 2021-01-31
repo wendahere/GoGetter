@@ -2561,7 +2561,7 @@ Allen tested riveting on polycarbonate and crylic to test whether will they crac
 
 Allen made a template for bending acrylic out of wood.
 
-**show picture**
+**show picture of the wood template**
 
 Allen prepared the necessary materials for the parts that need to be fabricated in-house. 
 
@@ -2977,7 +2977,7 @@ After spending the day to determine which design is the best, it was decided the
 
 **insert pic of the "final design**
 
-Allen also tested this design using different types of string. And it was decided that the best type of string to use was thin nylon string. This is because it did not share the same problem as many of the thicker cables or strings, where the cables tended to slide underneath the coil near the end. The reason for that problem was due to how our coils were at an angle, so when it rotated and pushed out the cable, the cable dropped out from the shorter side of the coil first, but some parts of the cable still hung onto the longer side of the coil, when the next pitch of the coil pushed forward, the cable got caught, and slid underneath the coil.
+Allen also tested this design using different types of string. And it was decided that the best type of string to use was thin nylon string. This is because it did not share the same problem as many of the thicker cables or strings, where the cables tended to slide underneath the coil near the end. The reason for that problem was due to how our coils were at an angle, so when it rotated and pushed out the cable, the cable dropped out from the shorter side of the coil first, but some parts of the cable still hanged onto the longer side of the coil, when the next pitch of the coil pushed forward, the cable got caught, and slid underneath the coil.
 
 Wen Da worked on making a graphical display for the vending machine.
 
@@ -3130,7 +3130,29 @@ Laser cut PSU Housing Cover to ensure it fits.
 
 Ordered the new PCB design from JLCPCB.
 
-After a few days worth of testing, Allen decided on the final design of the coil support extension, and the chosen design was a non-offset design
+After a few days worth of testing, Allen decided on the final design of the coil support extension, and the chosen design was a non-offset design.
+
+**pic of final design**
+
+After which, Allen procedeed with the mass production of the coil support extensions. He also prepared the angle bars for assembly by drilling the necessary holes required to assemble the extensions. To easily locate the holes easily, he taped the extensions onto the coil support.
+
+**pic of mass fabrication**
+
+**pic of the angle bar drilled**
+
+Allen also tested the handle by assembling them together, to make sure the swinging handle worked. However, the handle did not work as intended, because when at the closed position, the front handle was loosely sitted on the push pin, and any slight vibrations made the front handle came off from the push pin then fell. Realizing this problem will take time to troubleshoot, Allen decide to completely change the design of the handle.
+ 
+**pic of new handle design**
+
+The new handle design comprises of the three sides of the handle rigidly secured to each other. The design did not just stop there, because there still needs to be a way to easily restock the prizes onto the coil, especially for the prizes that are to be hung on. This was not much of an issue for the dispensing mechanism that did not have a ramp, however, for the dispensing mechanisms that have ramps, the restocking will be hard. Therefore, the solution is to make the ramp pivotable, so when the ramp is in use, the ramp will stay in an upright position, but when it is time for restocking, the ramp can be pushed down for easier access to the coils. To make this design work, the design of the ramp was also changed.
+
+**pic of the new ramp design**
+
+**pic of the shoulder screw as the pivot**
+
+For the pivoting mechanism is as shown in the picture. A shank of a shoulder screw will act as a pivot, while a screw that is screwed in from the opposite direction will act as the stopper for the pivot.
+
+**pic of the ramp at upright and rest posistion**
 
 ### Tuesday 29/12/2020
 
@@ -3176,13 +3198,25 @@ G5 <--> 26
 
 24VDC-4 <--> 31
 
+Allen went to W12 to fabricate the new design of handle A and handle B. 
+
+**show pic**
+
+He also assembled the coil support extensions onto the coil supports.
+
+**show pic**
+
 ### Wednesday 30/12/2020
 
-Wen Da and Allen went to water cut metal parts.
+Wen Da and Allen went to water cut some metal parts such as the fan covers and the PSU box covers.
+
+**show pic**
 
 Wen Da found a solution to the transistor not working problem.
 
 The frame arrived with the back panel being inverted. However, we still can work with that.
+
+**show pic**
 
 Wen Da tested the solution at home with full code and everything works.
 
@@ -3200,11 +3234,25 @@ Wen Da soldered wires on the RGB LED Strips.
 
 Wen Da's new PCB arrived. He soldered on the components
 
+Allen tested out the white LED lighting placement inside the vending machine.The LEDs were temporarily taped onto the diffusers.
+
+**show picture of the 12v led**
+
+He also laser cut out hole templates our of acrylic that will be used for the drilling of our polycarbonate pieces. 
+
+**show pictures of hole template for polycarbonate**
+
+He also started assemblying the dispenisng mechanisms.
+
 ### Tuesday 5/01/2021
 
 Wen Da and Allen water cut the power supply box aluminum cover and tested it. It fits well.
 
 Wen Da tested the new PCB Circuit and everything works fine.
+
+Allen also changed the LED lights to the ones that are 24 volts, because the one previously used were 12 volts. And the result were it was much brighter.
+
+**show picture of 24v led** 
 
 ### Wednesday 6/01/2021
 
@@ -3212,15 +3260,33 @@ Wen Da and Allen showed Mr Soh the new 24v LED Strip compared to the 12v LED Str
 
 Wen Da tried using the Raspberry Pi Shield but it made the circuit not work due to the LED on the shield making the pin into ground instead of originally a float. The PCB has to change design again in order to use the Shield.
 
+Allen also laser cut the collection point panels, and bent them into shape using the acryic bender. He also drilled the necessary holes required to mount the panels onto the door as well. And he finally assembled them. 
+
+**show pic of collection point panel**
+
+**drilling of the main door**
+
+**assembled collection point** 
+
 ### Thursday 7/01/2021
 
 Wen Da prepared the motors, installed all of the coils, screen and the code.
 
-Wen Da and Allen drilled holes in the polycabornate to be installed in the vending machine.
+Wen Da and Allen drilled holes in the polycabornate to be installed in the vending machine, they also countersunked the holes so that the polycarbonate can be flushed agianst the door.
+
+**show picture of drilling**
+
+Allen also modeled the door hinges that were used in inventor (for documentation purposes).
+
+The dispensing mechanisms and screen was also assembled onto the vending machine.
+
+**show picture**
 
 ### Friday 8/01/2021
 
 GOS visit to SP.
+
+**show picture**
 
 Meeting minutes:
 
@@ -3333,8 +3399,17 @@ the RTC module does not work as intended. Wen Da plans to buy an updated model o
 
 ## Week 18 (11/01/2021 to 17/01/2021) 
 
-
 ### Monday 11/01/2021
+
+Allen made the pull flap from 3mm thick acrylic.
+
+**show picture of acrylic pull flap**
+
+He also made some slight changesd to the dimensions of the collection point panels, such as making them with bigger holes to give them some extra room to be adjusted to ensure that the sides are flushed.
+
+He also round out the sharp edges and corners of the feed tray and handle using a dremmel that had a grinding bit.
+
+**show pic of filleted feed tray**
 
 Wen Da worked on testing all the LED with colors provided by GOS, Yellow, Blue and Red. 
 
@@ -3356,9 +3431,11 @@ the RTC module does not work as intended. Wen Da plans to buy an updated model o
 
 ### Tuesday 12/01/2021
 
+Allen finished up the new CAD drawings for the main door, IO door and frame body so that he could send out the drawings to acquire quotations for the powder coating of the components to prevent the frame from any further rusting as well as to give it a uniform and clean look.
+
 Wen Da worked on the google sheets form and managed to reduce the time to submit a form to below 10 secs.
 
-Wen Da and Allen watercut aluminum parts and sand blasted all water cut parts.
+Wen Da and Allen water cut aluminum parts and sand blasted all water cut parts.
 
 ### Wednesday 13/01/2021
 
@@ -3366,14 +3443,32 @@ Wen Da went to buy bolts for Allen and electronics such as DS1307 and wire wrap.
 
 Wen Da bought another module online, DS3231 which did not have this problem. Till the new module arrives, DS1307 will be used as a placeholder.
 
+Allen passed the 2D drawings to Mr Walter, as he helped us to get the quotations for our powder coating. The colour we are looking for is white for the frame body and doors, and yellow, blue and red for each level of the dispensing mechanism.
+
+**show the available colours**
+
+*say which colours are chosen*
+
 ### Thursday 14/01/2021
 Wen Da did the programming for overwriting the details of a previous student if they tap while a current student is still displayed on the vending machine. 
+
+Allen made hole templates from acrylic for the side windows. Then he used them to drill holes in the side windows.
+
+**show the side windows drilled**
 
 ### Friday 15/01/2021
 
 Wen Da did arduino card reader with keyboard output for teachers to use. It is to read the UID of the card and type out the UID number on the computer.
 
-## Week 19 (11/01/2021 to 17/01/2021) 
+To protect the ribbon cable of our screen, we needed a cover for it. Allen decided to vacuum form a cover that is made to perfectly cover the back of the screen. Firstly, he made a wooden template that was the same size as our screen. Secondly, he drilled air holes into the wooden template, and the wooden is finished. Thirdly, he heated up a plstic sheet that was used to form the cover. Fourthly, once the plastic sheet had been heated up, the plastic sheet is quickly covered on the wooden template and the vacuum is turned on to suck out all the air, which allowed the plastic sheet to wrap around the wooden template. Finally, the plastic is let to cool down, and cut outs were made for the cable ports as well as a cut out for the chip of the screen.  
+
+**show the ribbon cable of the screen**
+**show allen cutting the wooden template with the bandsaw**
+**show finished wooden template**
+**show allen vacuum forming**
+**show finished screen cover**
+
+## Week 19 (18/01/2021 to 24/01/2021) 
 
 ### Monday 18/01/2021
 
@@ -3385,6 +3480,11 @@ Wen Da found out that in the main mode, if he used the 5v port in the raspberry 
 
 Wen Da added enter after the USB RFID Reader has typed in the UID.
 
+Allen applied dual lock tape onto the LED diffusers. We decided to use dual lock tape over conventional velcro because both sides of the tape are plastic bristles and the those bristles last longer than the bristles of conventional velcro. Furthermore, they can handle more weight as well.
+
+**pic of dual lock tape**
+**pic of dual lock on diffuser**
+
 ### Tuesday 19/01/2021
 
 Wen Da got the new DS3231 RTC working.
@@ -3394,7 +3494,15 @@ Wen Da decided to use a buck converter stepped down to 5v to power the PCB Board
 
 Wen Da worked on making the USB RFID Reader to a perfboard, however, the Arduino Pro Micro was faulty and did not work. Wen Da went to buy a USB to 3.5mm female audio as using the default audio will mess with the RGB LED strip.
 
+Allen finished up assembling the tray handle using the M5 shoulder screws and M6 socket head screws.
+
+**show pic of the assembly**
+
 ### Thursday 21/01/2021
+
+Allen made some slight changes as how the pull flap is assembled. He used long M8 screws, and used a technique called interlocking nuts, which is having two nuts screw into the same screw. This way, when pull flap is subjected to repeated close and open motions, the first nut will not come lose, as it is stopped by the second nut.
+
+**show pic of the interlocking nut**
 
 Wen Da got the USB to speaker working. Steps below: (https://superuser.com/questions/989385/how-to-make-raspberry-pi-use-an-external-usb-sound-card-as-a-default)
 
@@ -3446,3 +3554,134 @@ The theory was that the audio uses Pulse Wave Code Modulation (PCM) and as the R
 The new theory is that the python code does not work well with both audio and LEDs, the Audio signal "leaks" and makes the RGB LEDs light up randomly due to the "leakage" from the signal pin of the RGB LEDs. 
 
 As the VLC Player is an external audio player, the leakage does not interfere with the RGB LEDs.
+
+### Friday 22/01/2021
+
+Allen designed and made a holder and a cover for our Raspberry Pi.
+
+**show pic of pi holder design**
+**show pic of pi cover design and bent pi cover**
+**show pic of pi holder assembly**
+
+Then he drilled holes into the IO door where the Pi holder will be mounted on.
+
+## Week 20 (25/01/2021 to 31/01/2021) 
+
+### Monday 25/01/2021
+
+Allen vacuumed formed a cover for our motor PCB and our keypad. The methods he used to make these two covers were the same as how he made the cover for the screen. But instead of air holes, he cut air gaps into the wooden templates. And the final results were a much better vacuum form of the two covers.
+
+**pic of both templates**
+**pic of finished covers**
+
+He also installed the NFC reader onto the holder and the holder onto the IO door.
+
+### Tuesday 26/01/2021
+
+Allen made a quick change to the design of the Pi holder. The pull flap was also changed to metal.
+
+**pic of new pi holder**
+**pic of metal pull flap**
+
+GOS came for the last time to finalise any designs, and shared with us some concerns they had.
+
+**pic of gos last visit**
+
+#### Feedback from GOS
+-> RGB
+- Do running lights (rgb) for 5 sec, then change to static light *or* see if can do running lights the entire time 
+
+-> UI
+- font type is for distinction purposes
+- font size (with respect to the image they sent us in wa):
+》welcome text can be smallest
+》scan card text can be bigger
+》no. of chops text need to be the biggest
+》name text dont need to be so small
+- progress bar can just follow the one they sent in wa
+》if can do a running progress bar then is good (eg. If there is 90 points, the bar will slowly increase to 90, keeping in mind the 3 different colours) [if this type of progress bar is implemented, then the arrow pointing at the bar is unnecessary] 
+
+-> NFC
+- will use the nfc holder that wont have a card holder, reason being: there is a tendency that students will just take their prizes and go, leaving their cards bebind 
+
+-> Concerns GOS (pricipal, task force and teachers)
+- teacher interface
+》they are happy that our solution provides a database, but if we were to fully implement our solution, it loses the human interactivity between the teachers and students; the students wouldn't be able to visualise or understand the meaning of the points when it is all points giving is done at the backend
+》their proposed solution: students will still have their paper cards plus the NFC cards, teachers will still give stamps on the paper cards; the points on the paper card will then be transferred to the NFC cards at a weekly basis with the help of volunteers accessing the points interface and updating the cards of each individual students; and finally the students will tap their nfc cards on the vending machine to redeem their prizes
+》to sum up, the point of the g2go programme is to serve the students, so user comes first, plus the teachers also see our vending machine differently, so there is also the question of how they will accept the new system 
+
+- speed of the system
+》they are concerned at the speed of the entire process, from the tapping of cards to the collection of prizes, if the process takes too long, then there isnt a good flow, meaning the queue will still be as long as their current system
+》currently the bottle neck of the process is the waiting for the points to be updated after redemption
+》the time to get the student's info from the card (when they tap), ranges from 2s to 15s (if student is at the very bottom of the database of 810 students), they find it quite acceptable 
+
+- location of screen, card reader and keypad
+》they find it too high for the shorter students (abt 100cm tall)
+》their task force finds that the usage of a stepping stool might be unsafe, if students are left unsupervised to use the machine (which is their end goal), as some students have some deficiency in their gross motor functions, so they might have balance issues when using a stepping stool
+》they asked if can shift the whole setup down, but that requires a fabrication of a new door, so it will be considered as a future plan 
+》we suggested the idea of having 2 screens and 2 keypads, the additional set of peripherals to be placed lower to accomodate the shorter students (also requires a fabrication of a new door)
+》we also suggested the idea of making a mini staircase with railings, so it is safer for the shorter students (door does not need to be refabricated)
+》they also asked if the screen can be increased to 10 inch if a new door is being fabricated 
+
+-> future plans
+- adjust the location of peripherals to accomodate the wide range of students they have, either by making a mini staricase or making a new door
+- have an app for teacher to easily add points, and also show the students their points
+- have a separate terminal just for students to check points
+
+### Wednesday 27/01/2021
+
+Allen did drop testing on all 15 columns, to ensure that prizes can drop smoothly without fail, and to pinpoint any points of error. 
+
+**pic of drop testing**
+
+He also wanted to decide on whether should he change the coil support extensions to Mr Soh's original suggestion which is to have an offset. He also laser cut the extensions with 2mm acrylic of their actual colours. 
+
+**show pic of the coil support extenders cut with their colours**
+
+A new ramp design was also made, so to allow for bigger prizes to be able to sit on the coil. 
+
+**show 3d cad of new ramp design**
+
+One of the front handles was also made with 3mm clear acrylic, and had the item labels engraved on it; this was a suggestion from GOS, because they felt that the RGB lights were not as visible from some angles, and a see throuh handle would be more visible.
+
+**show acrylic handle B**
+
+Wen Da drilled holes into the shelf to allow for the mounting of the PSU box and PCB holder. He also drilled holes in one of the feed trays to mount a buck converter on it. Then he organised the wires using wire wraps and braided cables.
+
+**show pic of wire organisation with wire wrap and braided cable**
+
+### Thursday 28/01/2021
+
+Allen continued on drop testing all the prizes. And he figured out that the best way to ensure that the prizes that sit on the coils drop is to have the coil supports pushed up as high as possible.
+
+He also changed the design of the collection point panels. Where the side panles have an angle of 50 degrees and cover a larger area, while the back panel have an angle of 30, and was also extended to catch any prizes that bounces of the base of the collection point.
+
+**show pic of the new collection point panel designs**
+
+### Friday 29/01/2021
+
+Allen did the final stage of drop testing. He also drilled a hole near the base of the frame, so that the wire of our vending machine can come out. 
+
+**show pic of the extension cord hole**
+
+## Week 21 (01/02/2021 to 07/02/2021)
+
+### Monday 01/02/2021
+
+### Tuesday 02/02/2021
+
+### Wednesday 03/02/2021
+
+### Thursday 04/02/2021
+
+### Friday 05/02/2021
+
+## Week 22 (08/02/2021 to 10/20/2021)
+
+### Monday 08/02/2021
+
+### Tuesday 09/02/2021
+
+### Wednesday 10/02/2021
+
+Today is the day we have our presentation.
