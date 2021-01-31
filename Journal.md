@@ -2906,20 +2906,23 @@ Allen's dispensing function had a new problem and we attempted to fix it.
 
 T11c was closed. Everyone worked from home/took break.
 
-
 ### Tuesday 15/12/2020
 
 Wen Da and Allen worked on finishing up the PSU Wiring. Left is the heatshrink for insultation. 
 
-Mr Soh brought Wen Da, Allen and Reynard to Sung Hoe Sheet Metal Works. The hollow tube frame is done. We discussed any changes and gave Mr Liow the legs and drawer slides.
+Mr Soh brought Wen Da, Allen and Reynard to Sung Hoe Sheet Metal Works to get an update of the frame fabrication. The hollow tube frame was finished. We discussed any final changes to be made and gave Mr Liow the legs and drawer slides.
+
+**insert pic of the finished frame**
 
 ### Wednesday 16/12/2020
 
 Before assemblying the entire feed tray, Allen did a sub assembly of a column of motor complete with the coil support. The motor was then hooked up to a lab power supply unit, and when the power was on, an issue quickly arose. When the coil rotates on the coil support, it will skip on the bend of the coil support, which caused it to deflect and push itself of the coil support.
 
-Therefore, Allen and Wen Da discussed this issue with Mr Edward, and we managed to come up with a two solutions. The first solution is to simply increase the leg width of the equal angle bar either by using a wider angle bar or install a extension on it; the second solution is a sandwhich design, where another angle bar is used to push on the coil from the type, hence, the coil is sandwiched from both the top and from the bottom. Allen designed the sandwich solution in Inventor.
+Therefore, Allen and Wen Da discussed this issue with Mr Edward, and we managed to come up with a two solutions. The first solution is to simply increase the leg width of the equal angle bar either by using a wider angle bar or install a extension on it; the second solution is a sandwich design, where another angle bar is used to push on the coil from the type, hence, the coil is sandwiched from both the top and from the bottom. Allen designed the sandwich solution in Inventor.
 
 **insert pics**
+
+**insert vid**
 
 Allen collected the polycarbonate delivered to school.
 
@@ -2929,10 +2932,32 @@ Wen Da finished up the points interface, adding Year of student to the Logs on b
 
 ### Thursday 17/12/2020
 
-Allen and Wen Da machined out the sandwich design together. At the same time, Allen took a wider angle bar from the workshop as well.Once the sandwich design is finished, they head back to the lab to test out the different solutions. 
+Allen and Wen Da machined out the sandwich design together. At the same time, Allen took a wider angle bar from the workshop as well. Once the sandwich design was made, they head back to the lab to test out the different solutions. 
 
-Wen Da also suggested  
-Allen realised that his design for dispensing function had issues, the spring would push itself off. Wen Da and Allen brainstormed for solution and came up with a simple solution of adding laser cut acrylic.
+Wen Da also suggested to make the coil support with extended leg width entirely out of acrylic instead of having additional material assembled onto the existing parts.
+
+#### Solution 1 - Extending the leg width 
+
+As a proof of concept, Allen used the a wider angle bar (where the leg width is 2 inches) and covered the existing coil support from the bottom. Then the motor was turned on to rotate the coil. This solution worked perfectly as the coil sat perfectly on the support whilst rotating, it did not skip or pushed itself of the support.
+
+In addition, there was two method this solution can be implemented, the first method is to refabricate a new coil support entirely with the 2 inch equal angle bar; the second method is to make extensions that can be assembled onto the existing coil support.
+
+**insert pics** 
+
+#### Solution 2 - Sandwich design
+
+This was the only solution that did not work. Despite having the extra angle bar on top to press down on the rotating coil, the coil still mangaged to get skip and push itself of the support. Moreover, we found out that, near the end of the coil, the top angle bar was not even doing its intended work which was to press down on the coil. 
+
+**insert pics**
+
+#### Solution 3 - Making the coil support from acrylic
+
+To make the coil support, we laser cut 2mm acrylic, where the each leg width was 2 inches wide. After which, the acrylic was bent into the proper shape with the help of an acrylic bender. Although the coil was very stable while it rotated on this design, the acrylic was not stiff enough to support the coil and its own weight, causing it to sag down. The sagging was undesired, because overtime the acrylic will eventually yield due to fatigue and break.
+
+**insert pics**
+
+**Conclusion**
+After looking at the results of all three solutions, we decided that to go with solution 1, which was to extend the leg width of the angle bar. And the method used to do it was to laser cut 2mm thick acrylic extensions that are 2 inches wide, and assemble them onto the current coil supports. This method is much easier and faster to fabricate, any modifications can also be made easier, and testing can be done earlier.  
 
 Reynard worked on his SQL. He currently as 1 query to add up all the collection of tier prizes.
 
@@ -2942,16 +2967,26 @@ https://pimylifeup.com/raspberry-pi-rfid-rc522/
 
 ### Friday 18/12/2020
 
-Allen finalised design for dispensing function.
+Allen came up with some designs for the coil support extensions, laser cut them and assembled onto the coil support to test out how effective are the designs at keeping the coil in place while preventing them from skipping, deflecting and pushing itself off the support.
+
+There are generally two different types of design, the first type is a full length coil support extension that supports the coil from the start of the existing one inch coil support to the end. The second type is shorter and smaller and is situated only at the end of the coil support.
+
+**insert pictures of the different designs**
+
+After spending the day to determine which design is the best, it was decided the full length coil support extension design was the way to go. Even though the this type of design is heavier, but over the numerous testing we did, it was more stable than the design that is situated only at the end of the coil support. Additionally, there was also the flexibility of putting smaller sized prizes on the coil instead of hanging them. 
+
+**insert pic of the "final design**
+
+Allen also tested this design using different types of string. And it was decided that the best type of string to use was thin nylon string. This is because it did not share the same problem as many of the thicker cables or strings, where the cables tended to slide underneath the coil near the end. The reason for that problem was due to how our coils were at an angle, so when it rotated and pushed out the cable, the cable dropped out from the shorter side of the coil first, but some parts of the cable still hung onto the longer side of the coil, when the next pitch of the coil pushed forward, the cable got caught, and slid underneath the coil.
 
 Wen Da worked on making a graphical display for the vending machine.
 
 Reynard did his SQL.
 
+### Weekends 19-20/12/2020
 
-###weekends
+Wen Da visited Mr Liow's Workshop to confirm drawings and answer any queries that he had.
 
-Wen Da visited Mr Liow's Workshop to confirm drawings and answer any query that he had.
 Wen Da worked on the NFC Card reader. As their code was not updated for 3 years, Wen Da had to fix bugs in their code as it was meant for python 2 and currently we are using python 3. Example of fix was print did not had () in python 2 but 3 had. The maker misspelled Backdata as ackdata.
 
 https://github.com/mxgxw/MFRC522-python/blob/52507f18514bd4259c3e34886587ac2f95b13cb4/MFRC522.py
@@ -2973,7 +3008,11 @@ We are working with Sung Hoe Sheet Metal works to make the vending machine frame
 
 ### Monday 21/12/2020
 
-We presented to Mr Soh on what we had. As EA Funding has been rejected, Mr Soh managed to get our budget to 3500.
+We presented the proposed solution for the coil skipping problem to Mr Soh. After looking at the solution, Mr Soh suggested that one side of the coil support extension can be made into a longer length, to compensate for the angle of the coil, so that when one pitch is fully rotated, the cable that was supported on both sides will drop at the same time. 
+
+**insert pic**
+
+As EA Funding has been rejected, Mr Soh managed to get our budget to 3500.
 
 Wen Da managed to fix the bug of when restarting the program, there would be import error.
 Using this line to restart worked and did not have any permission error. 
@@ -3034,10 +3073,14 @@ The second LED Strip would continue the next colors rather than restart from the
 
 Length of cable to solder would be minimum 15cm. 
 
-Wen Da and Allen drilled holes in parts and tested the mechanism to get ready to pass to Mr Liow.
+Wen Da and Allen drilled holes in some of the parts and tested the mechanism to get ready to pass to Mr Liow.
+
+Allen continued to work on the design of the coil support extensions. He needed to determine what was the optimum offset one of the extensions should have. So he made multiple designs ranging from 375mm to 385mm. Then he fabricated them using the laser cutter and tested all of the designs. 
 
 
 ### Wednesday 23/12/2020
+
+Allen continued to test the different designs of the coil support extensions. He also realized that when using thinner threads such as a nylon fishing line, there was no problem of the thread being caught underneath the coil while it was being pushed out.
 
 Current Pins used (Physical Board Pins):
 
@@ -3059,7 +3102,9 @@ RST <--> 22
 
 DATA FOR RGB LED <--> Pin 12
 
-Mr Soh drove Wen Da and Allen to Mr Liow's workshop. We tested the drawer slide and it worked fine except the screws at the side, we used were too thick, it rubbed against the drawer slide edge. We are replacing it with a cheese head.
+Mr Soh drove Wen Da and Allen to Mr Liow's workshop. We tested the drawer slide and it worked fine except the  socket head screws used for the feed trays interfered with the drawer slide, it rubbed against the edge of the drawer slide. We are replacing it with a pan head screws that has a smaller foorprint than socket head screws.
+
+**insert pic of problem**
 
 Wen Da's PCB had a problem, the Pi does not have enough current to switch on the relay. Wen Da will be adding a high-side switch transistor to power the relay.
 
@@ -3070,7 +3115,6 @@ As it was the Christmas week, and school was closed. The team worked from home.
 Wen Da tested his updated circuit and drew on EAGLE.
 
 Made cover for PSU Housing.
-
 
 ## Week 16 (28/12/2020 to 3/1/2021) 
 
@@ -3084,8 +3128,9 @@ Wen Da tested circuit and realised that 1k ohm resistor when put on does not act
 
 Laser cut PSU Housing Cover to ensure it fits.
 
-Ordered PCB Design.
+Ordered the new PCB design from JLCPCB.
 
+After a few days worth of testing, Allen decided on the final design of the coil support extension, and the chosen design was a non-offset design
 
 ### Tuesday 29/12/2020
 
