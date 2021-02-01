@@ -3653,17 +3653,25 @@ Allen continued on drop testing all the prizes. And he figured out that the best
 
 He also changed the design of the collection point panels. Where the side panles have an angle of 50 degrees and cover a larger area, while the back panel have an angle of 30, and was also extended to catch any prizes that bounces of the base of the collection point.
 
+Wen Da tested the RGB LED and learned that the data pin from the led strip must be grounded to the pi, else it will be floating and colors will be haywire.
+
 **show pic of the new collection point panel designs**
 
 ### Friday 29/01/2021
 
 Allen did the final stage of drop testing. He also drilled a hole near the base of the frame, so that the wire of our vending machine can come out. 
 
+Wen Da finished up on wrapping all the cables using cable wrap and heatshrinks.
+
 **show pic of the extension cord hole**
 
 ## Week 21 (01/02/2021 to 07/02/2021)
 
 ### Monday 01/02/2021
+
+Allen and Wen Da taped up the screws and holes and dismantled the vending machine to be sent for powder coating.
+
+Wen Da Managed to get the Pi to connect to enterprise wifi using this link : https://raspberrypi.stackexchange.com/questions/60492/how-do-i-connect-to-wifi-when-it-is-grayed-out
 
 ### Tuesday 02/02/2021
 
