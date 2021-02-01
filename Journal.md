@@ -1906,14 +1906,36 @@ Allen continued to source for materials and did ergonomics study on the anthropo
 
 **insert data**
 
-**insert allen testing on his brother**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/Allen%20test%20on%20brother%202.jpeg)
+Allen did a quick visual test on his brother, and this is the conclusion he got.
 
 
 ### Wednesday 21/10/2020
 
 Allen made a mockup for the layout of the vending machine 
 
-**insert pictures**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/3D%20cad%20layout%20design%202.jpg)
+This is the first design he did in Inventor.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/3D%20cad%20layout.jpg)
+This is the second design he did in Inventor.
+
+On top of that he also created a model of a human that is 165cm tall to see whether the model is able to see the whole model from 30cm away at eye level.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/165%20human%20visual%20field%202.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/165%20human%20visual%20field.jpg)
+
+The human model is put together with the mock layout.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/Visual%20field%20.jpg)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/Visual%20field%202.jpg)
+
+Allen also made a real life mockup of the layout of the vending machine.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/Real%20life%20planning.jpeg)
+
+He asked some friends of different sizes to find out if they the layout is awkward for them.
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/Tristan%20test.jpeg)
 
 Wen Da did drawing of PCB and etching to make the PCB. 
 
@@ -1998,6 +2020,14 @@ We also learned that giving too small of tolerance eg +- 0.01mm is too much and 
 ### Weekends 24-25/10/2020
 
 Allen did CAD for the motor gear box given to us by the sponsor, since there isn't any available 3D files of it online. He did torque calculations. Designed the feedtray. 
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/sw-vwlhn-001%203d%20view.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/sw-vwlhn-001%203d%20view%202.jpg)
+3D CAD model of the sponsored motor
+
+**add pic of actual motor**
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/torque%20calculations.jpg)
+Torque calculations
 
 Wen Da started to learn how to make GUI display. This youtube video guides were followed: [https://www.youtube.com/watch?v=s81_WnM1oJA](https://www.youtube.com/watch?v=s81_WnM1oJA)
 
@@ -2373,8 +2403,6 @@ Allen received the drawer roller slides, and modelled them in CAD.
 
 Allen added rivet holes to the frame and panels and did dimension drawings for all the components.
 
-**show pics**
-
 The feed tray design has also been changed  to accomodate the drawer slides, and also the height of the back of the feedtray has been reduced since it is not load bearing it does not make sense to have it at such a high height, plus it saves cost too.
 
 **show pic**
@@ -2486,7 +2514,7 @@ Wen Da worked on 3D modeling of the PCB.
 
 **show pictures** 
 
-## Week 10 (15/11/2020 to 21/11/2020) 
+## Week 10 (16/11/2020 to 21/11/2020) 
 
 End of the week, we placed fabrication order for feedtray. Reynard worked on coding. Allen and Wen Da started machining.
 
@@ -2547,8 +2575,6 @@ Allen also made a fan grill at the back panel, so that a 140mm fan can be attach
 **show pictures, cad and the laser cut ones**
 
 Reynard focused on working on the NFC and also continued to design the keypad for the vending machine.
-
-**show pictures, laser cut template of the keypad**
 
 ### Tuesday 17/11/2020
 
