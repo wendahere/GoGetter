@@ -1915,9 +1915,11 @@ Allen did a quick visual test on his brother, and this is the conclusion he got.
 Allen made a mockup for the layout of the vending machine 
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/3D%20cad%20layout%20design%202.jpg)
+
 This is the first design he did in Inventor.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/3D%20cad%20layout.jpg)
+
 This is the second design he did in Inventor.
 
 On top of that he also created a model of a human that is 165cm tall to see whether the model is able to see the whole model from 30cm away at eye level.
@@ -1926,9 +1928,7 @@ On top of that he also created a model of a human that is 165cm tall to see whet
 
 The human model is put together with the mock layout.
 
-![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/Visual%20field%20.jpg)
-
-![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/Visual%20field%202.jpg)
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/Visual%20field%20.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/Visual%20field%202.jpg)
 
 Allen also made a real life mockup of the layout of the vending machine.
 
@@ -2022,11 +2022,13 @@ We also learned that giving too small of tolerance eg +- 0.01mm is too much and 
 Allen did CAD for the motor gear box given to us by the sponsor, since there isn't any available 3D files of it online. He did torque calculations. Designed the feedtray. 
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/sw-vwlhn-001%203d%20view.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/sw-vwlhn-001%203d%20view%202.jpg)
+
 3D CAD model of the sponsored motor
 
 **add pic of actual motor**
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/torque%20calculations.jpg)
+
 Torque calculations
 
 Wen Da started to learn how to make GUI display. This youtube video guides were followed: [https://www.youtube.com/watch?v=s81_WnM1oJA](https://www.youtube.com/watch?v=s81_WnM1oJA)
@@ -2077,11 +2079,7 @@ Allen continued working on the feedtray design for the vending machine. Since we
 
 As the we wanted to hang prizes on our dispensing mechanism, the coils need to be of a cantilever design. However, the coils are heavy and can't support its own weight, therefore it requries something to support itself. Therefore, we will be using an one inch equal leg width angle bar to support it.
 
-**insert angle bar design**
-
-Also modelled a drawer roller slide. 
-
-**insert pictures**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%207/1%20inch%20angle%20bar.jpg) Design of coil support using 2mm one inch equal angle bar
 
 Wen Da tested if using transistor as a switch for power side would work. He was unsure as the typical switch use is to cut off the ground side, not the power side. This was tested on tinkercad.
 
@@ -2097,11 +2095,14 @@ The LED lights up means the 1 by 1 matrix works. This means that 5 by 4 etc, wou
 
 Allen consulted with Mr Soh on the design of the feedtray. Where Mr Soh mentioned if we were to proceed with sheet metal bending, we needed to include corner reliefs for the bends so as to prevent tearing from happening while bending. He said to send the design for quotation first and to see the prices for 1mm steel and 2mm aluminium.
 
-**insert fedtray design v1**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%207/feed%20tray%20design%20v1.jpg)
+First feed tray design
 
 Allen also 3D printed the coil mount he modelled during the weekends to see whether it fits, and to test whether can we 3D print spare parts for it for GOS should any of it break during operation. 
 
-**insert 3d printed coil mount**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%207/3d%20printed%20coil%20mount.jpg)
+
+3D printed coil mount
 
 Reynard did the keypad. He did matrix wiring on the key switches, and programmed an arduino micro for the keypad.
 
@@ -2118,7 +2119,12 @@ Wen Da made the PCB board for etching fit the board. The board given was smaller
 
 Allen made the necessary adjustments to the feed tray design before making the 2D drawing for it. As well as making a 1mm variant of the design if we decide to make the feed tray with steel. Allen also made the 2D drawings for the motor bracket and the handle.
 
-**insert pictures of motor bracket and handle**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%207/Motor%20bracket.jpg)
+
+Motor bracket design
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%207/Handle%20v1.jpg)
+Handle design
 
 Reynard continued to work on the keypad. Ask Louis to flash the arduino micro. Considered making a PCB as the wires leading to the arduino micro is very messy. 
 
@@ -2192,7 +2198,9 @@ The PCB they used for matrix control was very useful. I learned that the holes t
 
 Allen continued to work on the CAD design of the vending machine. He focused on designing the metal sheets that would be used to cover up the hollow tube frame. 
 
-**insert pictures of the different metal sheets for the frame**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%207/Different%20panels.jpg)
+
+1mm metal sheet panels to cover up the frame
 
 The way we will be installing the sheets onto the frame is by blind riveting. Allen learnt that the spacing between each rivets also known as rivet pitch must be at least 3 times the rivet diameter, althought the preferred distance is 3.5 times the rivet diameter. Another thing to note is the edge distance of rivets, it should not be less than 2 times the diameter of the rivets. The recommended edge distance is 2.5 times the rivet diameter, this is so that the rivet holes can be enlarged in the future without violating the miniumum edge distance. It is important that the minimum edge distance is met. This is because, if rivets are placed to near the edge of the sheet, the sheet may crack or pull away from the rivet while under load.
 
@@ -2246,21 +2254,23 @@ Allen met up with Mr Soh to discuss the design of the vending machine.
 
 Allen laser cut and bent 3mm acrylic to test out the new motor bracket.
 
-**insert pic here**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Motor%20mount%20(red%20acrylic%20bent).jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Motor%20assembly%20on%20red%20motor%20mount.jpg)
 
 Allen worked on creating a ramp for the bottom 2 levels of the feed tray. After creating the first design, he realised that the overall design can be simplified. This way there isn't a need to increase the width of the frame and the thickness can be increased by 100mm instead of 200mm. New frame dimension: 1000x700x1450mm. 
 
-**show ramp design 1**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Ramp%20design%201.jpg)
+Ramp design 1
 
-**show ramp design 2** 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Ramp%20design%202.jpg)
+Ramp design 2 
 
 Allen also worked on the panels for the collection point at the door.
 
-**show pictures**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Collection%20point%20panels.jpg)
 
 Allen also did a test to determine the what is the suitable angle from the horizontal for the ramp of the feed trays. And after doing multiple rounds of drop tests, the chosen angle was 30 from the horizontal.
 
-**show pictures**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Ramp%20angle%20test.jpg)
 
 Did a layout test, found out that 1450mm might not be a suitable height. 
 
@@ -2300,7 +2310,13 @@ Wen Da brought some blind rivets and a rivet gun for Allen to familiarise on how
 
 Allen prepared some aluminium pieces to practice on how to rivet. 
 
-**show pictures**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Practice%20rivet.jpg)
+
+Allen practicing how to rivet 
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Learn%20rivet.jpg)
+
+Rivet on test piece
 
 Wen Da printed the PCB Drawing on paper to check if the copper board could fit the design Wen Da made. The drawing could not fit and Wen Da removed some terminal blocks and moved the components closer and it fit well.
 
@@ -2367,7 +2383,7 @@ Total weight (1mm steel): 1.55 + 1.65 + + 1.45 + 0.3 + 0.48 + + 1.68 + + + =
 
 Allen also made a template for GOS on how to tie string that will be use to loop around the coil.
 
-**show picture**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/String%20loop%20template.jpg)
 
 Reynard read up on SQL which will be used for the database of the students.
 
@@ -2393,19 +2409,25 @@ Wen Da tested with both high-side and low-side switches boards and it works!
 
 To allow for easy refill of prizes, Allen made a locking mechanism to be attached on the handle, so that the handle can be easily lifted up and down during refilling.
 
-**show pictures**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Push%20pin%20locking%202%20.jpg)
+
+Where the pin is located
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Push%20pin%20locking.jpg)
+
+How the lock pin works
 
 ### Weekends (07 - 08/11/2020)
 
 Allen received the drawer roller slides, and modelled them in CAD.
 
-**show pic of the drawer slides and cad model**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Drawer%20slides.jpg)
 
 Allen added rivet holes to the frame and panels and did dimension drawings for all the components.
 
 The feed tray design has also been changed  to accomodate the drawer slides, and also the height of the back of the feedtray has been reduced since it is not load bearing it does not make sense to have it at such a high height, plus it saves cost too.
 
-**show pic**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%208/Feed%20tray%20v2.jpg)
 
 ## Week 9 (9/11/2020 to 13/11/2020) 
 
@@ -2435,7 +2457,7 @@ Allen consulted Mr Edward and Mr Soh about the design of certain components.
 
 Allen also designed the leg and hinge brackets that will be used to pivot the door and to hold the leg stands for the vending machine.
 
-**show pictures**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/Hinge%20brackets.jpg)
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/3D%20Files/Working%20on%203D/WhatsApp%20Image%202020-11-10%20at%2022.22.59%20(1).jpeg)
 
@@ -2447,18 +2469,20 @@ Allen also confirmed with Mr Soh what type of material the team will use for the
 
 Allen did calculation for the coil support to determine whether will the angle bar fail under tensile and shear stress. All calculations are based on the worst case scenario.
 
-**Tensile stress calculation**
-
 Using the following formula to determine the tensile stress, 
 
 σ = (My)/I, where σ = bending stress, M = moments, y = distance from the neutral axis to the stress location, I = second moment of area about the neutral axis.
 
-![Moment calculation]()
+Moment calculation
+![Moment calculation](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/Calc%201.jpg)
 
-![Finding I and y of the angle bar]()
+Finding I and y of the angle bar
+![Finding I and y of the angle bar](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/Calc%202.jpg)
+
 Formula for I and y is taken from [this website](https://www.engineeringtoolbox.com/area-moment-inertia-d_521.html). 
 
-![Finding σ and factor of safety]()
+Finding σ and factor of safety
+![Finding σ and factor of safety](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/Calc%203.jpg)
 
 Since the working stress, 102.06 N/mm^2 is less than the maximum yield stress of the angle bar, 276 N/mm^2 ([source](http://asm.matweb.com/search/SpecificMaterial.asp?bassnum=MA6061T6)), and with a factor of safety of 2.7043, the angle bar will not fail during operation. 
 
@@ -2486,25 +2510,25 @@ Steps:
 
 Allen did a final round of checking for the parts to be sent out. And also finished the dimension drawings for the subassembly of the leg and hinge brackets to show how we want the bolts and nuts to be welded on each brackets.
 
-**show pictures**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/Hinge%20bracket%20assemblies.jpg)
 
 Allen also designed the window  for the main door which will be made out of polycarbonate. 
 
-**show pictures**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/Window.jpg)
 
 ### Weekends 14-15/11/2020
 
 Allen continued to finish up the design for the main door and IO door, as well as its associated panels and other components.
 
-**show pic of the doors(panel and frame)**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/Main%20door.jpg)
 
 Allen also ordered a lock that will be used for the vending machine from [lazada](https://www.lazada.sg/products/t-shape-cabinet-lock-lock-for-vending-machine-booth-game-machine-atm-machinesmart-terminal-handle-lockscabinet-lock-i1267414793-s5221610386.html?).
 
-![t lock]()
+![t lock](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/lock.jpg)
 
 Using the dimensions given by the supplier, he did a 3D model of the lock.
 
-**show the cad model of the lock**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/Lock%20cad%20model.jpg)
 
 A bracket for the lock is also designed, to hold the other locking part of the lock on the frame of the vending machine body, while the other half is directly mounted to the IO door. 
 
@@ -2512,7 +2536,7 @@ Furthermore, he designed the pull flap that covers the opening of the collection
 
 Wen Da worked on 3D modeling of the PCB.
 
-**show pictures** 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%209/PCB%20model.jpg)
 
 ## Week 10 (16/11/2020 to 21/11/2020) 
 
@@ -2568,11 +2592,23 @@ We received a quotation from Starlight, a metal working comapany. The projected 
 
 Allen focused on making the final touch ups to the panels. For example, after discussing with Wen Da, a small change to the shelf and partition panels were needed to accomodate for the wires that will connect our motors to the motor control PCB.
 
-**show pictures**
+Old design:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Partition%20panel%20old.jpg)
+
+New design:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Partition%20panel%20new.jpg)
 
 Allen also made a fan grill at the back panel, so that a 140mm fan can be attached to it, to draw air in from the outside so that there is an active airflow within the electronic side of the vending machine to keep sensitive electronics such as our Raspberry PI cool. 
 
-**show pictures, cad and the laser cut ones**
+3D model:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Fan%20grill%20model.jpg)
+
+Laser cut:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Fan%20grill%20laser%20cut.jpg)
 
 Reynard focused on working on the NFC and also continued to design the keypad for the vending machine.
 
@@ -2584,11 +2620,13 @@ Allen tested riveting on polycarbonate and crylic to test whether will they crac
 
 Allen made a template for bending acrylic out of wood.
 
-**show picture of the wood template**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/30%20degree%20wooden%20template.jpg)
 
 Allen prepared the necessary materials for the parts that need to be fabricated in-house. 
 
-**show raw stock pictures**
+Raw stock prepared
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Raw%20stock.jpg)
 
 Allen used a horizontal band saw to cut the stock material to the required sizes, so that it can be machined to the different parts we require.
 
@@ -2599,21 +2637,22 @@ Allen using a horizontal bandsaw
 
 Wen Da and Allen started to machine our in-house fabricated parts.
 
-![]()
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Allen%20milling.jpg)
 Allen using a milling machine
 
 The first part to be machined is 15 motor brackets. First they faced down the brackets to size, then cut the slot and drilled the holes.
 
-![]()
 L-brackets faced to size for the motor brackets
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Facing.jpg)
 
 ### Thursday 19/11/2020
 
 Wen Da and Allen continued to finish machining the motor brackets. Slots for the motor to sit on was machined out. A fitting test with the motor was then done to ensure that the motor can be assembled to the motor bracket. 
-![]()
+
 Fitting test of the motor bracket
 
-![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.16.jpeg)
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/motor%20bracket%20test%20fit.jpg)
 
 Once the motor brackets were finished. Allen and Wenda moved on to machine the bracket handles.
 
@@ -2621,8 +2660,9 @@ Once the motor brackets were finished. Allen and Wenda moved on to machine the b
 
 Allen machined the left and right sides of the handle while Wen Da machined the front side of the handle. Wen Da then did turning for the spacers of the pull flap of the collection point. Wen Da also machined the covers for the pin housings.
 
-![]()
 Wen Da doing turning with a lathe machine.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Wenda%20turning.jpg)
 
 ### Weekends 21-22/11/2020
 
@@ -2646,13 +2686,29 @@ Allen worked on the lock bracket, flap brackets. While Wen Da finished machining
 
 Allen made some design changes to the frame and panels as well as some aspects of the doors. All the thickness of the hollow tubes were changed from 3mm to 1.5mm; all the rivet holes of the panels were removed, as we decided we will ask our fabricator to help us weld the panels directly to our frame. We plan to use 2 fans instead of 1, so that we have air circulation within the vending machine, and the fan grills in the back panel is removed and in their places are 2 large square cut outs, with mounting holes around them, so we will fabricate the fan cover in separately and mount that the fan on the cover and finally mount everything to the back panel, this allows for easy servicing and the possibility of changing to a different sized fan. Some changes were made to the left panel, there are now cut outs in the panel where we will cover it with polycarbonate, this acts as a window which allows users to peer into the inner workings of our dispensing mechanism, and see them in action.
 
-**insert pictures of the aforementioned changes**
+2 cut outs in the back panel for 2 fans
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2011/2%20fans.jpg)
+
+2 cut outs in the left panel for 2 side windows
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2011/side%20windows.jpg)
 
 ### Wednesday 25/11/2020
 
 Wen Da and Allen machined the coil supports together. Firstly, they faced the equal angle bars to size. Secondly,  two lines 25mm from the end of bar were scribed on the sides of the bar. Thirdly, a slot was cut at the one end of the bars. Lastly, using a table vice, the two flaps were bent from the bar.
 
-**show picture of some of the process**
+After the angle bar is cut to size, a slot is cut at the end to be bent.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2011/Angle%20bar%201.jpg)
+
+After the slot is cut, the angle bar is then bent on each leg with the help of a vice.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2011/Angle%20bar%202.jpg)
+
+End result:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2011/Angle%20bar%203.jpg)
 
 What we learnt about bending, is we should give some allowances. As when the workpiece is bent, some material will be stretched within the workpiece, resulting in a longer dimension.
 
@@ -2664,16 +2720,18 @@ Allen sandblasted the smaller parts while Wen Da sandblasted the longer parts. T
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Machining/WhatsApp%20Image%202020-11-29%20at%2021.22.02.jpeg)
 
-![]()
 Allen sandblasting the fabricated parts
 
-![]()
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2011/Allen%20sandblast.jpg)
+
 Difference between a non sandblasted (left) piece and a sandblasted piece(right)
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2011/Sand%20blast%20comparison.jpg)
 
 Allen did a mastercam program for the cnc machining of our lock pin.
 
-![]()
 CNC programming of lock pin
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2011/CNC%20.jpg)
 
 ### Friday 27/11/2020
 
