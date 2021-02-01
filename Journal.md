@@ -3529,7 +3529,7 @@ He also made some slight changesd to the dimensions of the collection point pane
 
 He also round out the sharp edges and corners of the feed tray and handle using a dremmel that had a grinding bit.
 
-**show pic of filleted feed tray**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2018/fillet.jpg)
 
 Wen Da worked on testing all the LED with colors provided by GOS, Yellow, Blue and Red. 
 
@@ -3565,9 +3565,9 @@ Wen Da bought another module online, DS3231 which did not have this problem. Til
 
 Allen passed the 2D drawings to Mr Walter, as he helped us to get the quotations for our powder coating. The colour we are looking for is white for the frame body and doors, and yellow, blue and red for each level of the dispensing mechanism.
 
-**show the available colours**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2018/Colour%201.jpeg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2018/Colour%202.jpeg)
 
-*say which colours are chosen*
+The chosen colour is PR12/81/CS7 - Frame white for the body and doors. This particular coat was chosen because of its satin finish which makes it easier to apply sticker on a satin surface. 
 
 ### Thursday 14/01/2021
 Wen Da did the programming for overwriting the details of a previous student if they tap while a current student is still displayed on the vending machine. 
@@ -3583,10 +3583,22 @@ Wen Da did arduino card reader with keyboard output for teachers to use. It is t
 To protect the ribbon cable of our screen, we needed a cover for it. Allen decided to vacuum form a cover that is made to perfectly cover the back of the screen. Firstly, he made a wooden template that was the same size as our screen. Secondly, he drilled air holes into the wooden template, and the wooden is finished. Thirdly, he heated up a plstic sheet that was used to form the cover. Fourthly, once the plastic sheet had been heated up, the plastic sheet is quickly covered on the wooden template and the vacuum is turned on to suck out all the air, which allowed the plastic sheet to wrap around the wooden template. Finally, the plastic is let to cool down, and cut outs were made for the cable ports as well as a cut out for the chip of the screen.  
 
 **show the ribbon cable of the screen**
-**show allen cutting the wooden template with the bandsaw**
-**show finished wooden template**
-**show allen vacuum forming**
-**show finished screen cover**
+
+Finished wooden template:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2018/Screen%20wood%20template.jpg)
+
+Heating the plastic sheet in the vacuum former:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2018/Vacuum%20forming.jpg)
+
+Finished screen cover:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2018/screen%20cover.jpg)
+
+Screen cover assembled to the screen:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2018/Screen%20cover%20assembled.jpg)
 
 ## Week 19 (18/01/2021 to 24/01/2021) 
 
@@ -3602,7 +3614,10 @@ Wen Da added enter after the USB RFID Reader has typed in the UID.
 
 Allen applied dual lock tape onto the LED diffusers. We decided to use dual lock tape over conventional velcro because both sides of the tape are plastic bristles and the those bristles last longer than the bristles of conventional velcro. Furthermore, they can handle more weight as well.
 
-**pic of dual lock tape**
+Dual lock tape used
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Dual%20lock.jpg)
+
 **pic of dual lock on diffuser**
 
 ### Tuesday 19/01/2021
@@ -3616,13 +3631,13 @@ Wen Da worked on making the USB RFID Reader to a perfboard, however, the Arduino
 
 Allen finished up assembling the tray handle using the M5 shoulder screws and M6 socket head screws.
 
-**show pic of the assembly**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Shoulder%20screw%20assembly%20.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Shoulder%20screw%20assembly%202.jpg)
 
 ### Thursday 21/01/2021
 
 Allen made some slight changes as how the pull flap is assembled. He used long M8 screws, and used a technique called interlocking nuts, which is having two nuts screw into the same screw. This way, when pull flap is subjected to repeated close and open motions, the first nut will not come lose, as it is stopped by the second nut.
 
-**show pic of the interlocking nut**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Interlocking%20nut.jpg)
 
 Wen Da got the USB to speaker working. Steps below: (https://superuser.com/questions/989385/how-to-make-raspberry-pi-use-an-external-usb-sound-card-as-a-default)
 
@@ -3679,9 +3694,20 @@ As the VLC Player is an external audio player, the leakage does not interfere wi
 
 Allen designed and made a holder and a cover for our Raspberry Pi.
 
-**show pic of pi holder design**
-**show pic of pi cover design and bent pi cover**
-**show pic of pi holder assembly**
+Pi holder:
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20holder.jpg)
+
+**show actual**
+
+Pi cover:
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20cover.jpg)
+
+**show actual**
+
+Pi holder assembly:
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20holder%20assembly.jpg)
+
+**show actual**
 
 Then he drilled holes into the IO door where the Pi holder will be mounted on.
 
@@ -3691,7 +3717,14 @@ Then he drilled holes into the IO door where the Pi holder will be mounted on.
 
 Allen vacuumed formed a cover for our motor PCB and our keypad. The methods he used to make these two covers were the same as how he made the cover for the screen. But instead of air holes, he cut air gaps into the wooden templates. And the final results were a much better vacuum form of the two covers.
 
-**pic of both templates**
+Wooden keypad template
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/Keypad%20template.jpg)
+
+Wooden PCB template
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/PCB%20template.jpg)
+
 **pic of finished covers**
 
 He also installed the NFC reader onto the holder and the holder onto the IO door.
@@ -3700,12 +3733,12 @@ He also installed the NFC reader onto the holder and the holder onto the IO door
 
 Allen made a quick change to the design of the Pi holder. The pull flap was also changed to metal.
 
-**pic of new pi holder**
-**pic of metal pull flap**
+New Pi holder
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/New%20pi%20holder.jpg)
 
 GOS came for the last time to finalise any designs, and shared with us some concerns they had.
 
-**pic of gos last visit**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/Final%20GOS%20visit.jpg)
 
 #### Feedback from GOS
 -> RGB
@@ -3752,15 +3785,13 @@ GOS came for the last time to finalise any designs, and shared with us some conc
 
 Allen did drop testing on all 15 columns, to ensure that prizes can drop smoothly without fail, and to pinpoint any points of error. 
 
-**pic of drop testing**
-
 He also wanted to decide on whether should he change the coil support extensions to Mr Soh's original suggestion which is to have an offset. He also laser cut the extensions with 2mm acrylic of their actual colours. 
 
-**show pic of the coil support extenders cut with their colours**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/3%20colours.jpeg)
 
 A new ramp design was also made, so to allow for bigger prizes to be able to sit on the coil. 
 
-**show 3d cad of new ramp design**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/New%20ramp%20design.jpg)
 
 One of the front handles was also made with 3mm clear acrylic, and had the item labels engraved on it; this was a suggestion from GOS, because they felt that the RGB lights were not as visible from some angles, and a see throuh handle would be more visible.
 
@@ -3776,23 +3807,25 @@ Allen continued on drop testing all the prizes. And he figured out that the best
 
 He also changed the design of the collection point panels. Where the side panles have an angle of 50 degrees and cover a larger area, while the back panel have an angle of 30, and was also extended to catch any prizes that bounces of the base of the collection point.
 
-Wen Da tested the RGB LED and learned that the data pin from the led strip must be grounded to the pi, else it will be floating and colors will be haywire.
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/Collection%20point%20new.jpg)
 
-**show pic of the new collection point panel designs**
+Wen Da tested the RGB LED and learned that the data pin from the led strip must be grounded to the pi, else it will be floating and colors will be haywire.
 
 ### Friday 29/01/2021
 
 Allen did the final stage of drop testing. He also drilled a hole near the base of the frame, so that the wire of our vending machine can come out. 
 
-Wen Da finished up on wrapping all the cables using cable wrap and heatshrinks.
-
 **show pic of the extension cord hole**
+
+Wen Da finished up on wrapping all the cables using cable wrap and heatshrinks.
 
 ## Week 21 (01/02/2021 to 07/02/2021)
 
 ### Monday 01/02/2021
 
 Allen and Wen Da taped up the screws and holes and dismantled the vending machine to be sent for powder coating.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Masking.jpg)
 
 Wen Da Managed to get the Pi to connect to enterprise wifi using this link : https://raspberrypi.stackexchange.com/questions/60492/how-do-i-connect-to-wifi-when-it-is-grayed-out
 
