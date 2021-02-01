@@ -3827,7 +3827,7 @@ Allen and Wen Da taped up the screws and holes and dismantled the vending machin
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Masking.jpg)
 
-Wen Da Managed to get the Pi to connect to enterprise wifi using this link : https://raspberrypi.stackexchange.com/questions/60492/how-do-i-connect-to-wifi-when-it-is-grayed-out
+Wen Da Managed to get the Pi to connect to enterprise wifi using this link: https://raspberrypi.stackexchange.com/questions/60492/how-do-i-connect-to-wifi-when-it-is-grayed-out
 
 ### Tuesday 02/02/2021
 
