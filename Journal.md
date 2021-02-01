@@ -2753,25 +2753,23 @@ Wen Da and Allen worked on finish up drawings to send for official quotation.
 
 Allen designed a holder for the NFC reader that we will use for the vending machine.
 
-![]()
-Design of the NFC card holder
-
 Allen and Wen Da visited Sung Hoe Sheet Metal Works to pass Mr Liow the final drawings for the fabrication of our frame and doors.
 
-![]()
 Allen discussing with Mr Liow, our fabricator on the design of the frame and panels.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2012/Allen%20and%20mr%20pau%20discuss.jpg)
 
 ### Tuesday 01/12/2020
 
 Allen did some revision for the design of the lock pin.
 
-**show pic**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2012/Lock%20pin%20only.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2012/Lock%20pin%20new.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2012/Lock%20pin%20new%202.jpg)
 
 Allen and Wen Da fabricated the new design of the lock pin.
 
 Allen assembled the lock pins into their housings.
 
-**show pic**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2012/Finished%20assembly%20of%20lock%20pin.jpg)
 
 Wen Da and Allen returned the tools used in W12 and discussed next steps for the project.
 
@@ -2835,7 +2833,17 @@ Wen Da checked with the 5v relay and turns out that 3.3v can power the coil. Wen
 
 Allen also designed a new version for the NFC holder, as well as a card holder.
 
-**show pic**
+NFC holder:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2013/NFC%20holder.jpg)
+
+NFC card holder:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2013/Card%20holder.jpg)
+
+NFC holder assembly:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2013/NFC%20holder%20assembly.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2013/NFC%20holder%20assembly%20back.jpg)
 
 ### Tuesday 8/12/2020
 
@@ -2925,7 +2933,9 @@ Google Forms User Interface
 
 Allen worked on the report and designed a screen holder for our new screen.
 
-**show pic**
+New screen holder:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2013/Screen%20holder.jpg)
 
 Wen Da did programming at home.
 
@@ -2956,7 +2966,7 @@ This works. We managed to get names to display on the HTML page.
 
 Allen continued to work on the report. He also did a count on the number of fasteners needed for the assembly of all three feed trays.
 
-**show pic of excel sheet of the fasteners needed**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2013/Excel%20sheet.jpg)
 
 Wen Da did programming at home. Wen Da used this guide:
 
@@ -2993,7 +3003,7 @@ Wen Da and Allen worked on finishing up the PSU Wiring. Left is the heatshrink f
 
 Mr Soh brought Wen Da, Allen and Reynard to Sung Hoe Sheet Metal Works to get an update of the frame fabrication. The hollow tube frame was finished. We discussed any final changes to be made and gave Mr Liow the legs and drawer slides.
 
-**insert pic of the finished frame**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2014/Finished%20frame.jpg)
 
 ### Wednesday 16/12/2020
 
@@ -3001,9 +3011,13 @@ Before assemblying the entire feed tray, Allen did a sub assembly of a column of
 
 Therefore, Allen and Wen Da discussed this issue with Mr Edward, and we managed to come up with a two solutions. The first solution is to simply increase the leg width of the equal angle bar either by using a wider angle bar or install a extension on it; the second solution is a sandwich design, where another angle bar is used to push on the coil from the type, hence, the coil is sandwiched from both the top and from the bottom. Allen designed the sandwich solution in Inventor.
 
-**insert pics**
+Problem:
 
-**insert vid**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2014/Coil%20problem.jpg)
+
+CAD of sandwich solution:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2014/cad%20of%20sandwich%20design.jpg)
 
 Allen collected the polycarbonate delivered to school.
 
@@ -3056,7 +3070,9 @@ There are generally two different types of design, the first type is a full leng
 
 After spending the day to determine which design is the best, it was decided the full length coil support extension design was the way to go. Even though the this type of design is heavier, but over the numerous testing we did, it was more stable than the design that is situated only at the end of the coil support. Additionally, there was also the flexibility of putting smaller sized prizes on the coil instead of hanging them. 
 
-**insert pic of the "final design**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2014/final%20design%20before%20showing%20mr%20soh.jpg)
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2014/final%20design%202.jpg)
 
 Allen also tested this design using different types of string. And it was decided that the best type of string to use was thin nylon string. This is because it did not share the same problem as many of the thicker cables or strings, where the cables tended to slide underneath the coil near the end. The reason for that problem was due to how our coils were at an angle, so when it rotated and pushed out the cable, the cable dropped out from the shorter side of the coil first, but some parts of the cable still hanged onto the longer side of the coil, when the next pitch of the coil pushed forward, the cable got caught, and slid underneath the coil.
 
@@ -3091,7 +3107,8 @@ We are working with Sung Hoe Sheet Metal works to make the vending machine frame
 
 We presented the proposed solution for the coil skipping problem to Mr Soh. After looking at the solution, Mr Soh suggested that one side of the coil support extension can be made into a longer length, to compensate for the angle of the coil, so that when one pitch is fully rotated, the cable that was supported on both sides will drop at the same time. 
 
-**insert pic**
+Offset design:
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2015/offset%20design.jpg)
 
 As EA Funding has been rejected, Mr Soh managed to get our budget to 3500.
 
@@ -3185,7 +3202,9 @@ DATA FOR RGB LED <--> Pin 12
 
 Mr Soh drove Wen Da and Allen to Mr Liow's workshop. We tested the drawer slide and it worked fine except the  socket head screws used for the feed trays interfered with the drawer slide, it rubbed against the edge of the drawer slide. We are replacing it with a pan head screws that has a smaller foorprint than socket head screws.
 
-**insert pic of problem**
+Problem:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2015/socket%20head%20screw%20problem.jpg)
 
 Wen Da's PCB had a problem, the Pi does not have enough current to switch on the relay. Wen Da will be adding a high-side switch transistor to power the relay.
 
@@ -3213,7 +3232,7 @@ Ordered the new PCB design from JLCPCB.
 
 After a few days worth of testing, Allen decided on the final design of the coil support extension, and the chosen design was a non-offset design.
 
-**pic of final design**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/final%20design%20before%20showing%20mr%20soh.jpg)
 
 After which, Allen procedeed with the mass production of the coil support extensions. He also prepared the angle bars for assembly by drilling the necessary holes required to assemble the extensions. To easily locate the holes easily, he taped the extensions onto the coil support.
 
@@ -3223,17 +3242,27 @@ After which, Allen procedeed with the mass production of the coil support extens
 
 Allen also tested the handle by assembling them together, to make sure the swinging handle worked. However, the handle did not work as intended, because when at the closed position, the front handle was loosely sitted on the push pin, and any slight vibrations made the front handle came off from the push pin then fell. Realizing this problem will take time to troubleshoot, Allen decide to completely change the design of the handle.
  
-**pic of new handle design**
+Handle with ramp:
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/Handle%20with%20ramp.jpg)
+
+Handle without ramp:
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/Handle%20without%20ramp.jpg)
 
 The new handle design comprises of the three sides of the handle rigidly secured to each other. The design did not just stop there, because there still needs to be a way to easily restock the prizes onto the coil, especially for the prizes that are to be hung on. This was not much of an issue for the dispensing mechanism that did not have a ramp, however, for the dispensing mechanisms that have ramps, the restocking will be hard. Therefore, the solution is to make the ramp pivotable, so when the ramp is in use, the ramp will stay in an upright position, but when it is time for restocking, the ramp can be pushed down for easier access to the coils. To make this design work, the design of the ramp was also changed.
 
-**pic of the new ramp design**
+New ramp design
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/New%20ramp%20design.jpg)
 
-**pic of the shoulder screw as the pivot**
+Shoulder screw (denoted by green arrow) used as the pivot
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/Shoulder%20screw%20as%20pivot.jpg)
 
 For the pivoting mechanism is as shown in the picture. A shank of a shoulder screw will act as a pivot, while a screw that is screwed in from the opposite direction will act as the stopper for the pivot.
 
-**pic of the ramp at upright and rest posistion**
+Ramp at upright position:
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/Upright.jpg)
+
+Ramp at rest position:
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/Rest.jpg)
 
 ### Tuesday 29/12/2020
 
@@ -3281,23 +3310,27 @@ G5 <--> 26
 
 Allen went to W12 to fabricate the new design of handle A and handle B. 
 
-**show pic**
-
 He also assembled the coil support extensions onto the coil supports.
 
-**show pic**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/assembled%20coil%20support.jpg)
 
 ### Wednesday 30/12/2020
 
 Wen Da and Allen went to water cut some metal parts such as the fan covers and the PSU box covers.
 
-**show pic**
+Water jet cutting
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/Water%20jetting.jpg)
+
+Water jet fan cover
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/Water%20jet.jpg)
 
 Wen Da found a solution to the transistor not working problem.
 
 The frame arrived with the back panel being inverted. However, we still can work with that.
 
-**show pic**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/frame.jpg)
 
 Wen Da tested the solution at home with full code and everything works.
 
@@ -3317,7 +3350,7 @@ Wen Da's new PCB arrived. He soldered on the components
 
 Allen tested out the white LED lighting placement inside the vending machine.The LEDs were temporarily taped onto the diffusers.
 
-**show picture of the 12v led**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2017/12v%20lighting.jpg)
 
 He also laser cut out hole templates our of acrylic that will be used for the drilling of our polycarbonate pieces. 
 
@@ -3333,7 +3366,7 @@ Wen Da tested the new PCB Circuit and everything works fine.
 
 Allen also changed the LED lights to the ones that are 24 volts, because the one previously used were 12 volts. And the result were it was much brighter.
 
-**show picture of 24v led** 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2017/24v%20lighting.jpg)
 
 ### Wednesday 6/01/2021
 
@@ -3345,9 +3378,13 @@ Allen also laser cut the collection point panels, and bent them into shape using
 
 **show pic of collection point panel**
 
-**drilling of the main door**
+Allen drilling holes into the collection point of the door frame so that the collection panels can be assembled onto it
 
-**assembled collection point** 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2017/allen%20drilling%20main%20door.jpg)
+
+Finished collection point
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2017/Assembled%20collection%20point.jpg)
 
 ### Thursday 7/01/2021
 
@@ -3355,19 +3392,21 @@ Wen Da prepared the motors, installed all of the coils, screen and the code.
 
 Wen Da and Allen drilled holes in the polycabornate to be installed in the vending machine, they also countersunked the holes so that the polycarbonate can be flushed agianst the door.
 
-**show picture of drilling**
+Wen Da drilling holes into the door window
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2017/Wenda%20drilling%20door%20window.jpg)
 
 Allen also modeled the door hinges that were used in inventor (for documentation purposes).
 
 The dispensing mechanisms and screen was also assembled onto the vending machine.
 
-**show picture**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2017/Fully%20assembled%20machine.jpg)
 
 ### Friday 8/01/2021
 
 GOS visit to SP.
 
-**show picture**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2017/GOS%20visit.jpg)
 
 Meeting minutes:
 
