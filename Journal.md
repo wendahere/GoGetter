@@ -2021,11 +2021,13 @@ We also learned that giving too small of tolerance eg +- 0.01mm is too much and 
 
 Allen did CAD for the motor gear box given to us by the sponsor, since there isn't any available 3D files of it online. He did torque calculations. Designed the feedtray. 
 
-![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/sw-vwlhn-001%203d%20view.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/sw-vwlhn-001%203d%20view%202.jpg)
-
 3D CAD model of the sponsored motor
 
-**add pic of actual motor**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/sw-vwlhn-001%203d%20view.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/sw-vwlhn-001%203d%20view%202.jpg)
+
+Sponsored motor
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/motor.jpeg)
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%206/torque%20calculations.jpg)
 
@@ -2602,13 +2604,13 @@ New design:
 
 Allen also made a fan grill at the back panel, so that a 140mm fan can be attached to it, to draw air in from the outside so that there is an active airflow within the electronic side of the vending machine to keep sensitive electronics such as our Raspberry PI cool. 
 
-3D model:
+3D model: 
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Fan%20grill%20model.jpg)
 
 Laser cut:
 
-![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/Fan%20grill%20laser%20cut.jpg)
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2010/fan%20grill.jpeg)
 
 Reynard focused on working on the NFC and also continued to design the keypad for the vending machine.
 
@@ -3037,19 +3039,17 @@ As a proof of concept, Allen used the a wider angle bar (where the leg width is 
 
 In addition, there was two method this solution can be implemented, the first method is to refabricate a new coil support entirely with the 2 inch equal angle bar; the second method is to make extensions that can be assembled onto the existing coil support.
 
-**insert pics** 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2014/solution%201.jpeg) 
 
 #### Solution 2 - Sandwich design
 
 This was the only solution that did not work. Despite having the extra angle bar on top to press down on the rotating coil, the coil still mangaged to get skip and push itself of the support. Moreover, we found out that, near the end of the coil, the top angle bar was not even doing its intended work which was to press down on the coil. 
 
-**insert pics**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2014/solution%202.jpeg)
 
 #### Solution 3 - Making the coil support from acrylic
 
 To make the coil support, we laser cut 2mm acrylic, where the each leg width was 2 inches wide. After which, the acrylic was bent into the proper shape with the help of an acrylic bender. Although the coil was very stable while it rotated on this design, the acrylic was not stiff enough to support the coil and its own weight, causing it to sag down. The sagging was undesired, because overtime the acrylic will eventually yield due to fatigue and break.
-
-**insert pics**
 
 **Conclusion**
 After looking at the results of all three solutions, we decided that to go with solution 1, which was to extend the leg width of the angle bar. And the method used to do it was to laser cut 2mm thick acrylic extensions that are 2 inches wide, and assemble them onto the current coil supports. This method is much easier and faster to fabricate, any modifications can also be made easier, and testing can be done earlier.  
@@ -3066,7 +3066,7 @@ Allen came up with some designs for the coil support extensions, laser cut them 
 
 There are generally two different types of design, the first type is a full length coil support extension that supports the coil from the start of the existing one inch coil support to the end. The second type is shorter and smaller and is situated only at the end of the coil support.
 
-**insert pictures of the different designs**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2014/mini%20extension1.jpeg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2014/mini%20exetension2.jpeg)
 
 After spending the day to determine which design is the best, it was decided the full length coil support extension design was the way to go. Even though the this type of design is heavier, but over the numerous testing we did, it was more stable than the design that is situated only at the end of the coil support. Additionally, there was also the flexibility of putting smaller sized prizes on the coil instead of hanging them. 
 
@@ -3236,7 +3236,7 @@ After a few days worth of testing, Allen decided on the final design of the coil
 
 After which, Allen procedeed with the mass production of the coil support extensions. He also prepared the angle bars for assembly by drilling the necessary holes required to assemble the extensions. To easily locate the holes easily, he taped the extensions onto the coil support.
 
-**pic of mass fabrication**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2016/mass%20fabricate.jpeg)
 
 **pic of the angle bar drilled**
 
@@ -3354,7 +3354,7 @@ Allen tested out the white LED lighting placement inside the vending machine.The
 
 He also laser cut out hole templates our of acrylic that will be used for the drilling of our polycarbonate pieces. 
 
-**show pictures of hole template for polycarbonate**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2017/hole%20template.jpeg)
 
 He also started assemblying the dispenisng mechanisms.
 
@@ -3376,7 +3376,7 @@ Wen Da tried using the Raspberry Pi Shield but it made the circuit not work due 
 
 Allen also laser cut the collection point panels, and bent them into shape using the acryic bender. He also drilled the necessary holes required to mount the panels onto the door as well. And he finally assembled them. 
 
-**show pic of collection point panel**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2017/collection%20point%20panel.jpeg)
 
 Allen drilling holes into the collection point of the door frame so that the collection panels can be assembled onto it
 
@@ -3523,7 +3523,7 @@ the RTC module does not work as intended. Wen Da plans to buy an updated model o
 
 Allen made the pull flap from 3mm thick acrylic.
 
-**show picture of acrylic pull flap**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2018/Acrylic%20pull%20flap.jpeg)
 
 He also made some slight changesd to the dimensions of the collection point panels, such as making them with bigger holes to give them some extra room to be adjusted to ensure that the sides are flushed.
 
@@ -3574,15 +3574,13 @@ Wen Da did the programming for overwriting the details of a previous student if 
 
 Allen made hole templates from acrylic for the side windows. Then he used them to drill holes in the side windows.
 
-**show the side windows drilled**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2018/Side%20window.jpeg)
 
 ### Friday 15/01/2021
 
 Wen Da did arduino card reader with keyboard output for teachers to use. It is to read the UID of the card and type out the UID number on the computer.
 
 To protect the ribbon cable of our screen, we needed a cover for it. Allen decided to vacuum form a cover that is made to perfectly cover the back of the screen. Firstly, he made a wooden template that was the same size as our screen. Secondly, he drilled air holes into the wooden template, and the wooden is finished. Thirdly, he heated up a plstic sheet that was used to form the cover. Fourthly, once the plastic sheet had been heated up, the plastic sheet is quickly covered on the wooden template and the vacuum is turned on to suck out all the air, which allowed the plastic sheet to wrap around the wooden template. Finally, the plastic is let to cool down, and cut outs were made for the cable ports as well as a cut out for the chip of the screen.  
-
-**show the ribbon cable of the screen**
 
 Finished wooden template:
 
@@ -3618,7 +3616,7 @@ Dual lock tape used
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Dual%20lock.jpg)
 
-**pic of dual lock on diffuser**
+![](https://github.com/wendahere/GoGetter/blob/master/Images/Allen's%20images/Week%2019/dual%20lock%20on%20diffsuer.jpeg)
 
 ### Tuesday 19/01/2021
 
@@ -3721,11 +3719,25 @@ Wooden keypad template
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/Keypad%20template.jpg)
 
+Finished keypad cover
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/keypad%20cover.jpeg)
+
+Assembled keypad with cover
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/keypad%20cover%20assembled.jpeg)
+
 Wooden PCB template
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/PCB%20template.jpg)
 
-**pic of finished covers**
+Finished PCB cover
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/PCB%20cover.jpeg)
+
+Assembled PCB with cover
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/PCB%20cover%20assembled.jpg)
 
 He also installed the NFC reader onto the holder and the holder onto the IO door.
 
@@ -3795,7 +3807,7 @@ A new ramp design was also made, so to allow for bigger prizes to be able to sit
 
 One of the front handles was also made with 3mm clear acrylic, and had the item labels engraved on it; this was a suggestion from GOS, because they felt that the RGB lights were not as visible from some angles, and a see throuh handle would be more visible.
 
-**show acrylic handle B**
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/Acrylic%20handle.jpeg)
 
 Wen Da drilled holes into the shelf to allow for the mounting of the PSU box and PCB holder. He also drilled holes in one of the feed trays to mount a buck converter on it. Then he organised the wires using wire wraps and braided cables.
 
@@ -3835,17 +3847,17 @@ Wen Da Managed to get the Pi to connect to enterprise wifi using this link: http
 
 Allen cleaned up our workspace in T11c in preparation for the delivery of the frame. He put aside the things that need to be assembled neatly at a table.
 
-![]()
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/parts%20prep.jpeg)
 
 He also preapred all the fasteners required for each different assemblies.
 
-![]()
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/prep%20fastener.jpeg)
 
 He made a new cover for the Raspberry Pi as we will be using the Pi shield Wen Da bought.
 
 Pi shield:
 
-![]()
+![](https://github.com/wendahere/GoGetter/blob/master/Images/Allen's%20images/Week%2021/Pi%20shield.jpg?raw=true)
 
 Pi cover:
 
@@ -3853,9 +3865,9 @@ Pi cover:
 
 Allen also made acrylic spacers for the PCB holder, because the screws and nuts used to mount the PCB onto the PCB holder makes the base of the assembled PCB holder uneven, therefore, the 3mm spacers can help to offset and make the base flat when the holder is assembled onto the shelf of the vending machine.
 
-![]()
+3mm acrylic spacers 
 
-![]()
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/acrylic%20spacer.jpeg)
 
 ![]() **pic of spacers assembled onto PCB**
 
