@@ -3833,6 +3833,32 @@ Wen Da Managed to get the Pi to connect to enterprise wifi using this link: http
 
 ### Tuesday 02/02/2021
 
+Allen cleaned up our workspace in T11c in preparation for the delivery of the frame. He put aside the things that need to be assembled neatly at a table.
+
+![]()
+
+He also preapred all the fasteners required for each different assemblies.
+
+![]()
+
+He made a new cover for the Raspberry Pi as we will be using the Pi shield Wen Da bought.
+
+Pi shield:
+
+![]()
+
+Pi cover:
+
+![]() **pic of new cover** 
+
+Allen also made acrylic spacers for the PCB holder, because the screws and nuts used to mount the PCB onto the PCB holder makes the base of the assembled PCB holder uneven, therefore, the 3mm spacers can help to offset and make the base flat when the holder is assembled onto the shelf of the vending machine.
+
+![]()
+
+![]()
+
+![]() **pic of spacers assembled onto PCB**
+
 ### Wednesday 03/02/2021
 
 ### Thursday 04/02/2021
