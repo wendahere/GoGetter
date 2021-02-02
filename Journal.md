@@ -3827,6 +3827,8 @@ Allen and Wen Da taped up the screws and holes and dismantled the vending machin
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Masking.jpg)
 
+Allen also changed the screw used for the coil support extensions from M4x10 socket head screws to M4x10 countersunk screws. 
+
 Wen Da Managed to get the Pi to connect to enterprise wifi using this link: https://raspberrypi.stackexchange.com/questions/60492/how-do-i-connect-to-wifi-when-it-is-grayed-out
 
 ### Tuesday 02/02/2021
