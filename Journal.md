@@ -3850,6 +3850,8 @@ Wen Da Managed to get the Pi to connect to enterprise wifi using this link: http
 
 ### Tuesday 02/02/2021
 
+Wen Da did spray painting for the PSU Housing.
+
 Allen cleaned up our workspace in T11c in preparation for the delivery of the frame. He put aside the things that need to be assembled neatly at a table.
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/parts%20prep.jpeg)
@@ -3899,7 +3901,33 @@ To ensure that the engraved item labels is prominent, Allen used markers to shad
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/WhatsApp%20Image%202021-02-03%20at%2020.33.34.jpeg)
 
+Wen Da managed to get autostart up program working. 
+
+Configure auto start following these instructions:
+
+In Terminal, type and enter
+
+“sudo nano /etc/xdg/lxsession/LXDE/autostart“
+
+In the text editor, ensure that the file is exactly as below:
+
+”
+
+@lxpanel --profile LXDE
+
+@pcmanfm --desktop --profile LXDE
+
+@/home/pi/Desktop/VendingMachine/main.py
+
+@xscreensaver -no-splash
+
+”
+
+The line “@/home/pi/Desktop/VendingMachine/main.py” is the path to the code, main.py.
+
 ### Thursday 04/02/2021
+
+Wen Da tested all the wiring for the Pi and put the cable label on the motor cables. Allen and Wen Da went to buy spray paint to spray the keycaps and also put Vinyl on the keycaps before spray painting.
 
 ### Friday 05/02/2021
 
