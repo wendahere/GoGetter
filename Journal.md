@@ -3692,17 +3692,22 @@ As the VLC Player is an external audio player, the leakage does not interfere wi
 
 Allen designed and made a holder and a cover for our Raspberry Pi.
 
-Pi holder:
+CAD model of Pi holder:
+
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20holder.jpg)
 
 **show actual**
 
-Pi cover:
+CAD model of Pi cover:
+
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20cover.jpg)
 
-**show actual**
+Actual Pi cover:
 
-Pi holder assembly:
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20cover%20actual.jpg)
+
+CAD model of Pi holder assembly:
+
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20holder%20assembly.jpg)
 
 **show actual**
@@ -3869,9 +3874,30 @@ Allen also made acrylic spacers for the PCB holder, because the screws and nuts 
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/acrylic%20spacer.jpeg)
 
-![]() **pic of spacers assembled onto PCB**
+The 3mm spacers (green arrow) are thick enough to compensate for the protusion of the bolts and nuts used to secure the PCB cover onto the PCB holder.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Spacer%20assembled.jpg) 
+
+Assembly of the spacers:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Spacer%20assembled%202.jpg) 
 
 ### Wednesday 03/02/2021
+
+Today, Allen designed the sticker that will be applied on the right side of the vending machine. GOS has sent us a draft of how they envision the sticker to look like. Allen made the necessary adjustements such as font size, logo placement.
+
+Trying different configurations:
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Sticker%20making%201.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Sticker%20making%202.jpg) ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Sticker%20making%203.jpg)
+
+Here is the first draft of the sticker.
+![](https://github.com/wendahere/GoGetter/blob/master/Images/Allen's%20images/Week%2021/First%20draft%20for%20CAD%20decal.png?raw=true)
+
+Allen also cut the bottom collection point panel as well as the ramps and acrylic handles that will be part of the final assembly.
+
+To ensure that the engraved item labels is prominent, Allen used markers to shade the engraved text on all three handles to their respective colours.
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/WhatsApp%20Image%202021-02-03%20at%2020.33.34.jpeg)
 
 ### Thursday 04/02/2021
 
