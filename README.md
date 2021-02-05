@@ -28,4 +28,4 @@ To design and build a low cost, reliable and user friendly Gift Vending Machine 
 relevant items that match students’ accumulated points. This is to encourage good
 behaviours among students and afford staff efficiency in administrating the reward system.
 
-Read Journal.md to read our progress
+Read [Journal.md](https://github.com/wendahere/GoGetter/blob/master/Journal.md) to read our progress
