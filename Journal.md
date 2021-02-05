@@ -3816,7 +3816,13 @@ One of the front handles was also made with 3mm clear acrylic, and had the item 
 
 Wen Da drilled holes into the shelf to allow for the mounting of the PSU box and PCB holder. He also drilled holes in one of the feed trays to mount a buck converter on it. Then he organised the wires using wire wraps and braided cables.
 
-**show pic of wire organisation with wire wrap and braided cable**
+Wires of LED covered in braided cable
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/barided%20cable%20led.jpg)
+
+Wires of motors wrapped in cable wrap
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2020/Wire%20wrap.jpg)
 
 ### Thursday 28/01/2021
 
@@ -3868,7 +3874,7 @@ Pi shield:
 
 Pi cover:
 
-![]() **pic of new cover** 
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/new%20Pi%20cover.jpg)  
 
 Allen also made acrylic spacers for the PCB holder, because the screws and nuts used to mount the PCB onto the PCB holder makes the base of the assembled PCB holder uneven, therefore, the 3mm spacers can help to offset and make the base flat when the holder is assembled onto the shelf of the vending machine.
 
@@ -3928,6 +3934,48 @@ The line “@/home/pi/Desktop/VendingMachine/main.py” is the path to the code,
 ### Thursday 04/02/2021
 
 Wen Da tested all the wiring for the Pi and put the cable label on the motor cables. Allen and Wen Da went to buy spray paint to spray the keycaps and also put Vinyl on the keycaps before spray painting.
+
+Silhouette Cameo Cutter
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Vinyl%20cutter.jpg)
+
+Design template in Silhouette Studio software
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Silhouette%20studio.jpg)
+
+Cut vinyl
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Cut%20vinyl.jpg)
+
+Stick vinyl template onto keycap
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/vinyl%20stencil%201.jpg)
+
+Remove unecessary vinvyl, leaving the required stencil on the keycap
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/vinyl%20stencil%202.jpg)
+
+Keycaps after spraying
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Spray%20paint.jpg)
+
+Allen made a final Pi cover. He also cut and bent the ramps. And he also made cushions for the collection point panels.
+
+4mm thick foam is cut to size and glued together 
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Double%20layer%20foam.jpeg)
+
+Felt is cut to shape
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Cut%20felt.jpg)
+
+Felt is glued to the foam
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/felt%20stuck%20on%20foam.jpeg)
+
+Finished cushions for collection point panels
+
+![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2021/Cushion.jpg)
 
 ### Friday 05/02/2021
 
