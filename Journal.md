@@ -3979,6 +3979,8 @@ Finished cushions for collection point panels
 
 ### Friday 05/02/2021
 
+Allen and Wen Da sprayed the keycaps again. They also printed a sticker for the front side of the PSU cover. 
+
 ## Week 22 (08/02/2021 to 10/20/2021)
 
 ### Monday 08/02/2021
