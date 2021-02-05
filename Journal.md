@@ -1,5 +1,9 @@
 This markdown file is used to record weekly progress for Grace Orchard School Vending Machine group. More details can be found in the meeting minutes.
 
+To jump to a specific week, click at any week below:
+
+[Week 1](); [Week 2](); [Week 3](); [Week 4](); [Week 5](); [Week 6](); [Week 7](); [Week 8](); [Week 9](); [Week 10](); [Week 11](); [Week 12](); [Week 13](); [Week 14](); [Week 15](); [Week 16](); [Week 17](); [Week 18](); [Week 19](); [Week 20](); [Week 21](); [Week 22]();
+
 ## Week 0 (31/08/20 to 13/09/20)
 
 On 02/09/2020 Meeting with project supervisor, Mr Soh for Project Kick Off, on Microsoft teams, at 19:40.
