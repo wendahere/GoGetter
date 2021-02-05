@@ -2,7 +2,7 @@ This markdown file is used to record weekly progress for Grace Orchard School Ve
 
 To jump to a specific week, click at any week below:
 
-[Week 1](); [Week 2](); [Week 3](); [Week 4](); [Week 5](); [Week 6](); [Week 7](); [Week 8](); [Week 9](); [Week 10](); [Week 11](); [Week 12](); [Week 13](); [Week 14](); [Week 15](); [Week 16](); [Week 17](); [Week 18](); [Week 19](); [Week 20](); [Week 21](); [Week 22]();
+[Week 0](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-0-310820-to-130920); [Week 1](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-1-13092020-to-19092020); [Week 2](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-3-27092020-to-03102020); [Week 3](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-3-27092020-to-03102020); [Week 4](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-4-04102020-to-10102020); [Week 5](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-5-11102020-to-17102020); [Week 6](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-6-18102020-to-24102020); [Week 7](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-7-25102020-to-31102020); [Week 8](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-8-2112020-to-7112020); [Week 9](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-9-9112020-to-13112020); [Week 10](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-10-16112020-to-21112020); [Week 11](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-11-23112020-to-28112020); [Week 12](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-12-30112020-to-05122020); [Week 13](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-13-07122020-to-12122020); [Week 14](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-14-14122020-to-19122020); [Week 15](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-15-21122020-to-28122020); [Week 16](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-16-28122020-to-312021); [Week 17](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-17-4012021-to-10012021); [Week 18](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-18-11012021-to-17012021); [Week 19](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-19-18012021-to-24012021); [Week 20](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-20-25012021-to-31012021); [Week 21](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-21-01022021-to-07022021); [Week 22](https://github.com/wendahere/GoGetter/blob/master/Journal.md#week-22-08022021-to-10202021);
 
 ## Week 0 (31/08/20 to 13/09/20)
 
@@ -3700,8 +3700,6 @@ CAD model of Pi holder:
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20holder.jpg)
 
-**show actual**
-
 CAD model of Pi cover:
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20cover.jpg)
@@ -3713,8 +3711,6 @@ Actual Pi cover:
 CAD model of Pi holder assembly:
 
 ![](https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/Allen's%20images/Week%2019/Pi%20holder%20assembly.jpg)
-
-**show actual**
 
 Then he drilled holes into the IO door where the Pi holder will be mounted on.
 
