@@ -3985,7 +3985,13 @@ Allen and Wen Da sprayed the keycaps again. They also printed a sticker for the 
 
 ### Monday 08/02/2021
 
+Allen and Wen Da worked on the keycaps. They went to artfriend to buy spray paints.
+
 ### Tuesday 09/02/2021
+
+Allen and Wen Da learned that since the keycaps are ABS, they can laser engrave, from Mr Louis from Fablab. They painted those keycaps required, laser engraved and used a marker to color the engraved part black. They went to artfriend and electronics store to buy more paint and micro usb wires.
+
+Wen Da tested the motor and realised that the PCB was not working. The 5v portion in the PCB was not 5v. It was very small. However, the output FROM the Pi was 5v. It turned out that the ground wire from the PCB to the Pi was faulty. Wen Da redid the dupon wire and it worked again.
 
 ### Wednesday 10/02/2021
 
