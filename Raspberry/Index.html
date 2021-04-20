@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<head>
+
+
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <base target="_top">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
+    <style>
+
+
+
+
+  .button:hover {
+  background-color: ##FFFFFF; 
+  color: white;
+  }
+
+
+  .button {
+  background-color: #e7e7e7;
+  border-color: #000000;
+  color: black;
+  padding: 15px 32px;
+  border-radius: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  } 
+    
+        body {
+            font-family: 'Montserrat', sans-serif;
+            background-image: url("https://raw.githubusercontent.com/wendahere/GoGetter/master/Images/HTML/Background%20w%20G2GO%20.jpg");
+            background-color: #FFFFFF;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.0/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+
+    <script>
+        $(document).ready(function() {
+            $('.tabs').tabs();
+        });
+    </script>
+    
+    
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            var optionsDropDown = google.script.run.withSuccessHandler(function(value) {
+
+                var optionsJSON = value;
+                $.each(optionsJSON, function(index, data) {
+                    $('#optionsSelect').append($('<option/>', {
+                        value: data,
+                        text: data
+                    }));
+                });
+
+                var elems = document.querySelectorAll('select');
+                var instances = M.FormSelect.init(elems);
+            }).getYearsForHTML()
+        });
+    </script>
+    
+    <script>
+        function changeFunction() {
+                var e = document.getElementById("optionsSelect");
+                document.getElementById("s2").innerHTML = null;
+                var year = e.options[e.selectedIndex].text;
+                var optionsDropDown = google.script.run.withSuccessHandler(function(value) {
+
+                var optionsJSON = value;
+                $.each(optionsJSON, function(index, data) {
+                    $('#s2').append($('<option/>', {
+                        value: data,
+                        text: data
+                    }));
+                });
+
+                var elems = document.querySelectorAll('select');
+                var instances = M.FormSelect.init(elems);
+            }).getClasses("database", year)
+        }
+    </script>
+
+    <script>
+        function changeFunctions3() {
+                var s2 = document.getElementById("s2");
+                var className = s2.options[s2.selectedIndex].text;
+                var e = document.getElementById("optionsSelect");
+                document.getElementById("s3").innerHTML = null;
+                var year = e.options[e.selectedIndex].text;
+                
+                var optionsDropDown = google.script.run.withSuccessHandler(function(value) {
+
+                var optionsJSON = value;
+                $.each(optionsJSON, function(index, data) {
+                    $('#s3').append($('<option/>', {
+                        value: data,
+                        text: data
+                    }));
+                });
+
+                var elems = document.querySelectorAll('select');
+                var instances = M.FormSelect.init(elems);
+            }).getNames(year, className)
+        }
+    </script>
+
+</head>
+
+<body>
+
+    <div class="container">
+        <div class="row">
+            <div class="col s12 m6 l4 offset-m3 offset-l4">
+                <h2 class="light">Hero Chop Interface<br></h2>
+            </div>
+        </div>
+
+        <!-- <div class="col s12 center">
+            <ul class="tabs">
+                <li class="tab col s6"><a class="active" href="#chipsTab">unusedtab</a></li>
+                <li class="tab col s6"><a href="#selectTab">Select</a></li>
+            </ul>
+        </div> -->
+
+        <!-- <div class="row">
+            <div class="col s12 m6 l4 offset-m3 offset-l4">
+                <h3 class="light"><br></h3>
+            </div>
+        </div> -->
+
+        <!-- <div id="chipsTab" class="col s12">
+            <div class="row">
+                <div class="col s6 m6 l4 offset-s3 offset-m3 offset-l4">
+                    <div class="chips chips-autocomplete" id="enteredOptions"></div>
+                    <label>Please select your options.</label>
+                </div>
+            </div>
+        </div> -->
+
+        <div id="selectTab" class="col s12">
+            <div class="row">
+                <div class="input-field col s6 m6 l4 offset-s3 offset-m3 offset-l4">
+                    <select id="optionsSelect" >
+                        <option value="" disabled selected>Choose your option</option>
+
+                    </select>
+                  <div>
+                    <select id="s2">
+                    </select>
+                    <label>Select Year</label>
+                  </div>
+
+                  <div>
+                    <select id="s3">
+                    </select>
+                  </div>
+
+                </div>
+                <br><br>
+                <button id="buttons1" onclick="changeFunction()" >Submit Year</button> <br><br>
+                <button id="button2" onclick="changeFunctions3()" >Submit Class</button> <br><br>
+                <button id="buttonName" onclick="callGetPoints()" >Submit Name</button> <br><br>
+                
+                <div>
+                <p id="demo" onclick="myFunction()"></p> <br><br>
+                </div>
+
+                <p style="color:black;font-size:25px;" id="htmlPoints"> Current Points: </p> 
+                <p style="color:black;font-size:25px;" id="ffpoints"> Type in New Total Points </p> 
+
+
+             <form>
+              <label for="fpoints"></label>
+              
+              <input type="text" id="fpoints" name="fpoints"><br><br>
+             </form>
+
+             <p   style="text-align:center;" >
+                <button class="button" button id="button4" onclick="editPoints()" >Submit Points</button> 
+                </p>
+                <div>
+             <p style="color:black;font-size:35px;" id="ffpoints"> Remember to give your SPFs </p> 
+             </div>
+
+                <script>
+                  
+                const button = document.getElementById('button');
+                var e = document.getElementById("optionsSelect");
+                var s2 = document.getElementById("s2");
+                var s3 = document.getElementById("s3");
+                
+                
+//                button.addEventListener('click', myFunction, false);
+
+                function myFunction() {
+                //google.script.run.Function("test at logger"); 
+
+                
+                var year = e.options[e.selectedIndex].text;
+
+                
+                var s2t = s2.options[s2.selectedIndex].text;
+                
+
+                
+                var studentNamet = s3.options[s3.selectedIndex].text;
+                
+                
+                var points = document.getElementById("fpoints").value;
+                }
+
+                function callGetPoints(){
+
+                  
+                  var year = e.options[e.selectedIndex].text;
+
+                  
+                  var s2t = s2.options[s2.selectedIndex].text;
+                 
+
+                  
+                  var studentNamet = s3.options[s3.selectedIndex].text;
+                  
+
+                  google.script.run.withSuccessHandler(displayPoints).getPoints(year, s2t, studentNamet);
+
+                }
+
+                function displayPoints(numPoints){
+                  document.getElementById("htmlPoints").innerHTML = "Current Points: "+numPoints;
+
+                }
+                
+                function displayPoints2(numPoints){
+                  document.getElementById("htmlPoints").innerHTML = "Current Points: "+numPoints;
+
+                }
+                function editPoints(){
+
+                  
+                  var year = e.options[e.selectedIndex].text;
+
+                  
+                  var s2t = s2.options[s2.selectedIndex].text;
+                  
+
+                  
+                  var studentNamet = s3.options[s3.selectedIndex].text;
+                  
+                  
+                  
+
+                  var newPoints = document.getElementById('fpoints').value;
+                  console.log(newPoints);
+
+                  google.script.run.withSuccessHandler(displayPoints2).editPoints("database", year, s2t, studentNamet, newPoints);
+                  // "Year 2", "A", "Wendy", newPoints);
+                  // year, s2t, studentNamet, newPoints);
+
+                }
+            
+                       
+                       
+                       
+                 </script>
+
+
+            </div>
+
+        </div>
+
+
+    </div>
+
+</body>
+
+</html>
