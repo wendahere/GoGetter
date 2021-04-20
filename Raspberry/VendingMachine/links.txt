@@ -1,0 +1,7 @@
+https://www.raspberrypi-spy.co.uk/2015/05/adding-a-ds3231-real-time-clock-to-the-raspberry-pi/
+
+for gpio pinout ^
+
+https://www.seeedstudio.com/blog/2020/07/07/raspberry-pi-rtc-tutorial-using-ds1307-and-ds3231-rtcs-with-raspberry-pi-m/
+
+main ^
